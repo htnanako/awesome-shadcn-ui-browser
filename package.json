@@ -1,0 +1,30 @@
+{
+  "name": "awesome-shadcn-ui-manager",
+  "version": "1.0.0",
+  "description": "一个用于管理和浏览 awesome-shadcn-ui 组件的完整工具集",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node generate-json.js && node component-manager.js all && node generate-advanced-reports.js",
+    "stats": "node component-manager.js stats",
+    "search": "node component-manager.js search",
+    "reports": "node component-manager.js all && node generate-advanced-reports.js",
+    "web": "node web-server.js",
+    "web:open": "node web-server.js --open",
+    "download": "node download-components.js",
+    "help": "node component-manager.js help"
+  },
+  "keywords": [
+    "shadcn",
+    "shadcn-ui",
+    "react",
+    "components",
+    "ui",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/birobirobiro/awesome-shadcn-ui"
+  }
+}

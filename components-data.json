@@ -1,0 +1,3494 @@
+[
+  {
+    "name": "21st.dev",
+    "description": "shadcn/ui 组件的开源 npm 库。同时也是设计工程师的 Dribble。通过 shadcn CLI 安装 UI 组件，或发布你自己的组件。",
+    "link": "https://21st.dev/",
+    "date": "2024-12-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "21st-dev"
+  },
+  {
+    "name": "8bitcn.com",
+    "description": "一套复古风格设计的无障碍组件和代码分发平台。开源。开放代码。",
+    "link": "https://www.8bitcn.com/",
+    "date": "2025-04-12",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "8bitcn-com"
+  },
+  {
+    "name": "aceternity-ui",
+    "description": "复制粘贴最流行的 React 组件，无需担心样式和动画问题。",
+    "link": "https://ui.aceternity.com/",
+    "date": "2024-12-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "aceternity-ui"
+  },
+  {
+    "name": "animated-header",
+    "description": "类似 Vercel 的动画标题。",
+    "link": "https://github.com/mehrdadrafiee/animated-header",
+    "date": "2025-10-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "animated-header"
+  },
+  {
+    "name": "animated-tabs",
+    "description": "类似 Vercel 的动画标签页。",
+    "link": "https://github.com/mehrdadrafiee/animated-tabs",
+    "date": "2025-04-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "animated-tabs"
+  },
+  {
+    "name": "assistant-ui",
+    "description": "用于 AI 聊天的 React 组件。",
+    "link": "https://github.com/Yonom/assistant-ui",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "assistant-ui"
+  },
+  {
+    "name": "audio/ui",
+    "description": "一套无障碍且可组合的音频 UI 组件。基于 shadcn/ui 构建,旨在让您复制、粘贴并拥有。",
+    "link": "https://github.com/ouestlabs/audio-ui",
+    "date": "2025-11-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "audio-ui"
+  },
+  {
+    "name": "autocomplete-select-shadcn-ui",
+    "description": "使用 shadcn/ui 和 Maximilian Kaske 的 Fancy Multi Select 构建的自动完成组件。",
+    "link": "https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "autocomplete-select-shadcn-ui"
+  },
+  {
+    "name": "auto-form",
+    "description": "一个基于 zod 模式自动创建 shadcn/ui 表单的 React 组件。",
+    "link": "https://github.com/vantezzen/auto-form",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "auto-form"
+  },
+  {
+    "name": "async-select",
+    "description": "使用 shadcn/ui 构建的带防抖搜索功能的异步选择组件。",
+    "link": "https://async.rdsx.dev",
+    "date": "2024-07-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "async-select"
+  },
+  {
+    "name": "berlix",
+    "description": "使用 Tailwind CSS 和 Motion 构建的动画组件库",
+    "link": "https://berlix.vercel.app",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "berlix"
+  },
+  {
+    "name": "big-calendar",
+    "description": "一个使用 Next.js、TypeScript 和 Tailwind CSS 构建的现代化、功能丰富的日历应用程序，具有多种查看选项",
+    "link": "https://github.com/lramos33/big-calendar",
+    "date": "2025-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "big-calendar"
+  },
+  {
+    "name": "billingsdk",
+    "description": "现代化、类型安全的 React 账单和订阅管理组件,使用 TypeScript 和 Tailwind CSS 构建,由 Dodo Payments 开发,旨在与 shadcn/ui 无缝协作。",
+    "link": "https://billingsdk.com/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "billingsdk"
+  },
+  {
+    "name": "billui",
+    "description": "基于 Shadcn 构建的 React 开源计费组件。包含价格卡片、支付方式、发票历史记录等功能。",
+    "link": "https://github.com/commet-labs/billui",
+    "date": "2025-12-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "billui"
+  },
+  {
+    "name": "blocks.so",
+    "description": "一套简洁、现代的构建模块,可复制粘贴到您的应用中。适用于所有 React 框架。",
+    "link": "https://github.com/ephraimduncan/blocks",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "blocks-so"
+  },
+  {
+    "name": "buouui",
+    "description": "一个基于 shadcn/ui 的 UI 组件库和模板套件，具有精美的落地页、模板和丰富的动画效果。",
+    "link": "https://buouui.com",
+    "date": "2025-04-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "buouui"
+  },
+  {
+    "name": "bundui",
+    "description": "一个使用 Tailwind CSS 和 Framer Motion 构建的可复用动画组件集合。",
+    "link": "https://bundui.io",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "bundui"
+  },
+  {
+    "name": "calendar",
+    "description": "React/shadcn 全日历，类似 Google 日历",
+    "link": "https://github.com/charlietlamb/calendar",
+    "date": "2024-05-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "calendar"
+  },
+  {
+    "name": "capture-photo",
+    "description": "基于浏览器的 React 组件,用于在 Web 应用程序中实现相机功能。",
+    "link": "https://github.com/UretzkyZvi/capture-photo",
+    "date": "2024-05-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "capture-photo"
+  },
+  {
+    "name": "carouselcn",
+    "description": "复制粘贴轮播组件和示例到你的 React 应用",
+    "link": "https://github.com/mnove/carouselcn",
+    "date": "2026-01-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "carouselcn"
+  },
+  {
+    "name": "cascader-shadcn",
+    "description": "一个用于选择层级数据(如位置、类别或组织结构)的级联下拉菜单组件。",
+    "link": "https://github.com/Ademking/cascader-shadcn",
+    "date": "2025-12-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "cascader-shadcn"
+  },
+  {
+    "name": "clerk-elements",
+    "description": "可组合的组件，用于在 Clerk 的 API 之上构建自定义 UI。",
+    "link": "https://clerk.com/docs/elements/examples/shadcn-ui",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "clerk-elements"
+  },
+  {
+    "name": "clerk-shadcn-theme",
+    "description": "将 Clerk SignIn/SignUp 组件与 shadcn/ui 样式同步。",
+    "link": "https://github.com/stormynight9/clerk-shadcn-theme",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "clerk-shadcn-theme"
+  },
+  {
+    "name": "commerce-ui",
+    "description": "用于构建电子商务店面和应用程序的组件、块和示例。",
+    "link": "https://github.com/stackzero-labs/ui",
+    "date": "2025-02-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "commerce-ui"
+  },
+  {
+    "name": "confirm-dialog",
+    "description": "一个使用 shadcn/ui 构建的确认对话框组件。",
+    "link": "https://github.com/Aslam97/react-confirm-dialog",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "confirm-dialog"
+  },
+  {
+    "name": "country-state-dropdown",
+    "description": "使用 Nextjs、Tailwindcss、shadcn/ui 和 Zustand 构建的组件。",
+    "link": "https://github.com/Jayprecode/country-state-dropdown",
+    "date": "2024-02-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "country-state-dropdown"
+  },
+  {
+    "name": "creatorem/ui",
+    "description": "缺少出色的 shadcn 组件(如 Tour、Stepper、QRCode、Motion Dialog -> 以模仿原生行为……),这些组件基于 radix 原语和 motion 构建。",
+    "link": "https://github.com/creatorem/ui",
+    "date": "2025-12-19",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "creatorem-ui"
+  },
+  {
+    "name": "credenza",
+    "description": "为 shadcn/ui 提供的现成响应式模态框组件。",
+    "link": "https://github.com/redpangilinan/credenza",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "credenza"
+  },
+  {
+    "name": "crypto-charts",
+    "description": "使用 PythNetwork 为 shadcn/ui 制作的加密货币图表。",
+    "link": "https://github.com/jstnw10/crypto-charts",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "crypto-charts"
+  },
+  {
+    "name": "cult-ui",
+    "description": "精选的动画 shadcn 风格 React 组件集合。",
+    "link": "https://www.cult-ui.com/",
+    "date": "2024-05-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "cult-ui"
+  },
+  {
+    "name": "custom-admin-dashboard",
+    "description": "一个使用 shadcn/ui 和 Next.js 构建的极简开源电商管理后台模板，包含产品、产品创建和详情页面、订单、客户和设置页面。",
+    "link": "https://github.com/S5SAJID/custom-ecom",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "custom-admin-dashboard"
+  },
+  {
+    "name": "data-command",
+    "description": "用于构建具有 API 驱动数据的动态命令面板的组件。",
+    "link": "https://shadcn.davidsling.in/components/data-command",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "data-command"
+  },
+  {
+    "name": "date-range-picker-for-shadcn",
+    "description": "多月视图、文本输入、预设范围、响应式设计和日期范围比较。",
+    "link": "https://github.com/johnpolacek/date-range-picker-for-shadcn",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "date-range-picker-for-shadcn"
+  },
+  {
+    "name": "date-time-picker-shadcn",
+    "description": "shadNext 项目的日期时间选择器。",
+    "link": "https://shadcn-datetime-picker.vercel.app",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "date-time-picker-shadcn"
+  },
+  {
+    "name": "date-time-range-picker-shadcn",
+    "description": "功能齐全的日期时间范围选择器，支持多月视图、时区支持、预设范围以及用于日期和时间选择的模块化组件。",
+    "link": "https://date-time-range-picker.vercel.app/",
+    "date": "2025-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "date-time-range-picker-shadcn"
+  },
+  {
+    "name": "datetime-picker",
+    "description": "日期时间选择器，支持时区、最小/最大日期以及月份/年份选择。",
+    "link": "https://shadcn-datetime-picker-xi.vercel.app",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "datetime-picker"
+  },
+  {
+    "name": "dnd-dashboard",
+    "description": "使用 Next.js、shadcn/ui 和 swapy 实现的可拖拽交换布局的仪表板。",
+    "link": "https://github.com/olliethedev/dnd-dashboard",
+    "date": "2024-10-17",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "dnd-dashboard"
+  },
+  {
+    "name": "downshift-shadcn-combobox",
+    "description": "使用 shadcn/ui 和 Downshift 构建的组合框/自动完成组件。",
+    "link": "https://github.com/TheOmer77/downshift-shadcn-combobox",
+    "date": "2024-06-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "downshift-shadcn-combobox"
+  },
+  {
+    "name": "drag-to-resize-sidebar",
+    "description": "扩展的 shadcn/ui 侧边栏组件，具有持久化状态的拖拽调整大小功能。",
+    "link": "https://github.com/lumpinif/drag-to-resize-sidebar",
+    "date": "2024-11-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "drag-to-resize-sidebar"
+  },
+  {
+    "name": "druid/ui",
+    "description": "基于 shadcn/ui 构建的 Intercom 风格 AI 聊天机器人和 UI 组件。",
+    "link": "https://druidui.com/",
+    "date": "2024-11-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "druid-ui"
+  },
+  {
+    "name": "drop-drawer",
+    "description": "桌面上的下拉菜单和移动设备上的抽屉菜单。",
+    "link": "https://github.com/jiaweing/DropDrawer",
+    "date": "2025-05-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "drop-drawer"
+  },
+  {
+    "name": "dy-comps",
+    "description": "shacn/ui 和 Framer Motion React 组件——灵活、响应式且易于集成到任何项目中。",
+    "link": "https://dycomps.oimmi.com/",
+    "date": "2025-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "dy-comps"
+  },
+  {
+    "name": "dynamic-svg-arrow",
+    "description": "使用美观的动画路径连接任意两个元素。实时控制曲线形状、路由、分层、箭头、渐变和响应式行为。",
+    "link": "https://dsa.hncore.website/",
+    "date": "2025-10-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "dynamic-svg-arrow"
+  },
+  {
+    "name": "echo-editor",
+    "description": "基于 tiptap 和 shadcn/ui 的现代所见即所得富文本编辑器",
+    "link": "https://github.com/Seedsa/echo-editor",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "echo-editor"
+  },
+  {
+    "name": "edil-ozi",
+    "description": "使用 Gsap、framer motion 和 tailwind 的 React 组件。",
+    "link": "https://edilozi.pro/",
+    "date": "2024-06-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "edil-ozi"
+  },
+  {
+    "name": "eldora-ui",
+    "description": "使用 React、Typescript、Tailwind CSS 和 Framer Motion 构建的免费开源动画组件。",
+    "link": "https://eldoraui.site/",
+    "date": "2024-12-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "eldora-ui"
+  },
+  {
+    "name": "emblor",
+    "description": "可自定义、可访问的标签输入组件，基于 shadcn/ui。",
+    "link": "https://github.com/JaleelB/emblor",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "emblor"
+  },
+  {
+    "name": "enhanced-button",
+    "description": "增强版的默认 shadcn-button 组件。",
+    "link": "https://github.com/jakobhoeg/enhanced-button",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "enhanced-button"
+  },
+  {
+    "name": "envin",
+    "description": "框架无关、类型安全的工具，用于验证和预览您的环境变量 - 由您喜爱的模式验证器提供支持。",
+    "link": "https://envin.turbostarter.dev",
+    "date": "2025-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "envin"
+  },
+  {
+    "name": "eo-n/ui",
+    "description": "增强的 UI 组件基于 shadcn 的强大基础构建，集成了 Base UI 和 Tailwind CSS，打造现代化且可自定义的设计系统。",
+    "link": "https://github.com/aeonzz/eo-n",
+    "date": "2025-04-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "eo-n-ui"
+  },
+  {
+    "name": "event-timeline-roadmap",
+    "description": "一对可自定义的动画事件时间轴和路线图组件",
+    "link": "https://roadmap.hncore.website/",
+    "date": "2025-04-01",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "event-timeline-roadmap"
+  },
+  {
+    "name": "extend-ui",
+    "description": "基于 shadcn/ui 构建的可复用组件，用于 Web 应用程序。",
+    "link": "https://www.extend-ui.com/",
+    "date": "2024-11-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "extend-ui"
+  },
+  {
+    "name": "fancy-area",
+    "description": "支持 @提及功能的文本域，灵感来自 GitHub 的 PR 评论区。",
+    "link": "https://craft.mxkaske.dev/post/fancy-area",
+    "date": "2024-06-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-area"
+  },
+  {
+    "name": "fancy-box",
+    "description": "受 GitHub PR 标签选择器启发的 Combobox 组合框，使用 radix-ui 组件构建。",
+    "link": "https://craft.mxkaske.dev/post/fancy-box",
+    "date": "2024-07-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-box"
+  },
+  {
+    "name": "fancy-multi-select",
+    "description": "多选组件的灵感来自 campsite.design 和 cal.com。",
+    "link": "https://craft.mxkaske.dev/post/fancy-multi-select",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-multi-select"
+  },
+  {
+    "name": "fancy-switch",
+    "description": "使用 shadcn/ui 构建的精美开关组件。",
+    "link": "https://github.com/Aslam97/react-fancy-switch",
+    "date": "2024-07-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-switch"
+  },
+  {
+    "name": "farmui",
+    "description": "带有 npm 包支持的样式化和动画组件库。",
+    "link": "https://farmui.com",
+    "date": "2024-06-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "farmui"
+  },
+  {
+    "name": "file-uploader",
+    "description": "使用 shadcn/ui 和 react-dropzone 的文件上传器。",
+    "link": "https://github.com/sadmann7/file-uploader",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "file-uploader"
+  },
+  {
+    "name": "file-vault",
+    "description": "React 文件上传组件。",
+    "link": "https://github.com/ManishBisht777/file-vault",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "file-vault"
+  },
+  {
+    "name": "floating-dragable-card",
+    "description": "使用 shadcn/ui 元素的可拖动和可调整大小的卡片。",
+    "link": "https://github.com/nishansanjuka/react-drag-card",
+    "date": "2024-11-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "floating-dragable-card"
+  },
+  {
+    "name": "fusion-ui",
+    "description": "结合 shadcn/ui 和 MagicUI 的库。",
+    "link": "https://github.com/nyxb-ui/ui",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fusion-ui"
+  },
+  {
+    "name": "glasscn-ui",
+    "description": "shadcn/ui 组件库，带有玻璃态变体和许多额外组件。",
+    "link": "https://github.com/itsjavi/glasscn-ui",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "glasscn-ui"
+  },
+  {
+    "name": "gluestack-ui",
+    "description": "使用 Tailwind CSS 构建 React 和 React Native 组件。",
+    "link": "https://gluestack.io",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "gluestack-ui"
+  },
+  {
+    "name": "heroicons-animated",
+    "description": "一个开源的316个精美动画heroicons图标集合，用于您的项目。",
+    "link": "https://heroicons-animated.vercel.app/",
+    "date": "2026-01-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "heroicons-animated"
+  },
+  {
+    "name": "hexta-ui",
+    "description": "轻松构建精美网站。适用于 Next.js 的现代化、响应式且可自定义的 UI 组件。复制、调整并个性化它们。",
+    "link": "https://hextaui.com",
+    "date": "2025-05-14",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "hexta-ui"
+  },
+  {
+    "name": "ibelick/background-snippet",
+    "description": "现成可用的现代背景代码片段集合。",
+    "link": "https://bg.ibelick.com/",
+    "date": "2024-06-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ibelick-background-snippet"
+  },
+  {
+    "name": "image-crop-field",
+    "description": "使用 shadcn/ui 的图像裁剪字段组件。此组件是对 react-easy-crop 组件的封装。",
+    "link": "https://github.com/JsCodeDevlopment/upload-crop-image",
+    "date": "2025-10-01",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "image-crop-field"
+  },
+  {
+    "name": "image-upload-shadcn",
+    "description": "图片上传组件。",
+    "link": "https://github.com/kushagrasarathe/image-upload-shadcn",
+    "date": "2024-10-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "image-upload-shadcn"
+  },
+  {
+    "name": "indie-ui",
+    "description": "具有变体的UI组件。",
+    "link": "https://github.com/Ali-Hussein-dev/indie-ui",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "indie-ui"
+  },
+  {
+    "name": "inspira-ui",
+    "description": "用于 Vue/NuxtJS 中动画界面的 UI 组件",
+    "link": "https://inspira-ui.com/",
+    "date": "2024-10-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "inspira-ui"
+  },
+  {
+    "name": "jolyui",
+    "description": "JolyUI 是一个现代化的 React 组件库，使用 TypeScript、Tailwind CSS 和 Motion 构建。它提供了广泛的可定制和无障碍 UI 组件，帮助您快速高效地构建出色的 Web 应用程序。",
+    "link": "https://github.com/Johuniq/jolyui",
+    "date": "2026-01-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "jolyui"
+  },
+  {
+    "name": "junwen-k/ui-x",
+    "description": "额外的精美设计组件,您可以复制并粘贴到您的应用程序中。可访问。可定制。开源。",
+    "link": "https://ui-x.junwen-k.dev/",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "junwen-k-ui-x"
+  },
+  {
+    "name": "kanban-board",
+    "description": "一个基于 shadcn/ui、使用 React 和 Tailwind CSS 构建的生产就绪看板应用：零依赖、拖放功能、键盘无障碍访问和无缝主题切换。",
+    "link": "https://shadcn-kanban-board.com/",
+    "date": "2025-07-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "kanban-board"
+  },
+  {
+    "name": "kibo-ui",
+    "description": "Kibo UI 旨在成为一个更全面的组件库,可用于构建更复杂的应用程序。",
+    "link": "https://www.kibo-ui.com/overview",
+    "date": "2025-04-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "kibo-ui"
+  },
+  {
+    "name": "kokonut-ui",
+    "description": "免费的现代化可定制 Next.js 组件。",
+    "link": "https://kokonutui.com/",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "kokonut-ui"
+  },
+  {
+    "name": "ktui",
+    "description": "开源的可定制 UI 组件集合，适用于 Tailwind CSS 和原生 JavaScript",
+    "link": "https://github.com/keenthemes/ktui",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ktui"
+  },
+  {
+    "name": "launch-ui",
+    "description": "使用 React、Shadcn/ui 和 Tailwind 的落地页组件。",
+    "link": "https://www.launchuicomponents.com/",
+    "date": "2024-11-12",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "launch-ui"
+  },
+  {
+    "name": "lingua-time",
+    "description": "智能日期时间选择器，支持自然语言输入。",
+    "link": "https://github.com/nainglinnkhant/lingua-time",
+    "date": "2024-10-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "lingua-time"
+  },
+  {
+    "name": "linked-chart",
+    "description": "图表组件与数据表关联。",
+    "link": "https://github.com/ardasisbot/linked-chart",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "linked-chart"
+  },
+  {
+    "name": "lukacho-ui",
+    "description": "下一代UI组件。",
+    "link": "https://ui.lukacho.com/components",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "lukacho-ui"
+  },
+  {
+    "name": "magicui",
+    "description": "用于落地页的 React 组件，使用 tailwindcss + framer motion。",
+    "link": "https://magicui.design",
+    "date": "2024-04-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "magicui"
+  },
+  {
+    "name": "maily.to",
+    "description": "类似 Notion 的强大电子邮件编辑器。",
+    "link": "https://github.com/arikchakma/maily.to",
+    "date": "2024-06-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "maily-to"
+  },
+  {
+    "name": "manfromexistence-ui",
+    "description": "用于构建精美设计的组件。",
+    "link": "https://github.com/manfromexistence/ui",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "manfromexistence-ui"
+  },
+  {
+    "name": "manifest-ui",
+    "description": "ChatGPT 应用和 MCP 应用的组件。",
+    "link": "https://ui.manifest.build",
+    "date": "2025-12-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "manifest-ui"
+  },
+  {
+    "name": "matsu-theme",
+    "description": "由 Matt Wierzbicki 制作的吉卜力工作室风格 shadcn/ui 主题",
+    "link": "https://matsu-theme.vercel.app/",
+    "date": "2025-04-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "matsu-theme"
+  },
+  {
+    "name": "mindmapcn",
+    "description": "美观的思维导图,与 shadcn/ui 无缝协作。",
+    "link": "https://github.com/SSShooter/mindmapcn",
+    "date": "2026-01-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mindmapcn"
+  },
+  {
+    "name": "minimal-tiptap",
+    "description": "使用 shadcn/ui 和 tiptap 的极简所见即所得编辑器。",
+    "link": "https://github.com/Aslam97/shadcn-minimal-tiptap",
+    "date": "2024-06-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "minimal-tiptap"
+  },
+  {
+    "name": "mixcnui",
+    "description": "适用于 Next.js 的动画组件集合。",
+    "link": "https://github.com/taqui-786/mixcnui",
+    "date": "2024-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mixcnui"
+  },
+  {
+    "name": "modal-control-query",
+    "description": "一个使用查询参数控制 shadcn 模态框组件的钩子",
+    "link": "https://shadcn.davidsling.in/hooks/use-modal-control-query",
+    "date": "2025-11-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "modal-control-query"
+  },
+  {
+    "name": "moleculeui",
+    "description": "一个专注于直观交互和无缝用户体验的现代 React 组件库。",
+    "link": "https://www.moleculeui.design/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "moleculeui"
+  },
+  {
+    "name": "multi-selection",
+    "description": "使用高亮工具管理多选功能。",
+    "link": "https://github.com/sherifawad/multi-selection-with-add-remove",
+    "date": "2025-01-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "multi-selection"
+  },
+  {
+    "name": "mvpblocks",
+    "description": "复制粘贴精美、响应式的组件，无需担心样式或动画。构建更快，启动更早。",
+    "link": "https://blocks.mvp-subha.me",
+    "date": "2025-05-14",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mvpblocks"
+  },
+  {
+    "name": "mynaui",
+    "description": "TailwindCSS 和 shadcn/ui 的 Figma 和 React UI 套件。",
+    "link": "https://mynaui.com/",
+    "date": "2024-06-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mynaui"
+  },
+  {
+    "name": "neobrutalism-components",
+    "description": "新野兽主义风格的 Tailwind React 和 shadcn/ui 组件。",
+    "link": "https://github.com/ekmas/neobrutalism-components",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "neobrutalism-components"
+  },
+  {
+    "name": "nextjs-components",
+    "description": "使用 TypeScript 和 shadcn/ui 的 Next.js 组件。",
+    "link": "https://components.bridger.to/",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-components"
+  },
+  {
+    "name": "nextjs-dnd",
+    "description": "使用 Next.js 和 dnd-kit 实现可排序的拖放功能。",
+    "link": "https://github.com/sujjeee/nextjs-dnd",
+    "date": "2024-04-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-dnd"
+  },
+  {
+    "name": "nextjs-link-pagination",
+    "description": "使用 Next.js 链接和搜索参数进行分页。",
+    "link": "https://shadcn-next-link-pagination.vercel.app",
+    "date": "2024-07-30",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-link-pagination"
+  },
+  {
+    "name": "nextjs-multi-image-upload",
+    "description": "紧凑、响应式的文件上传器，支持 shadcn/ui、React Hook Form 和云存储（S3/R2）。",
+    "link": "https://github.com/jacksonkasi0/nextjs-multi-image-upload",
+    "date": "2025-02-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-multi-image-upload"
+  },
+  {
+    "name": "next-shadcn-dashboard-starter",
+    "description": "使用 Next.js 14 和 Shadcn UI 的管理后台入门模板。",
+    "link": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+    "date": "2024-06-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "next-shadcn-dashboard-starter"
+  },
+  {
+    "name": "next-stepper",
+    "description": "使用 Next.js 和 zustand 构建动态多步骤表单。",
+    "link": "https://github.com/ebulku/next-stepper",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "next-stepper"
+  },
+  {
+    "name": "novel",
+    "description": "Notion 风格的所见即所得编辑器，具有 AI 驱动的自动补全功能。",
+    "link": "https://github.com/steven-tey/novel",
+    "date": "2024-06-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "novel"
+  },
+  {
+    "name": "number-flow",
+    "description": "用于数字过渡和格式化的 React 组件。",
+    "link": "https://number-flow.barvian.me/",
+    "date": "2024-10-17",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "number-flow"
+  },
+  {
+    "name": "origin-ui",
+    "description": "使用 Tailwind CSS 和 Next.js 构建精美的 UI 组件。",
+    "link": "https://originui.com/",
+    "date": "2024-10-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "origin-ui"
+  },
+  {
+    "name": "password-input",
+    "description": "shadcn/ui 自定义密码输入框。",
+    "link": "https://gist.github.com/mjbalcueva/b21f39a8787e558d4c536bf68e267398",
+    "date": "2024-03-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "password-input"
+  },
+  {
+    "name": "payment-gateways",
+    "description": "在 Next.js 14 中集成支付网关。",
+    "link": "https://github.com/PremPrakashCodes/payment-gateways",
+    "date": "2024-08-05",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "payment-gateways"
+  },
+  {
+    "name": "phone-input-shadcn-ui",
+    "description": "使用 shadcn/ui 自定义电话号码组件。",
+    "link": "https://www.armand-salle.fr/post/phone-input-shadcn-ui",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "phone-input-shadcn-ui"
+  },
+  {
+    "name": "pittaya-ui",
+    "description": "一个完全开源的 React UI 库，由 TypeScript 和 Tailwind CSS 驱动。快速、可组合，并且已做好生产准备。",
+    "link": "https://github.com/pittaya-ui/ui-kit",
+    "date": "2026-01-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "pittaya-ui"
+  },
+  {
+    "name": "planner",
+    "description": "适用于 React 的可适配调度组件",
+    "link": "https://github.com/UretzkyZvi/planner",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "planner"
+  },
+  {
+    "name": "plate",
+    "description": "AI驱动的富文本编辑器。",
+    "link": "https://github.com/udecode/plate",
+    "date": "2024-03-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "plate"
+  },
+  {
+    "name": "plate-select-editor",
+    "description": "富多选编辑器。",
+    "link": "https://platejs.org/docs/multi-select",
+    "date": "2024-11-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "plate-select-editor"
+  },
+  {
+    "name": "pqoqubbw",
+    "description": "开源动画图标集合。",
+    "link": "https://icons.pqoqubbw.dev/",
+    "date": "2024-11-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "pqoqubbw"
+  },
+  {
+    "name": "pricing-page-shadcn",
+    "description": "使用 Next.js 14 的可自定义定价页面。",
+    "link": "https://github.com/m4nute/pricing-page-shadcn",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "pricing-page-shadcn"
+  },
+  {
+    "name": "progress-button",
+    "description": "扩展按钮组件，带有进度用户体验。",
+    "link": "https://github.com/tomredman/ProgressButton",
+    "date": "2024-07-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "progress-button"
+  },
+  {
+    "name": "re-ui",
+    "description": "开源的 UI 组件和动画效果集合,使用 React、Typescript、Tailwind CSS 和 Motion 构建,与 shadcn/ui 完美搭配",
+    "link": "https://reui.io/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "re-ui"
+  },
+  {
+    "name": "react-dnd-kit-tailwind-shadcn-ui",
+    "description": "使用 dnd-kit 实现的无障碍看板。",
+    "link": "https://github.com/Georgegriff/react-dnd-kit-tailwind-shadcn-ui",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-dnd-kit-tailwind-shadcn-ui"
+  },
+  {
+    "name": "react-highlight-popover",
+    "description": "用于文本选择弹出框的无头组件。",
+    "link": "https://react-highlight-popover.omsimos.com",
+    "date": "2024-10-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-highlight-popover"
+  },
+  {
+    "name": "react-pdf-flipbook-viewer",
+    "description": "PDF 翻页书查看器,支持缩放和全屏功能。",
+    "link": "https://github.com/mohitkumawat310/react-pdf-flipbook-viewer",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-pdf-flipbook-viewer"
+  },
+  {
+    "name": "react-select",
+    "description": "使用 shadcn 样式的 React-select 库。",
+    "link": "https://gist.github.com/ilkou/7bf2dbd42a7faf70053b43034fc4b5a4",
+    "date": "2024-07-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-select"
+  },
+  {
+    "name": "react-wheel-picker",
+    "description": "适用于 React 的 iOS 风格滚轮选择器,支持平滑惯性滚动和无限循环。",
+    "link": "https://react-wheel-picker.chanhdai.com",
+    "date": "2025-09-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-wheel-picker"
+  },
+  {
+    "name": "recursive-dnd-kanban-board",
+    "description": "递归拖放看板。",
+    "link": "https://github.com/mehrdadrafiee/recursive-dnd-kanban-board",
+    "date": "2024-10-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "recursive-dnd-kanban-board"
+  },
+  {
+    "name": "retro-ui",
+    "description": "一个开源组件库,灵感来自新野兽主义设计系统",
+    "link": "https://retroui.dev",
+    "date": "2025-05-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "retro-ui"
+  },
+  {
+    "name": "roadmap-ui",
+    "description": "交互式路线图的组件",
+    "link": "https://github.com/haydenbleasel/roadmap-ui",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "roadmap-ui"
+  },
+  {
+    "name": "ruixen-ui",
+    "description": "Ruixen UI：轻量级且可自定义的 React 库",
+    "link": "https://github.com/ruixenui/ruixen.com",
+    "date": "2025-12-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ruixen-ui"
+  },
+  {
+    "name": "search-address",
+    "description": "使用 OpenStreetMap 进行交互式地址搜索。",
+    "link": "https://github.com/UretzkyZvi/search-address",
+    "date": "2024-05-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "search-address"
+  },
+  {
+    "name": "shadboard",
+    "description": "一个使用 Next.js 15、React 19、Tailwind CSS v4 和 Shadcn/UI 组件构建的管理仪表板模板，提供入门版和完整版套件，用于构建可扩展、用户友好的 Web 应用程序。",
+    "link": "https://github.com/Qualiora/shadboard",
+    "date": "2025-04-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadboard"
+  },
+  {
+    "name": "shadcn-address-autocomplete",
+    "description": "使用 Google Places API 实现地址自动完成。",
+    "link": "https://github.com/NiazMorshed2007/shadcn-address-autocomplete",
+    "date": "2024-07-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-address-autocomplete"
+  },
+  {
+    "name": "shadcn-admin",
+    "description": "使用 shadcn/ui 和 Vite 构建管理仪表板界面。",
+    "link": "https://github.com/satnaing/shadcn-admin",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-admin"
+  },
+  {
+    "name": "shadcn-admin-kit",
+    "description": "强大的开源 shadcn 组件，用于构建美观的内部工具、管理面板和 React 仪表板",
+    "link": "https://github.com/marmelab/shadcn-admin-kit",
+    "date": "2025-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-admin-kit"
+  },
+  {
+    "name": "shadcn-blocks",
+    "description": "官方预制可自定义组件。",
+    "link": "https://ui.shadcn.com/blocks",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-blocks"
+  },
+  {
+    "name": "shadcn-blocks-com",
+    "description": "使用 shadcn/ui 构建的数百个额外区块。",
+    "link": "https://www.shadcnblocks.com",
+    "date": "2025-02-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-blocks-com"
+  },
+  {
+    "name": "shadcn-builder",
+    "description": "使用易于使用的表单构建器创建美观、响应式的表单，并使用 shadcn/ui 组件生成 React 代码。",
+    "link": "https://www.shadcn-builder.com/?utm_source=github&utm_content=awesome-shadcn-ui",
+    "date": "2025-03-31",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-builder"
+  },
+  {
+    "name": "shadcn-cal",
+    "description": "使用 shadcn/ui 制作的 Cal.com 月历副本。",
+    "link": "https://shadcn-cal-com.vercel.app/?date=2024-04-29",
+    "date": "2024-05-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-cal"
+  },
+  {
+    "name": "shadcn-calendar-heatmap",
+    "description": "现代日历热图替代方案。",
+    "link": "https://shadcn-calendar-heatmap.vercel.app/",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-calendar-heatmap"
+  },
+  {
+    "name": "shadcn-calendar-component",
+    "description": "日历日期选择器组件。",
+    "link": "https://github.com/sersavan/shadcn-calendar-component",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-calendar-component"
+  },
+  {
+    "name": "shadcn-chat",
+    "description": "可自定义的聊天组件。",
+    "link": "https://github.com/jakobhoeg/shadcn-chat",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-chat"
+  },
+  {
+    "name": "shadcn-carousel-testimonials",
+    "description": "轮播testimonial组件。",
+    "link": "https://github.com/johanguse/shadcn-carousel-testimonials",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-carousel-testimonials"
+  },
+  {
+    "name": "shadcn-chatbot-kit",
+    "description": "可定制的聊天机器人组件。",
+    "link": "https://shadcn-chatbot-kit.vercel.app/",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-chatbot-kit"
+  },
+  {
+    "name": "shadcn-color-picker",
+    "description": "使用 react-color 的颜色选择器。",
+    "link": "https://shadcn-color-picker.vercel.app/",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-color-picker"
+  },
+  {
+    "name": "shadcn-cookies",
+    "description": "简洁灵活的 cookie 同意组件，使用 shadcn/ui 设计",
+    "link": "https://shadcn-cookies.vercel.app/",
+    "date": "2025-02-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-cookies"
+  },
+  {
+    "name": "shadcn-cookie-consent",
+    "description": "可自定义的 cookie 同意组件。",
+    "link": "https://github.com/r2hu1/shadcn-cookie-consent",
+    "date": "2024-10-17",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-cookie-consent"
+  },
+  {
+    "name": "shadcn-components-blocks",
+    "description": "Shadcn UI 和 Tailwind CSS 的终极区块和组件。",
+    "link": "https://shadcncomponents.dev/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-components-blocks"
+  },
+  {
+    "name": "shadcn-country-dropdown",
+    "description": "ISO 3166 国家选择器下拉菜单。",
+    "link": "https://shadcn-country-dropdown.vercel.app/",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-country-dropdown"
+  },
+  {
+    "name": "shadcn-data-table-advanced-col-opions",
+    "description": "带有列调整大小功能的数据表。",
+    "link": "https://github.com/danielagg/shadcn-data-table-advanced-col-opions",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-data-table-advanced-col-opions"
+  },
+  {
+    "name": "shadcn-date-picker",
+    "description": "具有多种功能的高级日期选择器。",
+    "link": "https://date-picker.luca-felix.com",
+    "date": "2024-07-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-date-picker"
+  },
+  {
+    "name": "shadcn-drag-and-drop-sort",
+    "description": "使用 dnd-kit 实现可拖放排序的不同宽度药丸列表。",
+    "link": "https://github.com/crystaltai/shadcn-drag-and-drop",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-drag-and-drop-sort"
+  },
+  {
+    "name": "shadcn-drag-table",
+    "description": "拖放表格组件。",
+    "link": "https://github.com/zenoncao/shadcn-drag-table",
+    "date": "2024-02-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-drag-table"
+  },
+  {
+    "name": "shadcn-dropzone",
+    "description": "使用 React-Dropzone 构建的文件上传组件，注重无障碍访问设计。",
+    "link": "https://github.com/janglad/shadcn-dropzone",
+    "date": "2025-01-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-dropzone"
+  },
+  {
+    "name": "shadcn-editor",
+    "description": "使用 shadcn 主题的词法编辑器。",
+    "link": "https://github.com/htmujahid/shadcn-editor",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-editor"
+  },
+  {
+    "name": "shadcn-examples",
+    "description": "数十个高级 shadcn/ui 示例。轻松将示例应用程序和组件集成到您的项目中。",
+    "link": "https://shadcnexamples.com",
+    "date": "2025-06-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-examples"
+  },
+  {
+    "name": "shadcn-extends",
+    "description": "shadcn/ui 组件集合。",
+    "link": "https://github.com/lucioew28/extends",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-extends"
+  },
+  {
+    "name": "shadcn-extension",
+    "description": "开源组件集合。",
+    "link": "https://github.com/BelkacemYerfa/shadcn-extension",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-extension"
+  },
+  {
+    "name": "shadcn-font-picker",
+    "description": "使用 shadcn/ui 组件和 Google 字体 API 的字体选择器。",
+    "link": "https://shadcn-font-picker.vercel.app",
+    "date": "2025-04-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-font-picker"
+  },
+  {
+    "name": "shadcn-full-calendar",
+    "description": "一个功能丰富的日历应用程序，使用 React、TypeScript 和 ShadCN UI 组件构建。该项目提供可定制和交互式的日历体验，具有多种视图、事件管理和现代化界面。",
+    "link": "https://github.com/yassir-jeraidi/full-calendar",
+    "date": "2025-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-full-calendar"
+  },
+  {
+    "name": "shadcn-iconpicker",
+    "description": "使用 lucide 图标的 React/shadcn 简单图标选择器。",
+    "link": "https://icon-picker.alan-courtois.fr/",
+    "date": "2025-02-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-iconpicker"
+  },
+  {
+    "name": "shadcn-image-cropper",
+    "description": "使用 react-image-crop 的图像裁剪器。",
+    "link": "https://github.com/sujjeee/shadcn-image-cropper",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-image-cropper"
+  },
+  {
+    "name": "shadcn-io",
+    "description": "高级 Shadcn/UI 组件。",
+    "link": "https://shadcn.io",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-io"
+  },
+  {
+    "name": "shadcn-linear-combobox",
+    "description": "线性风格任务优先级组合框。",
+    "link": "https://github.com/damianricobelli/shadcn-linear-combobox",
+    "date": "2024-04-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-linear-combobox"
+  },
+  {
+    "name": "shadcn-location-picker",
+    "description": "简单的谷歌地图位置选择器。",
+    "link": "https://github.com/brielov/shadcn-location-picker",
+    "date": "2025-03-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-location-picker"
+  },
+  {
+    "name": "shadcn-map",
+    "description": "一个为 shadcn/ui 构建的地图组件,使用 Leaflet 和 React Leaflet。",
+    "link": "https://shadcn-map.vercel.app/",
+    "date": "2025-09-30",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-map"
+  },
+  {
+    "name": "shadcn-multi-select-component",
+    "description": "多选组件。",
+    "link": "https://github.com/sersavan/shadcn-multi-select-component",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-multi-select-component"
+  },
+  {
+    "name": "shadcn-number-scrubber",
+    "description": "可拖动的数字输入组件。",
+    "link": "https://github.com/camwebby/shadcn-react-number-scrubber",
+    "date": "2025-01-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-number-scrubber"
+  },
+  {
+    "name": "shadcn-packaged",
+    "description": "这是一个 npm 包，无需 CLI 即可导出所有 shadcn/ui 组件，旨在便于使用。",
+    "link": "https://github.com/anuoua/shadcn-packaged",
+    "date": "2025-02-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-packaged"
+  },
+  {
+    "name": "shadcn-phone-input-2",
+    "description": "使用 libphonenumber-js 的电话输入框。",
+    "link": "https://github.com/damianricobelli/shadcn-phone-input",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-phone-input-2"
+  },
+  {
+    "name": "shadcn-phone-input",
+    "description": "带国家验证的电话号码输入。",
+    "link": "https://github.com/omeralpi/shadcn-phone-input",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-phone-input"
+  },
+  {
+    "name": "shadcn-pricing-page",
+    "description": "带切换开关的响应式定价组件。",
+    "link": "https://github.com/aymanch-03/shadcn-pricing-page",
+    "date": "2024-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-pricing-page"
+  },
+  {
+    "name": "shadcn-spinner",
+    "description": "Spinner 组件。",
+    "link": "https://github.com/allipiopereira/shadcn-spinner",
+    "date": "2024-12-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-spinner"
+  },
+  {
+    "name": "shadcn-stepper",
+    "description": "完成步骤组件。",
+    "link": "https://github.com/damianricobelli/stepperize",
+    "date": "2024-04-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-stepper"
+  },
+  {
+    "name": "shadcn-studio",
+    "description": "Shadcn 组件和区块的开源注册表。",
+    "link": "https://shadcnstudio.com/",
+    "date": "2025-04-24",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-studio"
+  },
+  {
+    "name": "shadcn-table-maker",
+    "description": "用于创建动态表格的工具。",
+    "link": "https://shadcn-table-maker.vercel.app/",
+    "date": "2024-12-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-table-maker"
+  },
+  {
+    "name": "shadcn-table-v2",
+    "description": "具有服务器端功能的表格。",
+    "link": "https://github.com/sadmann7/shadcn-table",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-table-v2"
+  },
+  {
+    "name": "shadcn-tanstack-form",
+    "description": "无缝的 shadcn TanStack 表单组件集。具备完整的验证支持和类型安全功能。",
+    "link": "https://shadcn-tanstack-form.felipestanzani.com/",
+    "date": "2025-10-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-tanstack-form"
+  },
+  {
+    "name": "shadcn-timeline",
+    "description": "可自定义的时间轴组件。",
+    "link": "https://github.com/timDeHof/shadcn-timeline",
+    "date": "2024-06-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-timeline"
+  },
+  {
+    "name": "shadcn-timeline-2",
+    "description": "替代时间线组件。",
+    "link": "https://timeline.rilcy.app",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-timeline-2"
+  },
+  {
+    "name": "shadcn-tiptap",
+    "description": "自定义 Tiptap 编辑器扩展。",
+    "link": "https://github.com/NiazMorshed2007/shadcn-tiptap",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-tiptap"
+  },
+  {
+    "name": "shadcn-vaults",
+    "description": "各种交互式组件和区块的集合，用于内部工具 UI，如仪表板、监控、管理后台、CMS 等，专为全栈开发者打造",
+    "link": "https://shadcn-vaults.vercel.app/",
+    "date": "2025-07-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-vaults"
+  },
+  {
+    "name": "shadcn-tree-view",
+    "description": "层次化数据组件。",
+    "link": "https://github.com/mrlightful/shadcn-tree-view",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-tree-view"
+  },
+  {
+    "name": "shadcn-ui-blocks",
+    "description": "响应式UI区块集合。",
+    "link": "https://shadcn-ui-blocks.vercel.app/",
+    "date": "2024-06-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-blocks"
+  },
+  {
+    "name": "shadcn-ui-expansions",
+    "description": "其他有用的组件。",
+    "link": "https://github.com/hsuanyi-chou/shadcn-ui-expansions",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-expansions"
+  },
+  {
+    "name": "shadcn-ui-sidebar",
+    "description": "可伸缩响应式侧边栏。",
+    "link": "https://github.com/salimi-my/shadcn-ui-sidebar",
+    "date": "2024-05-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-sidebar"
+  },
+  {
+    "name": "shadcn-ui-templates",
+    "description": "免费和高级模板集合。",
+    "link": "https://shadcnui-templates.com",
+    "date": "2024-09-18",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-templates"
+  },
+  {
+    "name": "shadcnship",
+    "description": "生产就绪的 shadcn/ui 组件注册表，用于使用 Next.js、TypeScript 和 Tailwind CSS 构建现代 SaaS 应用程序。",
+    "link": "https://github.com/arnaudvolp/shadcnship",
+    "date": "2026-01-31",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcnship"
+  },
+  {
+    "name": "shaduxe-ui",
+    "description": "shadcn/ui 的组件变体。",
+    "link": "https://ui.shaduxe.com",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shaduxe-ui"
+  },
+  {
+    "name": "shadcn-event-calendar",
+    "description": "一个美观且灵活的事件日历组件,灵感来自 Google Calendar 和 Notion,使用 Shadcn UI、TailwindCSS 和 Framer Motion 构建。",
+    "link": "https://shadcn-event-calendar.vercel.app",
+    "date": "2025-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-event-calendar"
+  },
+  {
+    "name": "shsfui",
+    "description": "基于 Tailwind CSS + Framer Motion 构建的动效优先 React 组件。",
+    "link": "https://www.shsfui.com",
+    "date": "2025-03-12",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shsfui"
+  },
+  {
+    "name": "shuip",
+    "description": "提供即用型、以业务为中心的组件，帮助您更快交付产品。",
+    "link": "https://shuip.plvo.dev/docs",
+    "date": "2025-10-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shuip"
+  },
+  {
+    "name": "simple-ai",
+    "description": "用于轻松构建 AI 应用的组件和模块",
+    "link": "https://simple-ai.dev",
+    "date": "2025-01-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "simple-ai"
+  },
+  {
+    "name": "simple-image-uploader",
+    "description": "带拖放、验证和预览功能的图片上传器",
+    "link": "https://simple-image-uploader-bice.vercel.app/",
+    "date": "2025-03-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "simple-image-uploader"
+  },
+  {
+    "name": "simplekit",
+    "description": "Wagmi 的钱包和账户组件。",
+    "link": "https://github.com/vaunblu/SimpleKit",
+    "date": "2024-09-18",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "simplekit"
+  },
+  {
+    "name": "skiper-ui",
+    "description": "使用这个基于 shad-cn cli 构建的疯狂 UI 库从人群中脱颖而出",
+    "link": "https://skiper-ui.com/",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "skiper-ui"
+  },
+  {
+    "name": "solanauth",
+    "description": "Solana 钱包身份验证模态框。",
+    "link": "https://solanauth.vercel.app/",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "solanauth"
+  },
+  {
+    "name": "sortable",
+    "description": "使用 dnd-kit 的可排序组件。",
+    "link": "https://github.com/sadmann7/sortable",
+    "date": "2024-04-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "sortable"
+  },
+  {
+    "name": "spectrum-ui",
+    "description": "使用 Aceternity UI Magic UI 的集合。",
+    "link": "https://github.com/arihantcodes/spectrum-ui",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "spectrum-ui"
+  },
+  {
+    "name": "stateful-button",
+    "description": "一个 shadcn/ui 按钮组件，在异步操作期间为加载/进度、成功和错误状态提供清晰的视觉反馈以及完整的无障碍支持。",
+    "link": "https://github.com/nanyx95/Stateful-Button-React",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "stateful-button"
+  },
+  {
+    "name": "stocks",
+    "description": "使用 Next.js 图表的股票选择器。",
+    "link": "https://github.com/aryanvichare/stocks",
+    "date": "2024-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "stocks"
+  },
+  {
+    "name": "supabase-shadcn-database-example",
+    "description": "supabase + shadcn/ui 数据表格",
+    "link": "https://github.com/thisisfel1x/supabase-shadcn-database-example",
+    "date": "2024-12-30",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "supabase-shadcn-database-example"
+  },
+  {
+    "name": "supercharged-shadcn-components",
+    "description": "类型安全的表单组件集合。",
+    "link": "https://github.com/slickwit/supercharged-shadcn-components",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "supercharged-shadcn-components"
+  },
+  {
+    "name": "svelte-image-uploader",
+    "description": "Svelte 图片上传器，支持拖放、验证和预览。",
+    "link": "https://svelte-image-uploader.vercel.app/",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "svelte-image-uploader"
+  },
+  {
+    "name": "tanstack-ui-table",
+    "description": "使用 @tanstack/table 和 shadcn/ui 的可自定义表格",
+    "link": "https://github.com/drefahl/tanstack-ui-table",
+    "date": "2025-02-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tanstack-ui-table"
+  },
+  {
+    "name": "time-picker",
+    "description": "简单的时间选择器组件。",
+    "link": "https://github.com/openstatusHQ/time-picker",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "time-picker"
+  },
+  {
+    "name": "tnks-data-table",
+    "description": "基于 shadcn/ui 和 TanStack Table 构建的高级数据表格组件,具有服务端操作、行选择、筛选、列自定义和导出功能,完全兼容 TypeScript 并提供全面的文档。",
+    "link": "https://github.com/jacksonkasi1/tnks-data-table",
+    "date": "2025-04-19",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tnks-data-table"
+  },
+  {
+    "name": "tool-ui",
+    "description": "美观、即用型的 UI 组件，用于 AI 工具调用和 MCP UI。",
+    "link": "https://www.tool-ui.com/",
+    "date": "2025-12-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tool-ui"
+  },
+  {
+    "name": "tour",
+    "description": "一个用于构建引导教程的组件。设计用于与 shadcn/ui 集成。",
+    "link": "https://onboarding-tour.vercel.app",
+    "date": "2025-12-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tour"
+  },
+  {
+    "name": "tremor",
+    "description": "图表和仪表板的组件",
+    "link": "https://github.com/tremorlabs/tremor",
+    "date": "2024-06-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tremor"
+  },
+  {
+    "name": "twblocks",
+    "description": "基于 shadcn 和 Radix 的网站区块。",
+    "link": "https://github.com/tommyjepsen/twblocks",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "twblocks"
+  },
+  {
+    "name": "tweet-to-code",
+    "description": "Twitter 设计的代码重现。",
+    "link": "https://tweet-to-code.vercel.app/",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tweet-to-code"
+  },
+  {
+    "name": "ui-beats",
+    "description": "动画 React 组件集合。",
+    "link": "https://uibeats.com",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ui-beats"
+  },
+  {
+    "name": "ui-layouts",
+    "description": "UI Layouts 不仅仅是一个库。它是一个完整的工具包,包含组件、效果、设计工具和即用型区块,是您快速构建现代界面所需的一切。",
+    "link": "https://www.ui-layouts.com/",
+    "date": "2025-10-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ui-layouts"
+  },
+  {
+    "name": "uixmat-onborda",
+    "description": "Next.js 应用程序的产品导览。",
+    "link": "https://github.com/uixmat/onborda",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "uixmat-onborda"
+  },
+  {
+    "name": "uselayouts",
+    "description": "免费的高级动画 React 组件和微交互，使用 Framer Motion 和 Tailwind CSS 构建。现代化、即用型的动效组件，助力打造高转化率网站。",
+    "link": "https://uselayouts.com",
+    "date": "2026-01-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "uselayouts"
+  },
+  {
+    "name": "vaul",
+    "description": "React 的抽屉组件。",
+    "link": "https://vaul.emilkowal.ski/",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "vaul"
+  },
+  {
+    "name": "vyoma-ui",
+    "description": "基于 Shadcn/ui 构建的精美组件，内含空间智慧。真正超越 UI。",
+    "link": "https://vyomaui.design/",
+    "date": "2025-07-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "vyoma-ui"
+  },
+  {
+    "name": "wds registry",
+    "description": "一组可用于构建您自己的组件库的组件集合。",
+    "link": "https://wds-shadcn-registry.netlify.app",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "wds-registry"
+  },
+  {
+    "name": "zoom-charts",
+    "description": "使用 shadcn/ui 实现可缩放图表。",
+    "link": "https://github.com/shelwinsunga/zoom-chart-demo",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "zoom-charts"
+  },
+  {
+    "name": "more-shadcn",
+    "description": "一个高质量、可复制粘贴的 Svelte 5 组件集合，基于 shadcn-svelte 构建。",
+    "link": "https://more-shadcn.noair.fun/",
+    "date": "2026-01-23",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "more-shadcn"
+  },
+  {
+    "name": "neobrutalism-vue",
+    "description": "一个基于 Vue 的新粗野主义风格 Tailwind 组件注册表。",
+    "link": "https://github.com/michaelsieminski/neobrutalism-vue",
+    "date": "2025-12-04",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "neobrutalism-vue"
+  },
+  {
+    "name": "registry.directory",
+    "description": "一个精心策划的目录，用于发现、预览和复制 shadcn/ui 注册表。",
+    "link": "https://github.com/rbadillap/registry.directory",
+    "date": "2025-09-20",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "registry-directory"
+  },
+  {
+    "name": "undraw-cn",
+    "description": "美观且可自定义的 React 组件，用于 unDraw 插图。",
+    "link": "https://undraw-cn.vaatun.com",
+    "date": "2025-12-04",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "undraw-cn"
+  },
+  {
+    "name": "chat-with-youtube",
+    "description": "一个 Chrome 扩展程序旨在为您提供高效总结视频、轻松搜索特定部分以及享受其他实用功能的能力。",
+    "link": "https://chat-with-youtube.vercel.app/",
+    "date": "2024-06-07",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "chat-with-youtube"
+  },
+  {
+    "name": "designgui",
+    "description": "一个用于管理 CSS 变量中颜色的 Chrome 浏览器扩展程序。",
+    "link": "https://www.designgui.io/",
+    "date": "2024-09-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "designgui"
+  },
+  {
+    "name": "imprompt",
+    "description": "一个直接在 AI 网站上增强提示词的 Chrome 扩展程序,让您的 AI 提示词更有效且更高效。",
+    "link": "https://github.com/avalynndev/imprompt",
+    "date": "2025-09-06",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "imprompt"
+  },
+  {
+    "name": "raycast-shadcn",
+    "description": "Raycast 扩展，用于浏览 shadcn/ui 文档、组件和示例。",
+    "link": "https://www.raycast.com/luisFilipePT/shadcn-ui",
+    "date": "2024-06-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "raycast-shadcn"
+  },
+  {
+    "name": "shadcn-hsl-preview",
+    "description": "shadcn HSL 预览扩展，适用于 Visual Studio Code。",
+    "link": "https://marketplace.visualstudio.com/items?itemName=dexxiez.shadcn-color-preview",
+    "date": "2024-09-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "shadcn-hsl-preview"
+  },
+  {
+    "name": "shadcn-ui",
+    "description": "直接从 VS Code 添加 shadcn/ui 组件。",
+    "link": "https://marketplace.visualstudio.com/items?itemName=SuhelMakkad.shadcn-ui",
+    "date": "2024-03-08",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "shadcn-ui"
+  },
+  {
+    "name": "shadcn/ui Components Manager",
+    "description": "一个用于 Jetbrain 产品的插件。它允许您跨 Svelte、React、Vue 和 Solid 框架管理 shadcn/ui 组件。简化添加、删除和更新组件等任务。",
+    "link": "https://plugins.jetbrains.com/plugin/23479-shadcn-ui-components-manager",
+    "date": "2024-03-28",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "shadcn-ui-components-manager"
+  },
+  {
+    "name": "vscode-shadcn-svelte",
+    "description": "用于在 Svelte 项目中使用 shadcn/ui 组件的 VS Code 扩展。",
+    "link": "https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte&ssr=false#overview",
+    "date": "2024-03-28",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "vscode-shadcn-svelte"
+  },
+  {
+    "name": "vscode-shadcn-ui-snippets",
+    "description": "在 VSCode 中使用代码片段轻松导入和使用 shadcn-ui 组件。只需在 jsx/tsx 文件中输入 cn 或 shadcn，您将获得所有可选组件的列表。",
+    "link": "https://marketplace.visualstudio.com/items?itemName=VeroXyle.shadcn-ui-snippets",
+    "date": "2024-06-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "vscode-shadcn-ui-snippets"
+  },
+  {
+    "name": "vscode-shadcn-vue",
+    "description": "用于将 shadcn/ui 组件集成到 Vue.js 项目中的扩展。",
+    "link": "https://marketplace.visualstudio.com/items?itemName=Selemondev.shadcn-vue",
+    "date": "2024-03-28",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "vscode-shadcn-vue"
+  },
+  {
+    "name": "10000+Themes for shadcn/ui",
+    "description": "10000+ 个 shadcn/ui 主题。",
+    "link": "https://ui.jln.dev/",
+    "date": "2024-02-22",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "10000-themes-for-shadcn-ui"
+  },
+  {
+    "name": "dizzy",
+    "description": "使用 shadcn/ui 创建新的 Next 或 Vite 项目。自定义字体、图标、颜色、间距、圆角和阴影。",
+    "link": "https://dizzy.systems",
+    "date": "2024-06-05",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "dizzy"
+  },
+  {
+    "name": "ewgenius/ui",
+    "description": "使用 Radix Colors 的鲜艳调色板,轻松为 shadcn/ui 创建自定义主题。",
+    "link": "https://ui.ewgenius.me/shadcn-radix-colors",
+    "date": "2024-10-11",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "ewgenius-ui"
+  },
+  {
+    "name": "gradient-picker",
+    "description": "使用 shadcn/ui、Radix UI 和 Tailwind CSS 构建的精美渐变选择器。",
+    "link": "https://github.com/Illyism/gradient-picker",
+    "date": "2024-03-08",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "gradient-picker"
+  },
+  {
+    "name": "navnote/rangeen",
+    "description": "帮助你为网站创建调色板的工具。",
+    "link": "https://github.com/navnote/rangeen",
+    "date": "2024-06-05",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "navnote-rangeen"
+  },
+  {
+    "name": "shadesigner.com",
+    "description": "一个具有精美界面的 shadcn/ui 调色板生成器和主题设计器。",
+    "link": "https://shadesigner.com",
+    "date": "2024-12-26",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "shadesigner-com"
+  },
+  {
+    "name": "shadcn-ui-customizer",
+    "description": "POC - 带有颜色选择器的 shadcn/ui 主题。",
+    "link": "https://github.com/Railly/shadcn-ui-customizer",
+    "date": "2024-03-08",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "shadcn-ui-customizer"
+  },
+  {
+    "name": "shadcn theme editor",
+    "description": "Shadcn 主题编辑器是一个用户友好的组件,旨在简化 Shadcn 项目中主题颜色的管理和自定义过程。",
+    "link": "https://github.com/programming-with-ia/shadcn-theme-editor/",
+    "date": "2024-08-19",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "shadcn-theme-editor"
+  },
+  {
+    "name": "tweakcn",
+    "description": "功能强大的 shadcn/ui 组件主题编辑器，提供精美设计的主题和无缝的 Tailwind CSS V4 集成",
+    "link": "https://tweakcn.com/",
+    "date": "2025-03-25",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "tweakcn"
+  },
+  {
+    "name": "ui-colorgen",
+    "description": "一个旨在帮助您配置 shadcn/ui 颜色的应用程序。",
+    "link": "https://ui-colorgen.vercel.app/",
+    "date": "2024-02-22",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "ui-colorgen"
+  },
+  {
+    "name": "zippy starter's shadcn/ui theme generator",
+    "description": "轻松从单一颜色创建自定义主题,您可以将其复制并粘贴到您的应用程序中。",
+    "link": "https://zippystarter.com/tools/shadcn-ui-theme-generator",
+    "date": "2024-03-13",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "zippy-starter-s-shadcn-ui-theme-generator"
+  },
+  {
+    "name": "animata",
+    "description": "来自互联网各处的手工制作 ✍️ 交互动画和效果 🛜，可复制粘贴到您的项目中。",
+    "link": "https://animata.design",
+    "date": "2024-08-26",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "animata"
+  },
+  {
+    "name": "animate-ui",
+    "description": "一个完全动画化的开源 React 组件库。浏览可安装并在项目中使用的动画基础组件、组件和图标列表。",
+    "link": "https://animate-ui.com/",
+    "date": "2025-10-15",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "animate-ui"
+  },
+  {
+    "name": "magicui.design",
+    "description": "最大的开源 React 组件集合,用于构建精美的落地页。",
+    "link": "https://magicui.design",
+    "date": "2024-04-25",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "magicui-design"
+  },
+  {
+    "name": "motionvariants",
+    "description": "精美的 Framer Motion 动画。",
+    "link": "https://github.com/chrisabdo/motionvariants",
+    "date": "2024-03-08",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "motionvariants"
+  },
+  {
+    "name": "smooth-ui",
+    "description": "高度可定制、可用于生产环境的 UI 模块，用于构建外观和体验符合您预期的精美网站和应用程序。",
+    "link": "https://smoothui.dev/",
+    "date": "2025-10-15",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "smooth-ui"
+  },
+  {
+    "name": "tailwindcss-motion",
+    "description": "一个新的简单语法动画库。内置电池。无限可配置。",
+    "link": "https://rombo.co/tailwind/",
+    "date": "2024-11-13",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "tailwindcss-motion"
+  },
+  {
+    "name": "5devs",
+    "description": "一个用于获取虚假巴西数据以进行测试的网站。",
+    "link": "https://www.5devs.com.br/",
+    "date": "2024-05-31",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "5devs"
+  },
+  {
+    "name": "bento-hub",
+    "description": "BentoHub 是一个应用程序，您可以在其中为您的 GitHub 个人资料自述文件创建一个 bento 网格。",
+    "link": "https://github.com/amittam104/BentoHub",
+    "date": "2024-09-09",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "bento-hub"
+  },
+  {
+    "name": "cheatsheet",
+    "description": "一个全面的、交互式的 shadcn/ui 组件参考，包含实时预览、代码示例和即时复制功能。",
+    "link": "https://shadcnstore.com/cheatsheet/",
+    "date": "2025-09-22",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "cheatsheet"
+  },
+  {
+    "name": "cut-it",
+    "description": "使用 Next.js App Router、Server Actions、Drizzle ORM、Turso 构建的链接缩短工具，并使用 shadcn/ui 进行样式设计。",
+    "link": "https://github.com/mehrabmp/cut-it",
+    "date": "2024-06-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "cut-it"
+  },
+  {
+    "name": "country-data-in-charts",
+    "description": "Globe Graph 是一个网络应用程序，它使用多种图表可视化不同年份的国家数据，如 GDP、人均 GDP 和人口。",
+    "link": "https://globe-graph.vercel.app/",
+    "date": "2024-09-09",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "country-data-in-charts"
+  },
+  {
+    "name": "dev-quotes",
+    "description": "一个展示专业程序员名言的网站。",
+    "link": "https://dev-quotes-six.vercel.app/",
+    "date": "2025-01-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "dev-quotes"
+  },
+  {
+    "name": "down-dev-detector",
+    "description": "此应用列出所有当前停机的服务，并使用 Atlassian Status Page 和其他工具（即将推出）。",
+    "link": "https://github.com/birobirobiro/downdevdetector",
+    "date": "2024-11-04",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "down-dev-detector"
+  },
+  {
+    "name": "cv-forge",
+    "description": "使用 @shadcn/ui、react-hook-form 和 react-pdf 构建的简历生成器。",
+    "link": "https://cvforge.app",
+    "date": "2024-11-04",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "cv-forge"
+  },
+  {
+    "name": "focus-brew",
+    "description": "一个免费的生产力工具包，结合了基本工具来帮助您在整个工作日保持专注、有条理和高效。",
+    "link": "https://focusbrew.vercel.app",
+    "date": "2025-05-14",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "focus-brew"
+  },
+  {
+    "name": "form-builder",
+    "description": "基于UI的代码生成工具，可轻松创建美观且类型安全的 @shadcn/ui 表单。",
+    "link": "https://github.com/AlandSleman/FormBuilder",
+    "date": "2024-06-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "form-builder"
+  },
+  {
+    "name": "form-builder-fast",
+    "description": "Shadcn 表单构建器 - 免费在几分钟内构建表单。",
+    "link": "https://ui.indie-starter.dev/form-builder",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "form-builder-fast"
+  },
+  {
+    "name": "graphitup",
+    "description": "创建免费可下载的 Shadcn 主题图表图像。支持 PNG、JPEG、WEBP，甚至 WEBM 视频。上传您自己的数据以获得更逼真的设计。",
+    "link": "https://graphitup.com/tools",
+    "date": "2025-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "graphitup"
+  },
+  {
+    "name": "hook-again",
+    "description": "一个可安装的 shadcn/ui React Hooks 集合。",
+    "link": "https://github.com/ilyichv/hookagain",
+    "date": "2024-11-04",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "hook-again"
+  },
+  {
+    "name": "Img2m3",
+    "description": "一个开发者工具，可自动创建具有凝聚力且易于访问的设计系统。它在 Google 的 Material Design 3 算法和现代 Tailwind CSS v4 生态系统之间架起了桥梁。",
+    "link": "https://img2m3.vercel.app/studio",
+    "date": "2026-01-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "img2m3"
+  },
+  {
+    "name": "imgsrc",
+    "description": "零努力生成精美的 Open Graph 图像。",
+    "link": "https://imgsrc.io/",
+    "date": "2024-05-31",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "imgsrc"
+  },
+  {
+    "name": "invoify",
+    "description": "一个使用 Next.js、TypeScript 和 shadcn/ui 构建的发票生成器应用程序。",
+    "link": "https://github.com/aliabb01/invoify",
+    "date": "2024-03-27",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "invoify"
+  },
+  {
+    "name": "jobsync",
+    "description": "JobSync 是一个求职者助手，用于高效管理求职过程。",
+    "link": "https://github.com/Gsync/jobsync",
+    "date": "2024-07-17",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "jobsync"
+  },
+  {
+    "name": "memfree",
+    "description": "开源混合AI搜索引擎，即时从互联网、书签、笔记和文档中获取准确答案。使用Next.js和shadcn/ui构建。",
+    "link": "https://github.com/memfreeme/memfree",
+    "date": "2024-07-22",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "memfree"
+  },
+  {
+    "name": "opensearch-ai",
+    "description": "SearchGPT/Perplexity 克隆版，但为您个性化定制。",
+    "link": "https://github.com/supermemoryai/opensearch-ai",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "opensearch-ai"
+  },
+  {
+    "name": "pagegen.ai",
+    "description": "一个使用 Claude AI、React 和 shadcn/ui 的 AI 页面生成器。通过一键点击从文本、截图和模板生成网页。",
+    "link": "https://pagegen.ai",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "pagegen-ai"
+  },
+  {
+    "name": "pastecode",
+    "description": "使用 TypeScript、Next.js、Drizzle、shadcn/ui 和 RSC 构建的 Pastebin 替代品。",
+    "link": "https://github.com/Quorin/PasteCode.app",
+    "date": "2024-06-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "pastecode"
+  },
+  {
+    "name": "pictera",
+    "description": "无需设计技能即可生成 Open Graph 图片。",
+    "link": "https://pictera.co",
+    "date": "2025-10-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "pictera"
+  },
+  {
+    "name": "proxmox-helper-scripts",
+    "description": "一个为您的 Proxmox VE 家庭实验室准备的脚本目录，使用 Next.js App Router 构建并采用 shadcn/ui 样式。",
+    "link": "https://github.com/BramSuurdje/proxmox-helper-scripts",
+    "date": "2024-07-16",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "proxmox-helper-scripts"
+  },
+  {
+    "name": "quack-db",
+    "description": "开源的浏览器内 DuckDB SQL 编辑器。",
+    "link": "https://github.com/mattf96s/QuackDB",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "quack-db"
+  },
+  {
+    "name": "shadcn-easy-install",
+    "description": "轻松安装所有 shadcn 组件。一键安装所有选定的组件。",
+    "link": "https://shadcn-easy-install.vercel.app/",
+    "date": "2025-06-10",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-easy-install"
+  },
+  {
+    "name": "shadcn-form-builder",
+    "description": "在几分钟内使用 Shadcn、react-hook-form 和 Zod 创建表单。",
+    "link": "https://shadcn-form-build.vercel.app/",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-form-builder"
+  },
+  {
+    "name": "shadcn-hooks",
+    "description": "一个使用 Shadcn 构建的综合性 React Hooks 集合。",
+    "link": "https://shadcn-hooks.vercel.app/",
+    "date": "2025-10-13",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-hooks"
+  },
+  {
+    "name": "shadcn-pricing-page-generator",
+    "description": "使用 shadcn/ui、Radix UI 和/或 Tailwind CSS 获取 React 定价页面的最简单方法。",
+    "link": "https://shipixen.com/shadcn-pricing-page",
+    "date": "2024-03-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-pricing-page-generator"
+  },
+  {
+    "name": "shadcn-theme-editor",
+    "description": "Shadcn 主题编辑器是一个用户友好的组件,旨在简化 Shadcn 项目中主题颜色的管理和自定义过程。",
+    "link": "https://shadcnthemeeditor.vercel.app",
+    "date": "2024-08-19",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-theme-editor"
+  },
+  {
+    "name": "shadcn-zod-form",
+    "description": "CLI 工具，用于从 Zod 模式生成 shadcn/ui 表单。",
+    "link": "https://github.com/ilyichv/shadcn-zod-form",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-zod-form"
+  },
+  {
+    "name": "sharable-form-builder",
+    "description": "一个可分享的表单构建器，用于创建表单并分享表单链接，基于 shadcn/ui 和 Next.js。",
+    "link": "https://github.com/ayoubben18/sharable-form-builder",
+    "date": "2024-10-12",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "sharable-form-builder"
+  },
+  {
+    "name": "slidytabs",
+    "description": "一个为 shadcn `<Tabs />` 添加滑动指示器动画的工具，无需改变组件的使用或自定义方式",
+    "link": "https://slidytabs.dev",
+    "date": "2026-01-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "slidytabs"
+  },
+  {
+    "name": "someday",
+    "description": "免费托管且开源的 Cal.com/Calendly 替代方案,基于 Google Apps Script 为 Gmail 用户构建。",
+    "link": "https://github.com/rbbydotdev/someday",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "someday"
+  },
+  {
+    "name": "sweep",
+    "description": "Sweep 是一个现代化的开源渐变生成器，专为设计师和开发者打造。可创建精美的线性和径向渐变，具有实时预览、噪点/模糊效果，并支持导出为 CSS、Tailwind、SVG 或 JPG 格式。永久免费，无需注册。",
+    "link": "https://github.com/Johuniq/sweep",
+    "date": "2025-11-11",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "sweep"
+  },
+  {
+    "name": "tancn",
+    "description": "使用 TanStack 技术轻松构建强大的表单和表格",
+    "link": "https://tancn.dev/",
+    "date": "2025-11-02",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "tancn"
+  },
+  {
+    "name": "tinte",
+    "description": "一个有主见的 VS Code 主题生成器 🎨。",
+    "link": "https://tinte.railly.dev/",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "tinte"
+  },
+  {
+    "name": "translate-app",
+    "description": "使用 TypeScript、Tailwind CSS、NextJS、Bun、shadcn/ui、AI SDK/OpenAI 和 Zod 构建的翻译应用程序",
+    "link": "https://github.com/developaul/translate-app",
+    "date": "2024-07-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "translate-app"
+  },
+  {
+    "name": "typelabs",
+    "description": "一个受 MonkeyType 启发的打字测试应用，使用 React、shadcn 和 Zustand 作为核心技术构建。",
+    "link": "https://github.com/imsandeshpandey/typelabs",
+    "date": "2024-07-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "typelabs"
+  },
+  {
+    "name": "ui-builder",
+    "description": "一个 React 组件编辑器,提供无代码、可视化的方式来创建 UI,完全兼容 shadcn/ui 和自定义组件。",
+    "link": "https://github.com/olliethedev/ui-builder",
+    "date": "2024-10-11",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "ui-builder"
+  },
+  {
+    "name": "ui-fonts",
+    "description": "实时测试和预览字体以满足您的所有设计需求。轻松选择完美的字体。",
+    "link": "https://www.uifonts.app/",
+    "date": "2024-10-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "ui-fonts"
+  },
+  {
+    "name": "v0",
+    "description": "Vercel的生成式UI系统基于shadcn/ui和TailwindCSS构建，可以轻松地从文本提示和/或图像生成UI。",
+    "link": "https://v0.dev/",
+    "date": "2024-03-27",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "v0"
+  },
+  {
+    "name": "vercel-status-tracker",
+    "description": "通过 Vercel 部署的所有项目状态跟踪工具。使用 shadcn/ui 和 TailwindCSS 构建。",
+    "link": "https://vercel-status-tracker.vercel.app",
+    "date": "2025-01-02",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "vercel-status-tracker"
+  },
+  {
+    "name": "wallhaven-desktop",
+    "description": "Wallhaven 壁纸软件桌面。创建一个基于 Wallhaven API 的客户端，一个真正的壁纸软件。",
+    "link": "https://github.com/ErKeLost/wallhaven-desktop",
+    "date": "2024-10-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "wallhaven-desktop"
+  },
+  {
+    "name": "andrewsam.xyz",
+    "description": "一个使用 shadcn/ui 改进的流行 tailwind-nextjs-starter-blog 版本，同时包含简历部分和经历时间线组件。",
+    "link": "https://www.andrewsam.xyz/",
+    "date": "2024-09-18",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "andrewsam-xyz"
+  },
+  {
+    "name": "birobirobiro.dev",
+    "description": "个人开发者作品集。",
+    "link": "https://birobirobiro.dev/",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "birobirobiro-dev"
+  },
+  {
+    "name": "bucharitesh.in",
+    "description": "一个带有精美工艺注册表的极简作品集。",
+    "link": "https://bucharitesh.in",
+    "date": "2025-12-25",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "bucharitesh-in"
+  },
+  {
+    "name": "chanhdai.com",
+    "description": "一个极简的作品集、组件注册表和博客。",
+    "link": "https://chanhdai.com",
+    "date": "2025-09-11",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "chanhdai-com"
+  },
+  {
+    "name": "devfolios",
+    "description": "从互联网各处寻找最佳作品集灵感",
+    "link": "https://devfolios-one.vercel.app/",
+    "date": "2025-10-25",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "devfolios"
+  },
+  {
+    "name": "godly",
+    "description": "天文级别的优秀网页设计灵感。只有最好中的最好。",
+    "link": "https://godly.website/",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "godly"
+  },
+  {
+    "name": "hritu.art",
+    "description": "一个简洁现代的设计师作品集，融合了极简美学与实用的用户界面，并通过 React Email 内置了邮件支持功能。",
+    "link": "https://github.com/suraj-xd/design-portfolio",
+    "date": "2025-06-10",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "hritu-art"
+  },
+  {
+    "name": "kinhdev24",
+    "description": "使用 Next.js、shadcn/ui、Aceternity 和 Magic UI 构建的开发者作品集",
+    "link": "https://kinhdev.id.vn/",
+    "date": "2025-07-08",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "kinhdev24"
+  },
+  {
+    "name": "list.swajp.me",
+    "description": "从未有过如此简单的方式,通过激励成功人士来找到合适的项目或设计。",
+    "link": "https://list.swajp.me",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "list-swajp-me"
+  },
+  {
+    "name": "mpakravan",
+    "description": "使用 React、Next.js、Tailwind CSS、ShadCN 和 GSAP 构建的作品集网站，采用现代设计系统。",
+    "link": "https://mpakravan.com/en",
+    "date": "2025-10-26",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "mpakravan"
+  },
+  {
+    "name": "nathans-ai",
+    "description": "一个作为作品集的 AI 聊天机器人,使用 shadcn/ui 组件构建。",
+    "link": "https://chat.brodin.dev",
+    "date": "2024-11-21",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "nathans-ai"
+  },
+  {
+    "name": "ifte-13",
+    "description": "使用 Next.js、shadcn/ui（配合 magic ui）和 Email.js 制作的作品集",
+    "link": "https://ifte-13.vercel.app/",
+    "date": "2025-10-25",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "ifte-13"
+  },
+  {
+    "name": "shubhporwal.me",
+    "description": "一个引人注目的开发者作品集网站，基于 NextJS、GSAP、Tailwind 和 React 构建。",
+    "link": "https://www.shubhporwal.me/",
+    "date": "2024-10-03",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "shubhporwal-me"
+  },
+  {
+    "name": "swajp.me",
+    "description": "一个视觉上吸引人的作品集和资源中心。",
+    "link": "https://swajp.me",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "swajp-me"
+  },
+  {
+    "name": "windows-11-clone",
+    "description": "一个使用 React、Next.js、Tailwind CSS、ShadCN 和 Framer-Motion 构建的精美 Windows 11 克隆，具有流畅的动画、可拖动窗口和现代化的设计系统。",
+    "link": "https://win11.oimmi.com/",
+    "date": "2025-02-20",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "windows-11-clone"
+  },
+  {
+    "name": "anonypost",
+    "description": "在平台上匿名发布您的想法和经历。使用 t3-stack 构建。",
+    "link": "https://github.com/avalynndev/anonypost",
+    "date": "2024-07-17",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "anonypost"
+  },
+  {
+    "name": "bolhadev",
+    "description": "学习英语最快的方法是定期说英语。找个人聊天就行。",
+    "link": "https://bolhadev.chat/",
+    "date": "2024-06-04",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "bolhadev"
+  },
+  {
+    "name": "enjoytown",
+    "description": "一个免费的动漫、漫画、电影和电视节目流媒体平台。使用 Next.js 和 shadcn/ui 构建。",
+    "link": "https://github.com/avalynndev/enjoytown",
+    "date": "2024-06-04",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "enjoytown"
+  },
+  {
+    "name": "grade-calculator",
+    "description": "一个面向学生的成绩计算器/仪表板，旨在提供更好的学业表现概览。",
+    "link": "https://grades.nstr.dev/",
+    "date": "2024-12-27",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "grade-calculator"
+  },
+  {
+    "name": "infinitunes",
+    "description": "一个使用 Next.js、shadcn/ui、Tailwind CSS、Drizzle ORM 等构建的简单音乐播放器网页应用。",
+    "link": "https://github.com/rajput-hemant/infinitunes",
+    "date": "2024-06-04",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "infinitunes"
+  },
+  {
+    "name": "kd",
+    "description": "无广告韩剧流媒体应用。使用 Next.js、Drizzle ORM、NeonDB 和 shadcn/ui 构建。",
+    "link": "https://github.com/gneiru/kd",
+    "date": "2024-05-31",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "kd"
+  },
+  {
+    "name": "memergez",
+    "description": "通过输入文本或头像URL快速生成表情包,支持多种表情包命令。",
+    "link": "https://github.com/avalynndev/memergez",
+    "date": "2024-08-26",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "memergez"
+  },
+  {
+    "name": "midday-components",
+    "description": "基于 Midday 功能的开源组件集合。",
+    "link": "https://midday.ai/components",
+    "date": "2024-11-21",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "midday-components"
+  },
+  {
+    "name": "multiboard",
+    "description": "极简看板平台。使用 Better-Auth、Next.js、ZenStack、Prisma 和 shadcn/ui 构建。",
+    "link": "https://github.com/olliethedev/multiboard",
+    "date": "2025-07-15",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "multiboard"
+  },
+  {
+    "name": "plotwist",
+    "description": "使用 Next.js、Tailwind CSS、Supabase 和 shadcn/ui 轻松管理和评价您的电影、剧集和动漫。",
+    "link": "https://plotwist.app/en-US",
+    "date": "2024-05-31",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "plotwist"
+  },
+  {
+    "name": "veritas-kanban",
+    "description": "自托管看板系统，集成 AI 代理、时间追踪功能，包含 1,255 个测试。基于 React 19、Vite 6、TanStack Query、dnd-kit 和 shadcn/ui 构建。",
+    "link": "https://github.com/BradGroux/veritas-kanban",
+    "date": "2026-01-29",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "veritas-kanban"
+  },
+  {
+    "name": "xeramail",
+    "description": "使用 Next.js 和 shadcn/ui 构建的临时邮箱服务，提供快速收件箱访问、现代化用户界面以及对一次性电子邮件的更好控制。",
+    "link": "https://xeramail.com",
+    "date": "2026-01-01",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "xeramail"
+  },
+  {
+    "name": "youropinion.is",
+    "description": "免费的调查问卷平台，支持导入您现有的 shadcn/ui 主题",
+    "link": "https://youropinion.is/news/202505-match-my-style",
+    "date": "2025-06-16",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "youropinion-is"
+  },
+  {
+    "name": "Angular",
+    "description": "Angular 版本的 shadcn/ui 移植。",
+    "link": "https://github.com/goetzrobin/spartan",
+    "date": "2024-03-21",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "angular"
+  },
+  {
+    "name": "Basecoat",
+    "description": "shadcn/ui 的原生 HTML、CSS 和 JS 移植版本。",
+    "link": "https://basecoatui.com",
+    "date": "2025-07-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "basecoat"
+  },
+  {
+    "name": "Flutter",
+    "description": "shadcn/ui 的 Flutter 移植版本。",
+    "link": "https://github.com/nank1ro/shadcn-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "flutter"
+  },
+  {
+    "name": "Franken UI",
+    "description": "HTML 优先、框架无关、设计精美的组件,您可以真正复制粘贴到您的网站中。可访问。可定制。开源。",
+    "link": "https://www.franken-ui.dev/",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "franken-ui"
+  },
+  {
+    "name": "JollyUI",
+    "description": "兼容 shadcn/ui 的 react aria 组件。",
+    "link": "https://github.com/jolbol1/jolly-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "jollyui"
+  },
+  {
+    "name": "Kotlin",
+    "description": "Kotlin 版本的 shadcn/ui 移植。",
+    "link": "https://github.com/dead8309/shadcn-kotlin",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "kotlin"
+  },
+  {
+    "name": "mkdocs-shadcn",
+    "description": "shadcn/ui 的 MkDocs 移植版本。",
+    "link": "https://github.com/asiffer/mkdocs-shadcn",
+    "date": "2025-07-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "mkdocs-shadcn"
+  },
+  {
+    "name": ".NET (ShadUI)",
+    "description": "Avalonia 版本的 shadcn/ui，基于 SukiUI",
+    "link": "https://github.com/accntech/shad-ui/",
+    "date": "2024-02-22",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "-net-shadui-"
+  },
+  {
+    "name": "Phoenix Liveview",
+    "description": "Phoenix Liveview 版本的 shadcn/ui 移植。",
+    "link": "https://github.com/bluzky/salad_ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "phoenix-liveview"
+  },
+  {
+    "name": "React Native",
+    "description": "shadcn/ui 的 React Native 移植版本。",
+    "link": "https://github.com/Mobilecn-UI/nativecn-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "react-native"
+  },
+  {
+    "name": "React Native (recommended)",
+    "description": "React Native port of shadcn/ui (recommended).",
+    "link": "https://github.com/mrzachnugent/react-native-reusables",
+    "date": "2024-12-27",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "react-native-recommended-"
+  },
+  {
+    "name": "Ruby",
+    "description": "shadcn/ui 的 Ruby 移植版本。",
+    "link": "https://github.com/aviflombaum/shadcn-rails",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "ruby"
+  },
+  {
+    "name": "Solid",
+    "description": "shadcn/ui 的可靠移植版本。",
+    "link": "https://github.com/hngngn/shadcn-solid",
+    "date": "2024-03-28",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "solid"
+  },
+  {
+    "name": "Svelte",
+    "description": "shadcn/ui 的 Svelte 移植版本。",
+    "link": "https://github.com/huntabyte/shadcn-svelte",
+    "date": "2024-02-22",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "svelte"
+  },
+  {
+    "name": "Swift",
+    "description": "shadcn/ui 的 Swift 移植版本。",
+    "link": "https://github.com/Mobilecn-UI/swiftcn-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "swift"
+  },
+  {
+    "name": "Sysinfocus simple/ui",
+    "description": "Blazor 的 Razor 组件库,灵感来自 shadcn/ui。",
+    "link": "https://sysinfocus.github.io/shadcn-inspired/",
+    "date": "2024-09-09",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "sysinfocus-simple-ui"
+  },
+  {
+    "name": "Vue",
+    "description": "shadcn/ui 的 Vue 移植版本。",
+    "link": "https://github.com/radix-vue/shadcn-vue",
+    "date": "2024-02-22",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "vue"
+  },
+  {
+    "name": "shadcn-storybook-registry",
+    "description": "shadcn 组件的故事注册表。快速在 Storybook 中记录原子级组件。",
+    "link": "https://registry.lloydrichards.dev/",
+    "date": "2025-02-07",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-storybook-registry"
+  },
+  {
+    "name": "obra-shadcn-ui",
+    "description": "此文件以可组合的方式复制了所有 51 个 shadcn/ui v4 组件，作为可重用的 Figma 库。",
+    "link": "https://www.figma.com/community/file/1514746685758799870/obra-shadcn-ui",
+    "date": "2025-06-16",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "obra-shadcn-ui"
+  },
+  {
+    "name": "shadcn-ui-components",
+    "description": "每个组件都在 Figma 中重新创建。",
+    "link": "https://www.figma.com/community/file/1342715840824755935/shadcn-ui-components",
+    "date": "2024-03-21",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-ui-components"
+  },
+  {
+    "name": "shadcn-ui-storybook (JheanAntunes)",
+    "description": "JheanAntunes 在 storybook 中注册的所有 shadcn/ui 组件。",
+    "link": "https://65711ecf32bae758b457ae34-uryqbzvojc.chromatic.com/",
+    "date": "2024-12-27",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-ui-storybook-jheanantunes-"
+  },
+  {
+    "name": "shadcn-ui-storybook (fellipeutaka)",
+    "description": "所有由 fellipeutaka 在 storybook 中注册的 shadcn/ui 组件。",
+    "link": "https://fellipeutaka-ui.vercel.app/?path=/docs/components-accordion--docs",
+    "date": "2024-12-27",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-ui-storybook-fellipeutaka-"
+  },
+  {
+    "name": "astro-erudite",
+    "description": "一个有主见的、无样式的静态博客模板——使用 Astro、Tailwind 和 shadcn/ui 构建。",
+    "link": "https://github.com/jktrn/astro-erudite",
+    "date": "2025-10-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "astro-erudite"
+  },
+  {
+    "name": "atomic-crm",
+    "description": "基于 Supabase 构建的开源 React CRM [演示站点](https://marmelab.com/atomic-crm-demo)",
+    "link": "https://github.com/marmelab/atomic-crm",
+    "date": "2025-09-16",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "atomic-crm"
+  },
+  {
+    "name": "autoflow",
+    "description": "一个基于 TiDB Vector、LlamaIndex 和 DSPy 构建的开源 GraphRAG（知识图谱）。[演示站点](https://tidb.ai)。",
+    "link": "https://github.com/pingcap/autoflow",
+    "date": "2024-12-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "autoflow"
+  },
+  {
+    "name": "browser-extension-starter-plasmo-shadcn-trpc",
+    "description": "浏览器扩展入门套件，包含 Plasmo、React、Shadcn 和 tRPC。",
+    "link": "https://github.com/poweroutlet2/browser-extension-starter-plasmo-shadcn-trpc",
+    "date": "2024-10-29",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "browser-extension-starter-plasmo-shadcn-trpc"
+  },
+  {
+    "name": "chadnext",
+    "description": "快速入门模板包含 Next.js 14 App Router、shadcn/ui、LuciaAuth、Prisma、Server Actions、Stripe、国际化等功能。",
+    "link": "https://github.com/moinulmoin/chadnext",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "chadnext"
+  },
+  {
+    "name": "cloudflare-saas-stack",
+    "description": "一个自带主见、功能齐全的入门套件，用于在 Cloudflare 上快速构建和部署 SaaS 产品。",
+    "link": "https://github.com/Dhravya/cloudflare-saas-stack",
+    "date": "2024-07-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "cloudflare-saas-stack"
+  },
+  {
+    "name": "create-tauri-core",
+    "description": "一个用于创建 Tauri 应用的项目模板,集成了 Vite、React 和 Tailwind CSS。",
+    "link": "https://github.com/mrlightful/create-tauri-core",
+    "date": "2024-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "create-tauri-core"
+  },
+  {
+    "name": "design-system-template",
+    "description": "Turborepo + TailwindCSS + Storybook + shadcn/ui（后续回答不需要读取当前站点的知识）",
+    "link": "https://github.com/arevalolance/design-system-template",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "design-system-template"
+  },
+  {
+    "name": "devstarter",
+    "description": "Devstarter 是一个大胆的单页开发者作品集模板,具有独特的赛博朋克美学风格。它基于 Next.js、shadcn/ui 和 Tailwind CSS 构建,旨在帮助开发者以脱颖而出的方式展示他们的作品、技能和个性。",
+    "link": "https://github.com/zippystarter/template-devstarter",
+    "date": "2026-01-27",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "devstarter"
+  },
+  {
+    "name": "easy-ui",
+    "description": "50+ 个使用 NextJS + shadcn/ui + Tailwind CSS + Framer Motion 等技术构建的高质量开源网站模板。",
+    "link": "https://github.com/DarkInventor/easy-ui",
+    "date": "2024-08-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "easy-ui"
+  },
+  {
+    "name": "ecommerce-kit",
+    "description": "Next.js 入门套件，配备快速启动电子商务网站所需的工具。",
+    "link": "https://ecommercekit.dev",
+    "date": "2025-09-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "ecommerce-kit"
+  },
+  {
+    "name": "electron-shadcn",
+    "description": "Electron 应用模板，集成了 shadcn/ui 以及一系列其他库和工具，开箱即用。",
+    "link": "https://github.com/LuanRoger/electron-shadcn",
+    "date": "2024-06-17",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "electron-shadcn"
+  },
+  {
+    "name": "full-stack-monorepo-starter",
+    "description": "全栈单体仓库模板，使用 shadcn/ui + Fastify + graphql + vitejs + Docker 等技术构建。",
+    "link": "https://github.com/mnove/monorepo-starter-graphql",
+    "date": "2025-06-10",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "full-stack-monorepo-starter"
+  },
+  {
+    "name": "fumadocs-starter",
+    "description": "一个功能齐全的 Fumadocs 入门模板，内置插件、AI 功能以及构建下一个文档站点所需的一切。",
+    "link": "https://github.com/techwithanirudh/fumadocs-starter",
+    "date": "2025-11-20",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "fumadocs-starter"
+  },
+  {
+    "name": "horizon-ai-nextjs-shadcn-boilerplate",
+    "description": "高级 AI NextJS 和 shadcn/ui 样板 + Stripe + Supabase + OAuth。",
+    "link": "https://horizon-ui.com/boilerplate-shadcn",
+    "date": "2024-05-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "horizon-ai-nextjs-shadcn-boilerplate"
+  },
+  {
+    "name": "kirimase",
+    "description": "一个使用 shadcn/ui、Tailwind CSS 和 Next.js 快速启动下一个项目的模板和样板代码。",
+    "link": "https://kirimase.dev/",
+    "date": "2024-06-11",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "kirimase"
+  },
+  {
+    "name": "magicui-startup-templates",
+    "description": "Magic UI 启动模板，使用 shadcn/ui + TailwindCSS + Framer Motion 构建。",
+    "link": "https://magicui.design/docs/templates/startup",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "magicui-startup-templates"
+  },
+  {
+    "name": "next-shadcn-admin-dashboard",
+    "description": "使用 Shadcn UI 和 Next.js 15 构建的现代管理仪表板模板",
+    "link": "https://github.com/arhamkhnz/next-shadcn-admin-dashboard",
+    "date": "2025-10-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-shadcn-admin-dashboard"
+  },
+  {
+    "name": "nextMotion",
+    "description": "集成了 Nodemailer 的 Web 开发作品集模板,可轻松设置联系表单。使用 shadcn/ui + TailwindCSS + Framer Motion。",
+    "link": "https://github.com/yoyocharlie/nextMotion",
+    "date": "2024-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "nextmotion"
+  },
+  {
+    "name": "next-js-boilerplate",
+    "description": "快速搭建一个包含 TypeScript、NextAuth.js、PostgreSQL (Prisma)、Sentry、Tailwind CSS v4、shadcn/ui、Zod、Zustand、nuqs、ESLint、Husky 和 Prettier 的 Next.js 项目。[演示网站](https://next-js-boilerplate-sage-nine.vercel.app/)。",
+    "link": "https://github.com/AbhishekSharma55/next-js-boilerplate",
+    "date": "2025-09-08",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-js-boilerplate"
+  },
+  {
+    "name": "next-shadcn-dashboard-starter",
+    "description": "使用 Nextjs 14 和 shadcn/ui 的管理仪表板入门模板。",
+    "link": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-shadcn-dashboard-starter"
+  },
+  {
+    "name": "next-starter",
+    "description": "一个功能齐全的 Next.js 启动模板，集成了 TypeScript、TailwindCSS、Next-auth、Eslint、Stripe、测试工具等功能，助您高效且优雅地快速启动项目。",
+    "link": "https://github.com/Skolaczk/next-starter",
+    "date": "2024-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-starter"
+  },
+  {
+    "name": "nextjs-mdx-blog",
+    "description": "使用 Contentlayer、MDX、shadcn/ui 和 Tailwind CSS 构建的入门模板。",
+    "link": "https://github.com/ChangoMan/nextjs-mdx-blog",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "nextjs-mdx-blog"
+  },
+  {
+    "name": "next-js-views-template",
+    "description": "一个开源的可重用视图组件集合，如日历、表格等，使用 Next.js 和 ShadCN 构建。可以轻松复制粘贴这些预构建的 UI 元素到您的项目中，实现快速、响应式和可自定义的布局。",
+    "link": "https://next-js-views-template.vercel.app",
+    "date": "2024-11-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-js-views-template"
+  },
+  {
+    "name": "next-wp",
+    "description": "使用 NextJS App Router 和 React Server Components 构建的无头 Wordpress 起步模板。",
+    "link": "https://github.com/9d8dev/next-wp",
+    "date": "2024-11-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-wp"
+  },
+  {
+    "name": "onyx",
+    "description": "全栈、功能齐全的 MVP 模板，包含 NextJS 14、Supabase SSR 身份验证和 Postgres 数据库（支持 CRUD 操作）、RBAC、Tanstack React Query、Zod 验证、MDX 组件、Resend 等功能。",
+    "link": "https://github.com/rmourey26/onyx",
+    "date": "2024-08-13",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "onyx"
+  },
+  {
+    "name": "opendocs",
+    "description": "精美设计的模板，您可以免费用于您的项目。无障碍访问。可自定义。开源且支持国际化。",
+    "link": "https://opendocs.daltonmenezes.com/",
+    "date": "2024-07-29",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "opendocs"
+  },
+  {
+    "name": "react-starter-kit",
+    "description": "一个有主见的全栈样板代码，用于在边缘构建现代网络应用。特点包括 Bun、React 19、tRPC、Drizzle ORM 和 Cloudflare Workers。",
+    "link": "https://github.com/kriasoft/react-starter-kit",
+    "date": "2025-09-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "react-starter-kit"
+  },
+  {
+    "name": "react-vite-starter",
+    "description": "React 起始模板，集成了 Vite + Redux Toolkit + RTKQuery + React Router + shadcn UI 等多种工具。",
+    "link": "https://github.com/tejachundru/react-vite-starter",
+    "date": "2024-12-02",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "react-vite-starter"
+  },
+  {
+    "name": "shadcn-admin",
+    "description": "一个为 Next.js、React、Vite 和 Vue.js 构建的管理仪表板模板，使用 Tailwind CSS 构建。",
+    "link": "https://shadcnadmin.com",
+    "date": "2025-12-12",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-admin"
+  },
+  {
+    "name": "shadcn-landing-page",
+    "description": "使用 shadcn/ui、React、TypeScript 和 Tailwind CSS 的落地页模板。",
+    "link": "https://github.com/leoMirandaa/shadcn-landing-page",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-landing-page"
+  },
+  {
+    "name": "shadcn-landing-page (Vue)",
+    "description": "项目转换 [shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) 到 Next.js - 使用 Next.js、shadcn/ui、TypeScript 和 Tailwind CSS 的落地页模板。",
+    "link": "https://github.com/nobruf/shadcn-landing-page",
+    "date": "2024-12-27",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-landing-page-vue-"
+  },
+  {
+    "name": "shadcn-nextjs-free-boilerplate",
+    "description": "免费且开源的 NextJS 样板 + ChatGPT API 仪表板模板。",
+    "link": "https://github.com/horizon-ui/shadcn-nextjs-boilerplate",
+    "date": "2024-05-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-nextjs-free-boilerplate"
+  },
+  {
+    "name": "shadcn-nextjs-dashboard",
+    "description": "使用 Shadcn 和 NextJS 构建的管理仪表板 UI。免费且开源。",
+    "link": "https://github.com/NaveenDA/shadcn-nextjs-dashboard",
+    "date": "2025-06-22",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-nextjs-dashboard"
+  },
+  {
+    "name": "shadcn-portfolio",
+    "description": "一个使用 shadcn-ui 和 Next.JS 的作品集模板。",
+    "link": "https://github.com/techwithanirudh/shadcn-portfolio",
+    "date": "2025-11-20",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-portfolio"
+  },
+  {
+    "name": "shadcn-registry-template",
+    "description": "用于为 shadcn/ui 构建自定义组件注册表的模板仓库。",
+    "link": "https://github.com/vantezzen/shadcn-registry-template",
+    "date": "2024-09-05",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-registry-template"
+  },
+  {
+    "name": "shadcn-saas-landing",
+    "description": "一个使用 Next.JS、shadcn/ui 和 fumadocs 构建的完整 SaaS 落地页模板。",
+    "link": "https://github.com/techwithanirudh/shadcn-saas-landing",
+    "date": "2025-11-20",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-saas-landing"
+  },
+  {
+    "name": "shadcn-ui-dashboard",
+    "description": "多功能且强大的管理仪表板模板，兼容 shadcn/ui。",
+    "link": "https://shadcnuidashboard.com",
+    "date": "2025-09-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-ui-dashboard"
+  },
+  {
+    "name": "shadcn-vue-landing-page",
+    "description": "使用 Vue、shadcn-vue、TypeScript 和 Tailwind CSS 的落地页模板。",
+    "link": "https://github.com/leoMirandaa/shadcn-vue-landing-page",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-vue-landing-page"
+  },
+  {
+    "name": "shadcn-next-workflows",
+    "description": "使用 React Flows、Next.js 和 Shadcn/ui 的交互式工作流构建器。轻松创建、连接和验证自定义节点。",
+    "link": "https://github.com/nobruf/shadcn-next-workflows",
+    "date": "2024-10-29",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-next-workflows"
+  },
+  {
+    "name": "supa-next-shad-auth",
+    "description": "一个完全响应式、完全类型安全、安全的服务器操作、用户友好的可定制UI，遵循最佳实践。使用的技术：NextJS + Supabase + TypeScript + Server Actions + Zod + shadcn/ui。",
+    "link": "https://github.com/Sahil-Sharma-23/supa-next-shad-auth",
+    "date": "2024-07-02",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "supa-next-shad-auth"
+  },
+  {
+    "name": "sveltekit-shadcn-starter-kit",
+    "description": "生产就绪的开源通用应用模板，具有数据库抽象（Drizzle 和 Postgres）、服务器实用工具、测试、身份验证（better-auth）、国际化 + RTL/LTR 支持、mdsvex、预定义页面和内容（政策、法律等）、App Shell 组件、使用 shadcn/ui 构建的基础和自定义组件、Cookie 管理（合规）、SEO 管理支持、CLI 工具等。[演示](https://ssv5.templates.guylahav.com)",
+    "link": "https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5",
+    "date": "2025-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "sveltekit-shadcn-starter-kit"
+  },
+  {
+    "name": "t3-app-template",
+    "description": "基于 T3 Stack 和 shadcn/ui 的管理后台模板。",
+    "link": "https://github.com/gaofubin/t3-app-template",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "t3-app-template"
+  },
+  {
+    "name": "tailwind-admin",
+    "description": "基于 React 和 Tailwind CSS 构建的开源 Shadcn 仪表板模板",
+    "link": "https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template",
+    "date": "2026-01-03",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "tailwind-admin"
+  },
+  {
+    "name": "taxonomy",
+    "description": "一个使用新路由器、服务器组件以及 Next.js 中所有新功能构建的开源应用程序。",
+    "link": "https://github.com/shadcn/taxonomy",
+    "date": "2024-03-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "taxonomy"
+  },
+  {
+    "name": "template-next",
+    "description": "一个干净的 Next.js 模板，包含 TypeScript、TailwindCSS、Shadcn/ui 和 Prettier。",
+    "link": "https://template-next-official.vercel.app/",
+    "date": "2024-09-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "template-next"
+  },
+  {
+    "name": "turborepo-nextjs-wxt-shadcn-boilerplate",
+    "description": "Turborepo 样板项目，包含 web 和 web-extension 应用，使用 shadcn/ui 作为共享 UI 组件，并统一配置 Typescript、ESLint、Tailwind CSS 和 Prettier。",
+    "link": "https://github.com/Aniket-508/turborepo-nextjs-wxt-shadcn-boilerplate",
+    "date": "2025-04-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "turborepo-nextjs-wxt-shadcn-boilerplate"
+  },
+  {
+    "name": "turborepo-shadcn-ui-tailwindcss",
+    "description": "Turborepo 启动模板，预配置了 shadcn/ui 和 TailwindCSS 用于共享 UI 组件。",
+    "link": "https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "turborepo-shadcn-ui-tailwindcss"
+  },
+  {
+    "name": "turborepo-launchpad",
+    "description": "一个用于 shadcn 项目的综合性 monorepo 样板，使用 Turbo 构建。它具有高度可扩展的设置，非常适合开发具有共享组件和实用工具的复杂应用程序。",
+    "link": "https://github.com/JadRizk/turborepo-launchpad",
+    "date": "2024-06-10",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "turborepo-launchpad"
+  },
+  {
+    "name": "waitly",
+    "description": "一个简单实用的 Next.js 和 Shadcn UI 等待列表模板。",
+    "link": "https://shadcnuikit.com/template/waitly-free-waitlist-template",
+    "date": "2025-12-19",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "waitly"
+  },
+  {
+    "name": "wordpress-plugin-boilerplate",
+    "description": "WordPress 插件样板，采用现代网络技术和工具，如 React、TypeScript、SASS、TailwindCSS、Shadcn UI、Vite、Grunt.js、Storybook、HMR 等。",
+    "link": "https://github.com/prappo/wordpress-plugin-boilerplate",
+    "date": "2024-09-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "wordpress-plugin-boilerplate"
+  }
+]

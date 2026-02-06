@@ -1,0 +1,3494 @@
+[
+  {
+    "name": "21st.dev",
+    "description": "Open source npm for shadcn/ui components. Also: Dribble for design engineers. Install UI components via shadcn CLI, or publish your own.",
+    "link": "https://21st.dev/",
+    "date": "2024-12-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "21st-dev"
+  },
+  {
+    "name": "8bitcn.com",
+    "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
+    "link": "https://www.8bitcn.com/",
+    "date": "2025-04-12",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "8bitcn-com"
+  },
+  {
+    "name": "aceternity-ui",
+    "description": "Copy paste the most trending react components without having to worry about styling and animations.",
+    "link": "https://ui.aceternity.com/",
+    "date": "2024-12-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "aceternity-ui"
+  },
+  {
+    "name": "animated-header",
+    "description": "Vercel-like animated header.",
+    "link": "https://github.com/mehrdadrafiee/animated-header",
+    "date": "2025-10-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "animated-header"
+  },
+  {
+    "name": "animated-tabs",
+    "description": "Vercel-like animated tabs.",
+    "link": "https://github.com/mehrdadrafiee/animated-tabs",
+    "date": "2025-04-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "animated-tabs"
+  },
+  {
+    "name": "assistant-ui",
+    "description": "React Components for AI Chat.",
+    "link": "https://github.com/Yonom/assistant-ui",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "assistant-ui"
+  },
+  {
+    "name": "audio/ui",
+    "description": "A set of accessible and composable Audio UI components. Built on top of shadcn/ui, it's designed for you to copy, paste, and own.",
+    "link": "https://github.com/ouestlabs/audio-ui",
+    "date": "2025-11-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "audio-ui"
+  },
+  {
+    "name": "autocomplete-select-shadcn-ui",
+    "description": "Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske.",
+    "link": "https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "autocomplete-select-shadcn-ui"
+  },
+  {
+    "name": "auto-form",
+    "description": "A React component that automatically creates a shadcn/ui form based on a zod schema.",
+    "link": "https://github.com/vantezzen/auto-form",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "auto-form"
+  },
+  {
+    "name": "async-select",
+    "description": "Async Select component built with shadcn/ui with debounce search.",
+    "link": "https://async.rdsx.dev",
+    "date": "2024-07-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "async-select"
+  },
+  {
+    "name": "berlix",
+    "description": "Animated components library built using Tailwind CSS and Motion",
+    "link": "https://berlix.vercel.app",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "berlix"
+  },
+  {
+    "name": "big-calendar",
+    "description": "A modern, feature-rich calendar application with multiple viewing options built using Next.js, TypeScript, and Tailwind CSS.",
+    "link": "https://github.com/lramos33/big-calendar",
+    "date": "2025-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "big-calendar"
+  },
+  {
+    "name": "billingsdk",
+    "description": "Modern, type-safe billing and subscription management components for React, built with TypeScript and Tailwind CSS. Designed to work seamlessly alongside shadcn/ui by [Dodo Payments](https://dodopayments.com/). [GitHub](https://github.com/dodopayments/billingsdk)",
+    "link": "https://billingsdk.com/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "billingsdk"
+  },
+  {
+    "name": "billui",
+    "description": "Open source billing components for React built with Shadcn. Pricing cards, payment methods, invoice history and more.",
+    "link": "https://github.com/commet-labs/billui",
+    "date": "2025-12-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "billui"
+  },
+  {
+    "name": "blocks.so",
+    "description": "A set of clean, modern building blocks to copy and paste into your apps. Works with all React frameworks.",
+    "link": "https://github.com/ephraimduncan/blocks",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "blocks-so"
+  },
+  {
+    "name": "buouui",
+    "description": "A UI component library and template suite based on shadcn/ui with stunning landing pages, templates, and rich animations.",
+    "link": "https://buouui.com",
+    "date": "2025-04-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "buouui"
+  },
+  {
+    "name": "bundui",
+    "description": "A collection of reusable animated components built with Tailwind CSS and Framer Motion.",
+    "link": "https://bundui.io",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "bundui"
+  },
+  {
+    "name": "calendar",
+    "description": "React/shadcn full calendar like Google Calendar",
+    "link": "https://github.com/charlietlamb/calendar",
+    "date": "2024-05-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "calendar"
+  },
+  {
+    "name": "capture-photo",
+    "description": "Browser-based React component for camera functionalities in web applications.",
+    "link": "https://github.com/UretzkyZvi/capture-photo",
+    "date": "2024-05-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "capture-photo"
+  },
+  {
+    "name": "carouselcn",
+    "description": "Copy-paste carousel components and examples for your react apps",
+    "link": "https://github.com/mnove/carouselcn",
+    "date": "2026-01-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "carouselcn"
+  },
+  {
+    "name": "cascader-shadcn",
+    "description": "A cascading dropdown menu component for selecting hierarchical data like locations, categories, or organizational structures.",
+    "link": "https://github.com/Ademking/cascader-shadcn",
+    "date": "2025-12-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "cascader-shadcn"
+  },
+  {
+    "name": "clerk-elements",
+    "description": "Composable components for building custom UIs on top of Clerk's APIs.",
+    "link": "https://clerk.com/docs/elements/examples/shadcn-ui",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "clerk-elements"
+  },
+  {
+    "name": "clerk-shadcn-theme",
+    "description": "Synchronize Clerk SignIn/SignUp components with shadcn/ui styles.",
+    "link": "https://github.com/stormynight9/clerk-shadcn-theme",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "clerk-shadcn-theme"
+  },
+  {
+    "name": "commerce-ui",
+    "description": "Components, blocks and examples to build e-commerce storefronts and apps.",
+    "link": "https://github.com/stackzero-labs/ui",
+    "date": "2025-02-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "commerce-ui"
+  },
+  {
+    "name": "confirm-dialog",
+    "description": "A confirm dialog component built with shadcn/ui.",
+    "link": "https://github.com/Aslam97/react-confirm-dialog",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "confirm-dialog"
+  },
+  {
+    "name": "country-state-dropdown",
+    "description": "Component built with Nextjs, Tailwindcss, shadcn/ui & Zustand.",
+    "link": "https://github.com/Jayprecode/country-state-dropdown",
+    "date": "2024-02-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "country-state-dropdown"
+  },
+  {
+    "name": "creatorem/ui",
+    "description": "Missing awesome shadcn components (like Tour, Stepper, QRCode Motion Dialog -> to imitate native behaviour ...) built on top of radix primitives and motion.",
+    "link": "https://github.com/creatorem/ui",
+    "date": "2025-12-19",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "creatorem-ui"
+  },
+  {
+    "name": "credenza",
+    "description": "Ready-made responsive modal component for shadcn/ui.",
+    "link": "https://github.com/redpangilinan/credenza",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "credenza"
+  },
+  {
+    "name": "crypto-charts",
+    "description": "Crypto charts made for shadcn/ui using PythNetwork.",
+    "link": "https://github.com/jstnw10/crypto-charts",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "crypto-charts"
+  },
+  {
+    "name": "cult-ui",
+    "description": "Curated set of animated shadcn-style React components.",
+    "link": "https://www.cult-ui.com/",
+    "date": "2024-05-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "cult-ui"
+  },
+  {
+    "name": "custom-admin-dashboard",
+    "description": "A minimal, open-source ecommerce admin dashboard template built with shadcn/ui and Next.js. Includes products, products creation and details page, order, customer, and settings pages.",
+    "link": "https://github.com/S5SAJID/custom-ecom",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "custom-admin-dashboard"
+  },
+  {
+    "name": "data-command",
+    "description": "Component for building dynamic command palettes with API-powered data.",
+    "link": "https://shadcn.davidsling.in/components/data-command",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "data-command"
+  },
+  {
+    "name": "date-range-picker-for-shadcn",
+    "description": "Multi-month views, text entry, preset ranges, responsive design, and date range comparisons.",
+    "link": "https://github.com/johnpolacek/date-range-picker-for-shadcn",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "date-range-picker-for-shadcn"
+  },
+  {
+    "name": "date-time-picker-shadcn",
+    "description": "Datetime Picker for shadNext Project.",
+    "link": "https://shadcn-datetime-picker.vercel.app",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "date-time-picker-shadcn"
+  },
+  {
+    "name": "date-time-range-picker-shadcn",
+    "description": "Fully featured date-time range picker with multi-month views, timezone support, preset ranges, and modular components for date and time selection.",
+    "link": "https://date-time-range-picker.vercel.app/",
+    "date": "2025-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "date-time-range-picker-shadcn"
+  },
+  {
+    "name": "datetime-picker",
+    "description": "Datetime picker with timezone support, min/max dates, and month/year selection.",
+    "link": "https://shadcn-datetime-picker-xi.vercel.app",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "datetime-picker"
+  },
+  {
+    "name": "dnd-dashboard",
+    "description": "Dashboard with drop-to-swap layouts using Next.js, shadcn/ui, and swapy.",
+    "link": "https://github.com/olliethedev/dnd-dashboard",
+    "date": "2024-10-17",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "dnd-dashboard"
+  },
+  {
+    "name": "downshift-shadcn-combobox",
+    "description": "Combobox/autocomplete component built with shadcn/ui and Downshift.",
+    "link": "https://github.com/TheOmer77/downshift-shadcn-combobox",
+    "date": "2024-06-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "downshift-shadcn-combobox"
+  },
+  {
+    "name": "drag-to-resize-sidebar",
+    "description": "Extended shadcn/ui sidebar component with persisted state drag-to-resize functionality.",
+    "link": "https://github.com/lumpinif/drag-to-resize-sidebar",
+    "date": "2024-11-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "drag-to-resize-sidebar"
+  },
+  {
+    "name": "druid/ui",
+    "description": "Intercom inspired AI chatbot and UI components built on shadcn/ui.",
+    "link": "https://druidui.com/",
+    "date": "2024-11-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "druid-ui"
+  },
+  {
+    "name": "drop-drawer",
+    "description": "A dropdown menu on desktop and a drawer on mobile devices.",
+    "link": "https://github.com/jiaweing/DropDrawer",
+    "date": "2025-05-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "drop-drawer"
+  },
+  {
+    "name": "dy-comps",
+    "description": "shacn/ui & Framer Motion React components — flexible, responsive & easy to drop into any project.",
+    "link": "https://dycomps.oimmi.com/",
+    "date": "2025-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "dy-comps"
+  },
+  {
+    "name": "dynamic-svg-arrow",
+    "description": "Connect any two elements with beautiful, animated paths. Control curve shape, routing, layering, arrowheads, gradients, and responsive behavior in real-time.",
+    "link": "https://dsa.hncore.website/",
+    "date": "2025-10-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "dynamic-svg-arrow"
+  },
+  {
+    "name": "echo-editor",
+    "description": "Modern WYSIWYG rich-text editor based on tiptap and shadcn/ui.",
+    "link": "https://github.com/Seedsa/echo-editor",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "echo-editor"
+  },
+  {
+    "name": "edil-ozi",
+    "description": "React components with Gsap, framer motion, and tailwind.",
+    "link": "https://edilozi.pro/",
+    "date": "2024-06-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "edil-ozi"
+  },
+  {
+    "name": "eldora-ui",
+    "description": "free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.",
+    "link": "https://eldoraui.site/",
+    "date": "2024-12-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "eldora-ui"
+  },
+  {
+    "name": "emblor",
+    "description": "Customizable, accessible tag input component with shadcn/ui.",
+    "link": "https://github.com/JaleelB/emblor",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "emblor"
+  },
+  {
+    "name": "enhanced-button",
+    "description": "Enhanced version of the default shadcn-button component.",
+    "link": "https://github.com/jakobhoeg/enhanced-button",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "enhanced-button"
+  },
+  {
+    "name": "envin",
+    "description": "Framework-agnostic, type-safe tool to validate and preview your environment variables - powered by your favorite schema validator.",
+    "link": "https://envin.turbostarter.dev",
+    "date": "2025-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "envin"
+  },
+  {
+    "name": "eo-n/ui",
+    "description": "Enhanced UI components built on shadcn’s robust foundation, integrated with Base UI and Tailwind CSS for a modern and customizable design system.",
+    "link": "https://github.com/aeonzz/eo-n",
+    "date": "2025-04-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "eo-n-ui"
+  },
+  {
+    "name": "event-timeline-roadmap",
+    "description": "A pair of customizable, animated event timeline and roadmap components",
+    "link": "https://roadmap.hncore.website/",
+    "date": "2025-04-01",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "event-timeline-roadmap"
+  },
+  {
+    "name": "extend-ui",
+    "description": "Reusable components built on shadcn/ui for web applications.",
+    "link": "https://www.extend-ui.com/",
+    "date": "2024-11-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "extend-ui"
+  },
+  {
+    "name": "fancy-area",
+    "description": "Textarea with @mention support inspired by GitHub's PR comment section.",
+    "link": "https://craft.mxkaske.dev/post/fancy-area",
+    "date": "2024-06-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-area"
+  },
+  {
+    "name": "fancy-box",
+    "description": "GitHub PR label selector-inspired Combobox with radix-ui components.",
+    "link": "https://craft.mxkaske.dev/post/fancy-box",
+    "date": "2024-07-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-box"
+  },
+  {
+    "name": "fancy-multi-select",
+    "description": "Multi Select Component inspired by campsite.design and cal.com.",
+    "link": "https://craft.mxkaske.dev/post/fancy-multi-select",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-multi-select"
+  },
+  {
+    "name": "fancy-switch",
+    "description": "Fancy switch component built with shadcn/ui.",
+    "link": "https://github.com/Aslam97/react-fancy-switch",
+    "date": "2024-07-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fancy-switch"
+  },
+  {
+    "name": "farmui",
+    "description": "Styled and animated component library with npm package support.",
+    "link": "https://farmui.com",
+    "date": "2024-06-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "farmui"
+  },
+  {
+    "name": "file-uploader",
+    "description": "File uploader with shadcn/ui and react-dropzone.",
+    "link": "https://github.com/sadmann7/file-uploader",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "file-uploader"
+  },
+  {
+    "name": "file-vault",
+    "description": "File upload component for React.",
+    "link": "https://github.com/ManishBisht777/file-vault",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "file-vault"
+  },
+  {
+    "name": "floating-dragable-card",
+    "description": "Dragable and resizable card using shadcn/ui elements.",
+    "link": "https://github.com/nishansanjuka/react-drag-card",
+    "date": "2024-11-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "floating-dragable-card"
+  },
+  {
+    "name": "fusion-ui",
+    "description": "Library combining shadcn/ui and MagicUI.",
+    "link": "https://github.com/nyxb-ui/ui",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "fusion-ui"
+  },
+  {
+    "name": "glasscn-ui",
+    "description": "shadcn/ui component library with glassmorphism variants, and many additional components.",
+    "link": "https://github.com/itsjavi/glasscn-ui",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "glasscn-ui"
+  },
+  {
+    "name": "gluestack-ui",
+    "description": "React & React Native Components with Tailwind CSS.",
+    "link": "https://gluestack.io",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "gluestack-ui"
+  },
+  {
+    "name": "heroicons-animated",
+    "description": "An open-source collection of 316 beautifully animated heroicons for your projects.",
+    "link": "https://heroicons-animated.vercel.app/",
+    "date": "2026-01-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "heroicons-animated"
+  },
+  {
+    "name": "hexta-ui",
+    "description": "Build stunning websites effortlessly. Modern, responsive, and customizable UI components for Next.js. Copy, adapt, and personalize them.",
+    "link": "https://hextaui.com",
+    "date": "2025-05-14",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "hexta-ui"
+  },
+  {
+    "name": "ibelick/background-snippet",
+    "description": "Ready to use collection of modern background snippets.",
+    "link": "https://bg.ibelick.com/",
+    "date": "2024-06-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ibelick-background-snippet"
+  },
+  {
+    "name": "image-crop-field",
+    "description": "Image crop field with shadcn/ui. This component is a wrapper around the react-easy-crop component.",
+    "link": "https://github.com/JsCodeDevlopment/upload-crop-image",
+    "date": "2025-10-01",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "image-crop-field"
+  },
+  {
+    "name": "image-upload-shadcn",
+    "description": "Image upload component.",
+    "link": "https://github.com/kushagrasarathe/image-upload-shadcn",
+    "date": "2024-10-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "image-upload-shadcn"
+  },
+  {
+    "name": "indie-ui",
+    "description": "UI components with variants.",
+    "link": "https://github.com/Ali-Hussein-dev/indie-ui",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "indie-ui"
+  },
+  {
+    "name": "inspira-ui",
+    "description": "UI components for animated interfaces in Vue/NuxtJS.",
+    "link": "https://inspira-ui.com/",
+    "date": "2024-10-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "inspira-ui"
+  },
+  {
+    "name": "jolyui",
+    "description": "JolyUI is a modern React component library built with TypeScript, Tailwind CSS and Motion. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently.",
+    "link": "https://github.com/Johuniq/jolyui",
+    "date": "2026-01-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "jolyui"
+  },
+  {
+    "name": "junwen-k/ui-x",
+    "description": "Additional beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+    "link": "https://ui-x.junwen-k.dev/",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "junwen-k-ui-x"
+  },
+  {
+    "name": "kanban-board",
+    "description": "A production‑ready Kanban board built on shadcn/ui with React & Tailwind CSS: zero dependencies, drag‑and‑drop, keyboard accessibility and seamless theming.",
+    "link": "https://shadcn-kanban-board.com/",
+    "date": "2025-07-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "kanban-board"
+  },
+  {
+    "name": "kibo-ui",
+    "description": "Kibo UI is designed to be a more comprehensive library of components that can be used to build more complex applications.",
+    "link": "https://www.kibo-ui.com/overview",
+    "date": "2025-04-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "kibo-ui"
+  },
+  {
+    "name": "kokonut-ui",
+    "description": "Free Modern and Customizable components for Next.js.",
+    "link": "https://kokonutui.com/",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "kokonut-ui"
+  },
+  {
+    "name": "ktui",
+    "description": "Open-source collection of customizable UI components for Tailwind CSS and vanilla JavaScript",
+    "link": "https://github.com/keenthemes/ktui",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ktui"
+  },
+  {
+    "name": "launch-ui",
+    "description": "Landing page components with React, Shadcn/ui and Tailwind.",
+    "link": "https://www.launchuicomponents.com/",
+    "date": "2024-11-12",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "launch-ui"
+  },
+  {
+    "name": "lingua-time",
+    "description": "Smart datetime picker with natural language input.",
+    "link": "https://github.com/nainglinnkhant/lingua-time",
+    "date": "2024-10-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "lingua-time"
+  },
+  {
+    "name": "linked-chart",
+    "description": "Chart component linked with data-table.",
+    "link": "https://github.com/ardasisbot/linked-chart",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "linked-chart"
+  },
+  {
+    "name": "lukacho-ui",
+    "description": "Next Generation UI Components.",
+    "link": "https://ui.lukacho.com/components",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "lukacho-ui"
+  },
+  {
+    "name": "magicui",
+    "description": "React components for landing pages with tailwindcss + framer motion.",
+    "link": "https://magicui.design",
+    "date": "2024-04-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "magicui"
+  },
+  {
+    "name": "maily.to",
+    "description": "Notion-like powerful email editor.",
+    "link": "https://github.com/arikchakma/maily.to",
+    "date": "2024-06-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "maily-to"
+  },
+  {
+    "name": "manfromexistence-ui",
+    "description": "Components to build beautiful designs.",
+    "link": "https://github.com/manfromexistence/ui",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "manfromexistence-ui"
+  },
+  {
+    "name": "manifest-ui",
+    "description": "Components for ChatGPT Apps and MCP Apps.",
+    "link": "https://ui.manifest.build",
+    "date": "2025-12-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "manifest-ui"
+  },
+  {
+    "name": "matsu-theme",
+    "description": "Ghibli Studio inspired theme for shadcn/ui made by Matt Wierzbicki",
+    "link": "https://matsu-theme.vercel.app/",
+    "date": "2025-04-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "matsu-theme"
+  },
+  {
+    "name": "mindmapcn",
+    "description": "Beautiful mind maps, works seamlessly with shadcn/ui.",
+    "link": "https://github.com/SSShooter/mindmapcn",
+    "date": "2026-01-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mindmapcn"
+  },
+  {
+    "name": "minimal-tiptap",
+    "description": "Minimal WYSIWYG editor with shadcn/ui and tiptap.",
+    "link": "https://github.com/Aslam97/shadcn-minimal-tiptap",
+    "date": "2024-06-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "minimal-tiptap"
+  },
+  {
+    "name": "mixcnui",
+    "description": "Collection of animated components for Nextjs.",
+    "link": "https://github.com/taqui-786/mixcnui",
+    "date": "2024-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mixcnui"
+  },
+  {
+    "name": "modal-control-query",
+    "description": "A hook to control shadcn modal components using query params",
+    "link": "https://shadcn.davidsling.in/hooks/use-modal-control-query",
+    "date": "2025-11-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "modal-control-query"
+  },
+  {
+    "name": "moleculeui",
+    "description": "A modern React component library focused on intuitive interactions and seamless user experiences.",
+    "link": "https://www.moleculeui.design/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "moleculeui"
+  },
+  {
+    "name": "multi-selection",
+    "description": "Managing multi-selection functionality with highlighter.",
+    "link": "https://github.com/sherifawad/multi-selection-with-add-remove",
+    "date": "2025-01-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "multi-selection"
+  },
+  {
+    "name": "mvpblocks",
+    "description": "Copy-paste beautiful, responsive components without worrying about styling or animations. Build faster, launch sooner.",
+    "link": "https://blocks.mvp-subha.me",
+    "date": "2025-05-14",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mvpblocks"
+  },
+  {
+    "name": "mynaui",
+    "description": "TailwindCSS and shadcn/ui UI Kit for Figma and React.",
+    "link": "https://mynaui.com/",
+    "date": "2024-06-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "mynaui"
+  },
+  {
+    "name": "neobrutalism-components",
+    "description": "Neobrutalism-styled Tailwind React and shadcn/ui components.",
+    "link": "https://github.com/ekmas/neobrutalism-components",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "neobrutalism-components"
+  },
+  {
+    "name": "nextjs-components",
+    "description": "Next.js components with TypeScript and shadcn/ui.",
+    "link": "https://components.bridger.to/",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-components"
+  },
+  {
+    "name": "nextjs-dnd",
+    "description": "Sortable Drag and Drop with Next.js and dnd-kit.",
+    "link": "https://github.com/sujjeee/nextjs-dnd",
+    "date": "2024-04-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-dnd"
+  },
+  {
+    "name": "nextjs-link-pagination",
+    "description": "Pagination using Nextjs Links and search params.",
+    "link": "https://shadcn-next-link-pagination.vercel.app",
+    "date": "2024-07-30",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-link-pagination"
+  },
+  {
+    "name": "nextjs-multi-image-upload",
+    "description": "Compact, responsive file uploader with shadcn/ui, React Hook Form, and cloud support (S3/R2).",
+    "link": "https://github.com/jacksonkasi0/nextjs-multi-image-upload",
+    "date": "2025-02-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "nextjs-multi-image-upload"
+  },
+  {
+    "name": "next-shadcn-dashboard-starter",
+    "description": "Admin Dashboard Starter with Nextjs 14 and Shadcn UI.",
+    "link": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+    "date": "2024-06-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "next-shadcn-dashboard-starter"
+  },
+  {
+    "name": "next-stepper",
+    "description": "Dynamic multi-step form with Next.js and zustand.",
+    "link": "https://github.com/ebulku/next-stepper",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "next-stepper"
+  },
+  {
+    "name": "novel",
+    "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
+    "link": "https://github.com/steven-tey/novel",
+    "date": "2024-06-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "novel"
+  },
+  {
+    "name": "number-flow",
+    "description": "React component for number transitions and formatting.",
+    "link": "https://number-flow.barvian.me/",
+    "date": "2024-10-17",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "number-flow"
+  },
+  {
+    "name": "origin-ui",
+    "description": "Beautiful UI components with Tailwind CSS and Next.js.",
+    "link": "https://originui.com/",
+    "date": "2024-10-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "origin-ui"
+  },
+  {
+    "name": "password-input",
+    "description": "shadcn/ui custom password input.",
+    "link": "https://gist.github.com/mjbalcueva/b21f39a8787e558d4c536bf68e267398",
+    "date": "2024-03-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "password-input"
+  },
+  {
+    "name": "payment-gateways",
+    "description": "Integration of payment gateways with Next.js 14.",
+    "link": "https://github.com/PremPrakashCodes/payment-gateways",
+    "date": "2024-08-05",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "payment-gateways"
+  },
+  {
+    "name": "phone-input-shadcn-ui",
+    "description": "Custom phone number component with shadcn/ui.",
+    "link": "https://www.armand-salle.fr/post/phone-input-shadcn-ui",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "phone-input-shadcn-ui"
+  },
+  {
+    "name": "pittaya-ui",
+    "description": "A fully open-source UI library for React, powered by TypeScript and Tailwind CSS. Fast, composable, and ready for production.",
+    "link": "https://github.com/pittaya-ui/ui-kit",
+    "date": "2026-01-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "pittaya-ui"
+  },
+  {
+    "name": "planner",
+    "description": "Adaptable scheduling component for React.",
+    "link": "https://github.com/UretzkyZvi/planner",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "planner"
+  },
+  {
+    "name": "plate",
+    "description": "AI-powered rich-text editor.",
+    "link": "https://github.com/udecode/plate",
+    "date": "2024-03-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "plate"
+  },
+  {
+    "name": "plate-select-editor",
+    "description": "Rich multi-select editor.",
+    "link": "https://platejs.org/docs/multi-select",
+    "date": "2024-11-28",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "plate-select-editor"
+  },
+  {
+    "name": "pqoqubbw",
+    "description": "Open-source animated icons collection.",
+    "link": "https://icons.pqoqubbw.dev/",
+    "date": "2024-11-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "pqoqubbw"
+  },
+  {
+    "name": "pricing-page-shadcn",
+    "description": "Customizable pricing page with Next.js 14.",
+    "link": "https://github.com/m4nute/pricing-page-shadcn",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "pricing-page-shadcn"
+  },
+  {
+    "name": "progress-button",
+    "description": "Extended button component with progress UX.",
+    "link": "https://github.com/tomredman/ProgressButton",
+    "date": "2024-07-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "progress-button"
+  },
+  {
+    "name": "re-ui",
+    "description": "Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui",
+    "link": "https://reui.io/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "re-ui"
+  },
+  {
+    "name": "react-dnd-kit-tailwind-shadcn-ui",
+    "description": "Accessible kanban board with dnd-kit.",
+    "link": "https://github.com/Georgegriff/react-dnd-kit-tailwind-shadcn-ui",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-dnd-kit-tailwind-shadcn-ui"
+  },
+  {
+    "name": "react-highlight-popover",
+    "description": "Headless component for text selection popovers.",
+    "link": "https://react-highlight-popover.omsimos.com",
+    "date": "2024-10-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-highlight-popover"
+  },
+  {
+    "name": "react-pdf-flipbook-viewer",
+    "description": "PDF flipbook viewer with zoom and fullscreen.",
+    "link": "https://github.com/mohitkumawat310/react-pdf-flipbook-viewer",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-pdf-flipbook-viewer"
+  },
+  {
+    "name": "react-select",
+    "description": "React-select library with shadcn styling.",
+    "link": "https://gist.github.com/ilkou/7bf2dbd42a7faf70053b43034fc4b5a4",
+    "date": "2024-07-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-select"
+  },
+  {
+    "name": "react-wheel-picker",
+    "description": "iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support.",
+    "link": "https://react-wheel-picker.chanhdai.com",
+    "date": "2025-09-11",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "react-wheel-picker"
+  },
+  {
+    "name": "recursive-dnd-kanban-board",
+    "description": "Recursive drag and drop kanban board.",
+    "link": "https://github.com/mehrdadrafiee/recursive-dnd-kanban-board",
+    "date": "2024-10-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "recursive-dnd-kanban-board"
+  },
+  {
+    "name": "retro-ui",
+    "description": "An open source component library, inspred by neo brutalism design system",
+    "link": "https://retroui.dev",
+    "date": "2025-05-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "retro-ui"
+  },
+  {
+    "name": "roadmap-ui",
+    "description": "Components for interactive roadmaps.",
+    "link": "https://github.com/haydenbleasel/roadmap-ui",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "roadmap-ui"
+  },
+  {
+    "name": "ruixen-ui",
+    "description": "Ruixen UI: Lightweight & Customizable React Library",
+    "link": "https://github.com/ruixenui/ruixen.com",
+    "date": "2025-12-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ruixen-ui"
+  },
+  {
+    "name": "search-address",
+    "description": "Interactive address search using OpenStreetMap.",
+    "link": "https://github.com/UretzkyZvi/search-address",
+    "date": "2024-05-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "search-address"
+  },
+  {
+    "name": "shadboard",
+    "description": "An admin dashboard template built with Next.js 15, React 19, Tailwind CSS v4, and Shadcn/UI components, featuring starter and full kits for scalable, user-friendly web apps.",
+    "link": "https://github.com/Qualiora/shadboard",
+    "date": "2025-04-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadboard"
+  },
+  {
+    "name": "shadcn-address-autocomplete",
+    "description": "Address autocomplete with Google Places API.",
+    "link": "https://github.com/NiazMorshed2007/shadcn-address-autocomplete",
+    "date": "2024-07-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-address-autocomplete"
+  },
+  {
+    "name": "shadcn-admin",
+    "description": "Admin Dashboard UI with shadcn/ui and Vite.",
+    "link": "https://github.com/satnaing/shadcn-admin",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-admin"
+  },
+  {
+    "name": "shadcn-admin-kit",
+    "description": "Powerful open-source shadcn components to build beautiful internal tools, admin panels, and dashboards with React",
+    "link": "https://github.com/marmelab/shadcn-admin-kit",
+    "date": "2025-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-admin-kit"
+  },
+  {
+    "name": "shadcn-blocks",
+    "description": "Official pre-made customizable components.",
+    "link": "https://ui.shadcn.com/blocks",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-blocks"
+  },
+  {
+    "name": "shadcn-blocks-com",
+    "description": "Hundreds of extra blocks built with shadcn/ui.",
+    "link": "https://www.shadcnblocks.com",
+    "date": "2025-02-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-blocks-com"
+  },
+  {
+    "name": "shadcn-builder",
+    "description": "Create beautiful, responsive forms with the easy-to-use form builder and generate React code using shadcn/ui components.",
+    "link": "https://www.shadcn-builder.com/?utm_source=github&utm_content=awesome-shadcn-ui",
+    "date": "2025-03-31",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-builder"
+  },
+  {
+    "name": "shadcn-cal",
+    "description": "Cal.com monthly calendar replica with shadcn/ui.",
+    "link": "https://shadcn-cal-com.vercel.app/?date=2024-04-29",
+    "date": "2024-05-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-cal"
+  },
+  {
+    "name": "shadcn-calendar-heatmap",
+    "description": "Modern calendar heatmap alternative.",
+    "link": "https://shadcn-calendar-heatmap.vercel.app/",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-calendar-heatmap"
+  },
+  {
+    "name": "shadcn-calendar-component",
+    "description": "Calendar date picker component.",
+    "link": "https://github.com/sersavan/shadcn-calendar-component",
+    "date": "2024-07-02",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-calendar-component"
+  },
+  {
+    "name": "shadcn-chat",
+    "description": "Customizable chat component.",
+    "link": "https://github.com/jakobhoeg/shadcn-chat",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-chat"
+  },
+  {
+    "name": "shadcn-carousel-testimonials",
+    "description": "Carousel Testimonials component.",
+    "link": "https://github.com/johanguse/shadcn-carousel-testimonials",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-carousel-testimonials"
+  },
+  {
+    "name": "shadcn-chatbot-kit",
+    "description": "Customizable chatbot components.",
+    "link": "https://shadcn-chatbot-kit.vercel.app/",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-chatbot-kit"
+  },
+  {
+    "name": "shadcn-color-picker",
+    "description": "Color picker with react-color.",
+    "link": "https://shadcn-color-picker.vercel.app/",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-color-picker"
+  },
+  {
+    "name": "shadcn-cookies",
+    "description": "Sleek and flexible cookie consent component, designed with shadcn/ui",
+    "link": "https://shadcn-cookies.vercel.app/",
+    "date": "2025-02-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-cookies"
+  },
+  {
+    "name": "shadcn-cookie-consent",
+    "description": "Customizable cookie consent component.",
+    "link": "https://github.com/r2hu1/shadcn-cookie-consent",
+    "date": "2024-10-17",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-cookie-consent"
+  },
+  {
+    "name": "shadcn-components-blocks",
+    "description": "The ultimate blocks and components for Shadcn UI & Tailwind CSS.",
+    "link": "https://shadcncomponents.dev/",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-components-blocks"
+  },
+  {
+    "name": "shadcn-country-dropdown",
+    "description": "ISO 3166 country selector dropdown.",
+    "link": "https://shadcn-country-dropdown.vercel.app/",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-country-dropdown"
+  },
+  {
+    "name": "shadcn-data-table-advanced-col-opions",
+    "description": "DataTable with column resizing.",
+    "link": "https://github.com/danielagg/shadcn-data-table-advanced-col-opions",
+    "date": "2024-04-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-data-table-advanced-col-opions"
+  },
+  {
+    "name": "shadcn-date-picker",
+    "description": "Advanced date picker with various features.",
+    "link": "https://date-picker.luca-felix.com",
+    "date": "2024-07-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-date-picker"
+  },
+  {
+    "name": "shadcn-drag-and-drop-sort",
+    "description": "Drag-and-drop sortable list of pills of different widths using dnd-kit.",
+    "link": "https://github.com/crystaltai/shadcn-drag-and-drop",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-drag-and-drop-sort"
+  },
+  {
+    "name": "shadcn-drag-table",
+    "description": "Drag-and-drop table component.",
+    "link": "https://github.com/zenoncao/shadcn-drag-table",
+    "date": "2024-02-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-drag-table"
+  },
+  {
+    "name": "shadcn-dropzone",
+    "description": "File upload component using React-Dropzone, built with accessibility in mind.",
+    "link": "https://github.com/janglad/shadcn-dropzone",
+    "date": "2025-01-13",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-dropzone"
+  },
+  {
+    "name": "shadcn-editor",
+    "description": "Lexical editor with shadcn theme.",
+    "link": "https://github.com/htmujahid/shadcn-editor",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-editor"
+  },
+  {
+    "name": "shadcn-examples",
+    "description": "Dozens of advanced shadcn/ui examples. Easily integrate sample applications and components into your project.",
+    "link": "https://shadcnexamples.com",
+    "date": "2025-06-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-examples"
+  },
+  {
+    "name": "shadcn-extends",
+    "description": "Collection of shadcn/ui components.",
+    "link": "https://github.com/lucioew28/extends",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-extends"
+  },
+  {
+    "name": "shadcn-extension",
+    "description": "Open-source component collection.",
+    "link": "https://github.com/BelkacemYerfa/shadcn-extension",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-extension"
+  },
+  {
+    "name": "shadcn-font-picker",
+    "description": "Font picker using shadcn/ui components and google font API.",
+    "link": "https://shadcn-font-picker.vercel.app",
+    "date": "2025-04-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-font-picker"
+  },
+  {
+    "name": "shadcn-full-calendar",
+    "description": "A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event management, and a modern UI.",
+    "link": "https://github.com/yassir-jeraidi/full-calendar",
+    "date": "2025-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-full-calendar"
+  },
+  {
+    "name": "shadcn-iconpicker",
+    "description": "React/shadcn simple icon picker using lucide icons.",
+    "link": "https://icon-picker.alan-courtois.fr/",
+    "date": "2025-02-20",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-iconpicker"
+  },
+  {
+    "name": "shadcn-image-cropper",
+    "description": "Image cropper with react-image-crop.",
+    "link": "https://github.com/sujjeee/shadcn-image-cropper",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-image-cropper"
+  },
+  {
+    "name": "shadcn-io",
+    "description": "Advanced Shadcn/UI components.",
+    "link": "https://shadcn.io",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-io"
+  },
+  {
+    "name": "shadcn-linear-combobox",
+    "description": "Linear-style task priority combobox.",
+    "link": "https://github.com/damianricobelli/shadcn-linear-combobox",
+    "date": "2024-04-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-linear-combobox"
+  },
+  {
+    "name": "shadcn-location-picker",
+    "description": "Simple google maps location picker.",
+    "link": "https://github.com/brielov/shadcn-location-picker",
+    "date": "2025-03-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-location-picker"
+  },
+  {
+    "name": "shadcn-map",
+    "description": "A map component built for shadcn/ui using Leaflet and React Leaflet.",
+    "link": "https://shadcn-map.vercel.app/",
+    "date": "2025-09-30",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-map"
+  },
+  {
+    "name": "shadcn-multi-select-component",
+    "description": "Multi-select component.",
+    "link": "https://github.com/sersavan/shadcn-multi-select-component",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-multi-select-component"
+  },
+  {
+    "name": "shadcn-number-scrubber",
+    "description": "Draggable numeric input component.",
+    "link": "https://github.com/camwebby/shadcn-react-number-scrubber",
+    "date": "2025-01-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-number-scrubber"
+  },
+  {
+    "name": "shadcn-packaged",
+    "description": "This is an npm package that exports all shadcn/ui components without the need for a CLI, designed for ease of use.",
+    "link": "https://github.com/anuoua/shadcn-packaged",
+    "date": "2025-02-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-packaged"
+  },
+  {
+    "name": "shadcn-phone-input-2",
+    "description": "Phone input with libphonenumber-js.",
+    "link": "https://github.com/damianricobelli/shadcn-phone-input",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-phone-input-2"
+  },
+  {
+    "name": "shadcn-phone-input",
+    "description": "Phone input with country validation.",
+    "link": "https://github.com/omeralpi/shadcn-phone-input",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-phone-input"
+  },
+  {
+    "name": "shadcn-pricing-page",
+    "description": "Responsive pricing component with toggles.",
+    "link": "https://github.com/aymanch-03/shadcn-pricing-page",
+    "date": "2024-03-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-pricing-page"
+  },
+  {
+    "name": "shadcn-spinner",
+    "description": "Spinner component.",
+    "link": "https://github.com/allipiopereira/shadcn-spinner",
+    "date": "2024-12-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-spinner"
+  },
+  {
+    "name": "shadcn-stepper",
+    "description": "Complete stepper component.",
+    "link": "https://github.com/damianricobelli/stepperize",
+    "date": "2024-04-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-stepper"
+  },
+  {
+    "name": "shadcn-studio",
+    "description": "Open Source Registry of Shadcn components and blocks.",
+    "link": "https://shadcnstudio.com/",
+    "date": "2025-04-24",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-studio"
+  },
+  {
+    "name": "shadcn-table-maker",
+    "description": "Tool for creating dynamic tables.",
+    "link": "https://shadcn-table-maker.vercel.app/",
+    "date": "2024-12-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-table-maker"
+  },
+  {
+    "name": "shadcn-table-v2",
+    "description": "Table with server-side features.",
+    "link": "https://github.com/sadmann7/shadcn-table",
+    "date": "2024-03-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-table-v2"
+  },
+  {
+    "name": "shadcn-tanstack-form",
+    "description": "Seamless shadcn TanStack Form component set. Fully featured with validation support and type-safety.",
+    "link": "https://shadcn-tanstack-form.felipestanzani.com/",
+    "date": "2025-10-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-tanstack-form"
+  },
+  {
+    "name": "shadcn-timeline",
+    "description": "Customizable timeline component.",
+    "link": "https://github.com/timDeHof/shadcn-timeline",
+    "date": "2024-06-22",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-timeline"
+  },
+  {
+    "name": "shadcn-timeline-2",
+    "description": "Alternative timeline component.",
+    "link": "https://timeline.rilcy.app",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-timeline-2"
+  },
+  {
+    "name": "shadcn-tiptap",
+    "description": "Custom Tiptap editor extensions.",
+    "link": "https://github.com/NiazMorshed2007/shadcn-tiptap",
+    "date": "2024-11-08",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-tiptap"
+  },
+  {
+    "name": "shadcn-vaults",
+    "description": "Collection of various interactive components & blocks for Internal Tools UI like Dashboard, Monitoring, Admin, CMS, and more. Specifically made for Full-Stack Dev",
+    "link": "https://shadcn-vaults.vercel.app/",
+    "date": "2025-07-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-vaults"
+  },
+  {
+    "name": "shadcn-tree-view",
+    "description": "Hierarchical data component.",
+    "link": "https://github.com/mrlightful/shadcn-tree-view",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-tree-view"
+  },
+  {
+    "name": "shadcn-ui-blocks",
+    "description": "Collection of responsive UI blocks.",
+    "link": "https://shadcn-ui-blocks.vercel.app/",
+    "date": "2024-06-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-blocks"
+  },
+  {
+    "name": "shadcn-ui-expansions",
+    "description": "Additional useful components.",
+    "link": "https://github.com/hsuanyi-chou/shadcn-ui-expansions",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-expansions"
+  },
+  {
+    "name": "shadcn-ui-sidebar",
+    "description": "Retractable responsive sidebar.",
+    "link": "https://github.com/salimi-my/shadcn-ui-sidebar",
+    "date": "2024-05-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-sidebar"
+  },
+  {
+    "name": "shadcn-ui-templates",
+    "description": "Free & Premium templates collection.",
+    "link": "https://shadcnui-templates.com",
+    "date": "2024-09-18",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-ui-templates"
+  },
+  {
+    "name": "shadcnship",
+    "description": "Production-ready shadcn/ui component registry for building modern SaaS applications with Next.js, TypeScript, and Tailwind CSS.",
+    "link": "https://github.com/arnaudvolp/shadcnship",
+    "date": "2026-01-31",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcnship"
+  },
+  {
+    "name": "shaduxe-ui",
+    "description": "Component variants for shadcn/ui.",
+    "link": "https://ui.shaduxe.com",
+    "date": "2024-12-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shaduxe-ui"
+  },
+  {
+    "name": "shadcn-event-calendar",
+    "description": "A beautiful and flexible event calendar component inspired by Google Calendar and Notion, built with Shadcn UI, TailwindCSS, and Framer Motion.",
+    "link": "https://shadcn-event-calendar.vercel.app",
+    "date": "2025-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shadcn-event-calendar"
+  },
+  {
+    "name": "shsfui",
+    "description": "Motion-first React components built with Tailwind CSS + Framer Motion.",
+    "link": "https://www.shsfui.com",
+    "date": "2025-03-12",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shsfui"
+  },
+  {
+    "name": "shuip",
+    "description": "Provides ready-to-use, business-focused components that help you ship faster.",
+    "link": "https://shuip.plvo.dev/docs",
+    "date": "2025-10-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "shuip"
+  },
+  {
+    "name": "simple-ai",
+    "description": "Components and blocks to easily build AI apps",
+    "link": "https://simple-ai.dev",
+    "date": "2025-01-21",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "simple-ai"
+  },
+  {
+    "name": "simple-image-uploader",
+    "description": "Image uploader with dnd, validation and previews",
+    "link": "https://simple-image-uploader-bice.vercel.app/",
+    "date": "2025-03-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "simple-image-uploader"
+  },
+  {
+    "name": "simplekit",
+    "description": "Wallet and account component for Wagmi.",
+    "link": "https://github.com/vaunblu/SimpleKit",
+    "date": "2024-09-18",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "simplekit"
+  },
+  {
+    "name": "skiper-ui",
+    "description": "Stand out from others with this crazzy ui library built with shad-cn cli",
+    "link": "https://skiper-ui.com/",
+    "date": "2025-02-03",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "skiper-ui"
+  },
+  {
+    "name": "solanauth",
+    "description": "Solana wallet authentication modal.",
+    "link": "https://solanauth.vercel.app/",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "solanauth"
+  },
+  {
+    "name": "sortable",
+    "description": "Sortable component with dnd-kit.",
+    "link": "https://github.com/sadmann7/sortable",
+    "date": "2024-04-09",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "sortable"
+  },
+  {
+    "name": "spectrum-ui",
+    "description": "Collection using Aceternity UI Magic UI.",
+    "link": "https://github.com/arihantcodes/spectrum-ui",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "spectrum-ui"
+  },
+  {
+    "name": "stateful-button",
+    "description": "A shadcn/ui button component that provides clear visual feedback with full accessibility support for loading/progress, success, and error states during asynchronous operations.",
+    "link": "https://github.com/nanyx95/Stateful-Button-React",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "stateful-button"
+  },
+  {
+    "name": "stocks",
+    "description": "Stock Picker with Next.js charts.",
+    "link": "https://github.com/aryanvichare/stocks",
+    "date": "2024-07-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "stocks"
+  },
+  {
+    "name": "supabase-shadcn-database-example",
+    "description": "supabase + shadcn/ui datatable",
+    "link": "https://github.com/thisisfel1x/supabase-shadcn-database-example",
+    "date": "2024-12-30",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "supabase-shadcn-database-example"
+  },
+  {
+    "name": "supercharged-shadcn-components",
+    "description": "Type-safe form components collection.",
+    "link": "https://github.com/slickwit/supercharged-shadcn-components",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "supercharged-shadcn-components"
+  },
+  {
+    "name": "svelte-image-uploader",
+    "description": "Svelte image uploader with dnd, validation and previews.",
+    "link": "https://svelte-image-uploader.vercel.app/",
+    "date": "2025-06-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "svelte-image-uploader"
+  },
+  {
+    "name": "tanstack-ui-table",
+    "description": "Customizable table with @tanstack/table and shadcn/ui",
+    "link": "https://github.com/drefahl/tanstack-ui-table",
+    "date": "2025-02-27",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tanstack-ui-table"
+  },
+  {
+    "name": "time-picker",
+    "description": "Simple TimePicker component.",
+    "link": "https://github.com/openstatusHQ/time-picker",
+    "date": "2024-04-29",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "time-picker"
+  },
+  {
+    "name": "tnks-data-table",
+    "description": "Advanced data table component built with shadcn/ui and TanStack Table featuring server-side operations, row selection, filtering, column customization, and export functionality. Fully TypeScript compatible with comprehensive documentation.",
+    "link": "https://github.com/jacksonkasi1/tnks-data-table",
+    "date": "2025-04-19",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tnks-data-table"
+  },
+  {
+    "name": "tool-ui",
+    "description": "Beautiful, ready-to-use UI components for AI tool calls and MCP UI.",
+    "link": "https://www.tool-ui.com/",
+    "date": "2025-12-10",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tool-ui"
+  },
+  {
+    "name": "tour",
+    "description": "A component for building onboarding tours. Designed to integrate with shadcn/ui.",
+    "link": "https://onboarding-tour.vercel.app",
+    "date": "2025-12-04",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tour"
+  },
+  {
+    "name": "tremor",
+    "description": "Components for charts and dashboards.",
+    "link": "https://github.com/tremorlabs/tremor",
+    "date": "2024-06-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tremor"
+  },
+  {
+    "name": "twblocks",
+    "description": "Website blocks based on shadcn & Radix.",
+    "link": "https://github.com/tommyjepsen/twblocks",
+    "date": "2024-11-25",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "twblocks"
+  },
+  {
+    "name": "tweet-to-code",
+    "description": "Twitter design recreations as code.",
+    "link": "https://tweet-to-code.vercel.app/",
+    "date": "2024-12-26",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "tweet-to-code"
+  },
+  {
+    "name": "ui-beats",
+    "description": "Animated React Components collection.",
+    "link": "https://uibeats.com",
+    "date": "2024-09-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ui-beats"
+  },
+  {
+    "name": "ui-layouts",
+    "description": "UI Layouts isn’t just a library. It’s a complete toolkit with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.",
+    "link": "https://www.ui-layouts.com/",
+    "date": "2025-10-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "ui-layouts"
+  },
+  {
+    "name": "uixmat-onborda",
+    "description": "Product tour for Next.js applications.",
+    "link": "https://github.com/uixmat/onborda",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "uixmat-onborda"
+  },
+  {
+    "name": "uselayouts",
+    "description": "Free premium animated React components and micro-interactions built with Framer Motion and Tailwind CSS. Modern, ready-to-use motion components for high-converting websites.",
+    "link": "https://uselayouts.com",
+    "date": "2026-01-23",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "uselayouts"
+  },
+  {
+    "name": "vaul",
+    "description": "Drawer component for React.",
+    "link": "https://vaul.emilkowal.ski/",
+    "date": "2024-06-07",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "vaul"
+  },
+  {
+    "name": "vyoma-ui",
+    "description": "Beautiful Components Made on top of Shadcn/ui with Spatial Wisdom Inside. Truly Beyond UI.",
+    "link": "https://vyomaui.design/",
+    "date": "2025-07-15",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "vyoma-ui"
+  },
+  {
+    "name": "wds registry",
+    "description": "A collection of components that you can use to build your own component library.",
+    "link": "https://wds-shadcn-registry.netlify.app",
+    "date": "2025-09-06",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "wds-registry"
+  },
+  {
+    "name": "zoom-charts",
+    "description": "Zoomable Charts with shadcn/ui.",
+    "link": "https://github.com/shelwinsunga/zoom-chart-demo",
+    "date": "2024-07-16",
+    "category": "libs-and-components",
+    "categoryLabel": "Libs and Components",
+    "folder": "zoom-charts"
+  },
+  {
+    "name": "more-shadcn",
+    "description": "A collection of high-quality, copy-paste components for Svelte 5, built on top of shadcn-svelte.",
+    "link": "https://more-shadcn.noair.fun/",
+    "date": "2026-01-23",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "more-shadcn"
+  },
+  {
+    "name": "neobrutalism-vue",
+    "description": "A vue-based registry of neobrutalism-styled Tailwind components.",
+    "link": "https://github.com/michaelsieminski/neobrutalism-vue",
+    "date": "2025-12-04",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "neobrutalism-vue"
+  },
+  {
+    "name": "registry.directory",
+    "description": "A curated directory to discover, preview, and copy shadcn/ui registries.",
+    "link": "https://github.com/rbadillap/registry.directory",
+    "date": "2025-09-20",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "registry-directory"
+  },
+  {
+    "name": "undraw-cn",
+    "description": "Beautiful, customizable React components for unDraw illustrations.",
+    "link": "https://undraw-cn.vaatun.com",
+    "date": "2025-12-04",
+    "category": "registries",
+    "categoryLabel": "Registries",
+    "folder": "undraw-cn"
+  },
+  {
+    "name": "chat-with-youtube",
+    "description": "A chrome extension is designed to give you the ability to efficiently summarize videos, easily search for specific parts, and enjoy additional useful features.",
+    "link": "https://chat-with-youtube.vercel.app/",
+    "date": "2024-06-07",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "chat-with-youtube"
+  },
+  {
+    "name": "designgui",
+    "description": "A Chrome Browser Extension for managing colors in CSS Variables.",
+    "link": "https://www.designgui.io/",
+    "date": "2024-09-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "designgui"
+  },
+  {
+    "name": "imprompt",
+    "description": "A Chrome extension that enhances prompts on AI websites directly, making your AI prompts more effective and productive.",
+    "link": "https://github.com/avalynndev/imprompt",
+    "date": "2025-09-06",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "imprompt"
+  },
+  {
+    "name": "raycast-shadcn",
+    "description": "Raycast extension to Browse shadcn/ui documentation, components, and examples.",
+    "link": "https://www.raycast.com/luisFilipePT/shadcn-ui",
+    "date": "2024-06-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "raycast-shadcn"
+  },
+  {
+    "name": "shadcn-hsl-preview",
+    "description": "shadcn HSL Preview extension for Visual Studio Code.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=dexxiez.shadcn-color-preview",
+    "date": "2024-09-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "shadcn-hsl-preview"
+  },
+  {
+    "name": "shadcn-ui",
+    "description": "Add components from shadcn/ui directly from VS Code.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=SuhelMakkad.shadcn-ui",
+    "date": "2024-03-08",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "shadcn-ui"
+  },
+  {
+    "name": "shadcn/ui Components Manager",
+    "description": "A plugin for Jetbrain products. It allows you to manage your shadcn/ui components across Svelte, React, Vue, and Solid frameworks with this plugin. Simplify tasks like adding, removing, and updating components.",
+    "link": "https://plugins.jetbrains.com/plugin/23479-shadcn-ui-components-manager",
+    "date": "2024-03-28",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "shadcn-ui-components-manager"
+  },
+  {
+    "name": "vscode-shadcn-svelte",
+    "description": "VS Code extension for shadcn/ui components in Svelte projects.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte&ssr=false#overview",
+    "date": "2024-03-28",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "vscode-shadcn-svelte"
+  },
+  {
+    "name": "vscode-shadcn-ui-snippets",
+    "description": "Easily import and use shadcn-ui components with ease using snippets within VSCode. Just type cn or shadcn in your jsx/tsx file and you will get a list of all the components to choose from.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=VeroXyle.shadcn-ui-snippets",
+    "date": "2024-06-05",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "vscode-shadcn-ui-snippets"
+  },
+  {
+    "name": "vscode-shadcn-vue",
+    "description": "Extension for integrating shadcn/ui components into Vue.js projects.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=Selemondev.shadcn-vue",
+    "date": "2024-03-28",
+    "category": "plugins-and-extensions",
+    "categoryLabel": "Plugins and Extensions",
+    "folder": "vscode-shadcn-vue"
+  },
+  {
+    "name": "10000+Themes for shadcn/ui",
+    "description": "10000+ Themes for shadcn/ui.",
+    "link": "https://ui.jln.dev/",
+    "date": "2024-02-22",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "10000-themes-for-shadcn-ui"
+  },
+  {
+    "name": "dizzy",
+    "description": "Bootstrap a new Next or Vite project with shadcn/ui. Customize font, icons, colors, spacing, radii, and shadows.",
+    "link": "https://dizzy.systems",
+    "date": "2024-06-05",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "dizzy"
+  },
+  {
+    "name": "ewgenius/ui",
+    "description": "Create custom themes for shadcn/ui effortlessly using vibrant palettes from Radix Colors.",
+    "link": "https://ui.ewgenius.me/shadcn-radix-colors",
+    "date": "2024-10-11",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "ewgenius-ui"
+  },
+  {
+    "name": "gradient-picker",
+    "description": "Fancy Gradient Picker built with shadcn/ui, Radix UI, and Tailwind CSS.",
+    "link": "https://github.com/Illyism/gradient-picker",
+    "date": "2024-03-08",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "gradient-picker"
+  },
+  {
+    "name": "navnote/rangeen",
+    "description": "Tool that helps you to create a colour palette for your website.",
+    "link": "https://github.com/navnote/rangeen",
+    "date": "2024-06-05",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "navnote-rangeen"
+  },
+  {
+    "name": "shadesigner.com",
+    "description": "A shadcn/ui Palette Generator & Theme Designer with a beautiful interface.",
+    "link": "https://shadesigner.com",
+    "date": "2024-12-26",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "shadesigner-com"
+  },
+  {
+    "name": "shadcn-ui-customizer",
+    "description": "POC - shadcn/ui themes with color pickers.",
+    "link": "https://github.com/Railly/shadcn-ui-customizer",
+    "date": "2024-03-08",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "shadcn-ui-customizer"
+  },
+  {
+    "name": "shadcn theme editor",
+    "description": "Shadcn Theme Editor is a user-friendly component designed to simplify the process of managing and customizing theme colors in Shadcn-based projects.",
+    "link": "https://github.com/programming-with-ia/shadcn-theme-editor/",
+    "date": "2024-08-19",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "shadcn-theme-editor"
+  },
+  {
+    "name": "tweakcn",
+    "description": "powerful theme editor for shadcn/ui components, offering beautifully designed themes and seamless Tailwind CSS V4 integration",
+    "link": "https://tweakcn.com/",
+    "date": "2025-03-25",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "tweakcn"
+  },
+  {
+    "name": "ui-colorgen",
+    "description": "An application designed to assist you with color configuration of shadcn/ui.",
+    "link": "https://ui-colorgen.vercel.app/",
+    "date": "2024-02-22",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "ui-colorgen"
+  },
+  {
+    "name": "zippy starter's shadcn/ui theme generator",
+    "description": "Easily create custom themes from a single colour that you can copy and paste into your apps.",
+    "link": "https://zippystarter.com/tools/shadcn-ui-theme-generator",
+    "date": "2024-03-13",
+    "category": "colors-and-customizations",
+    "categoryLabel": "Colors and Customizations",
+    "folder": "zippy-starter-s-shadcn-ui-theme-generator"
+  },
+  {
+    "name": "animata",
+    "description": "Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.",
+    "link": "https://animata.design",
+    "date": "2024-08-26",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "animata"
+  },
+  {
+    "name": "animate-ui",
+    "description": "A fully animated, open-source React component distribution. Browse a list of animated primitives, components and icons you can install and use in your projects.",
+    "link": "https://animate-ui.com/",
+    "date": "2025-10-15",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "animate-ui"
+  },
+  {
+    "name": "magicui.design",
+    "description": "Largest collection of open-source react components to build beautiful landing pages.",
+    "link": "https://magicui.design",
+    "date": "2024-04-25",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "magicui-design"
+  },
+  {
+    "name": "motionvariants",
+    "description": "Beautiful Framer Motion Animations.",
+    "link": "https://github.com/chrisabdo/motionvariants",
+    "date": "2024-03-08",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "motionvariants"
+  },
+  {
+    "name": "smooth-ui",
+    "description": "Highly customizable, production-ready UI blocks for building beautiful websites and apps that look and feel the way you mean it.",
+    "link": "https://smoothui.dev/",
+    "date": "2025-10-15",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "smooth-ui"
+  },
+  {
+    "name": "tailwindcss-motion",
+    "description": "A new simple syntax animation library. Batteries included. Infinitely configurable.",
+    "link": "https://rombo.co/tailwind/",
+    "date": "2024-11-13",
+    "category": "animations",
+    "categoryLabel": "Animations",
+    "folder": "tailwindcss-motion"
+  },
+  {
+    "name": "5devs",
+    "description": "A website to get fake Brazilian data for testing purposes.",
+    "link": "https://www.5devs.com.br/",
+    "date": "2024-05-31",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "5devs"
+  },
+  {
+    "name": "bento-hub",
+    "description": "BentoHub is an application where you can create a bento grid for your GitHub profile readme.",
+    "link": "https://github.com/amittam104/BentoHub",
+    "date": "2024-09-09",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "bento-hub"
+  },
+  {
+    "name": "cheatsheet",
+    "description": "A comprehensive, interactive reference for shadcn/ui components with live previews, code examples, and instant copy functionality.",
+    "link": "https://shadcnstore.com/cheatsheet/",
+    "date": "2025-09-22",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "cheatsheet"
+  },
+  {
+    "name": "cut-it",
+    "description": "Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso, and styled with shadcn/ui.",
+    "link": "https://github.com/mehrabmp/cut-it",
+    "date": "2024-06-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "cut-it"
+  },
+  {
+    "name": "country-data-in-charts",
+    "description": "Globe Graph is a web app that visualizes countries' data like GDP, GDP per capita, and population in different years using many charts.",
+    "link": "https://globe-graph.vercel.app/",
+    "date": "2024-09-09",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "country-data-in-charts"
+  },
+  {
+    "name": "dev-quotes",
+    "description": "A website that displays quotes from professional programmers.",
+    "link": "https://dev-quotes-six.vercel.app/",
+    "date": "2025-01-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "dev-quotes"
+  },
+  {
+    "name": "down-dev-detector",
+    "description": "This app lists all the services currently down and uses Atlassian Status Page and others (soon).",
+    "link": "https://github.com/birobirobiro/downdevdetector",
+    "date": "2024-11-04",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "down-dev-detector"
+  },
+  {
+    "name": "cv-forge",
+    "description": "Resume builder built with @shadcn/ui, react-hook-form, and react-pdf.",
+    "link": "https://cvforge.app",
+    "date": "2024-11-04",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "cv-forge"
+  },
+  {
+    "name": "focus-brew",
+    "description": "A free productivity toolkit that combines essential tools to help you stay focused, organized, and efficient throughout your workday.",
+    "link": "https://focusbrew.vercel.app",
+    "date": "2025-05-14",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "focus-brew"
+  },
+  {
+    "name": "form-builder",
+    "description": "UI-based codegen tool to easily create beautiful and type-safe @shadcn/ui forms.",
+    "link": "https://github.com/AlandSleman/FormBuilder",
+    "date": "2024-06-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "form-builder"
+  },
+  {
+    "name": "form-builder-fast",
+    "description": "Shadcn Form Builder - Build forms in minutes for free.",
+    "link": "https://ui.indie-starter.dev/form-builder",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "form-builder-fast"
+  },
+  {
+    "name": "graphitup",
+    "description": "Create free downloadable Shadcn-themed chart images. Supports PNG, JPEG, WEBP, and even WEBM videos. Upload your own data for more realistic designs.",
+    "link": "https://graphitup.com/tools",
+    "date": "2025-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "graphitup"
+  },
+  {
+    "name": "hook-again",
+    "description": "A collection of shadcn/ui installable React Hooks.",
+    "link": "https://github.com/ilyichv/hookagain",
+    "date": "2024-11-04",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "hook-again"
+  },
+  {
+    "name": "Img2m3",
+    "description": "A developer tool that automates the process of creating cohesive, accessible design systems. It bridges the gap between Google's Material Design 3 algorithms and the modern Tailwind CSS v4 ecosystem.",
+    "link": "https://img2m3.vercel.app/studio",
+    "date": "2026-01-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "img2m3"
+  },
+  {
+    "name": "imgsrc",
+    "description": "Generate beautiful Open Graph images with zero effort.",
+    "link": "https://imgsrc.io/",
+    "date": "2024-05-31",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "imgsrc"
+  },
+  {
+    "name": "invoify",
+    "description": "An invoice generator app built using Next.js, TypeScript, and shadcn/ui.",
+    "link": "https://github.com/aliabb01/invoify",
+    "date": "2024-03-27",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "invoify"
+  },
+  {
+    "name": "jobsync",
+    "description": "JobSync is a job seekers' assistant to manage job search efficiently.",
+    "link": "https://github.com/Gsync/jobsync",
+    "date": "2024-07-17",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "jobsync"
+  },
+  {
+    "name": "memfree",
+    "description": "Open-source hybrid AI search engine, instantly get accurate answers from the internet, bookmarks, notes, and docs. Built using Next.js and shadcn/ui.",
+    "link": "https://github.com/memfreeme/memfree",
+    "date": "2024-07-22",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "memfree"
+  },
+  {
+    "name": "opensearch-ai",
+    "description": "SearchGPT/Perplexity clone but personalized for you.",
+    "link": "https://github.com/supermemoryai/opensearch-ai",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "opensearch-ai"
+  },
+  {
+    "name": "pagegen.ai",
+    "description": "An AI Page Generator with Claude AI, React, and shadcn/ui. Generate web pages from text, screenshots, and templates with one click.",
+    "link": "https://pagegen.ai",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "pagegen-ai"
+  },
+  {
+    "name": "pastecode",
+    "description": "Pastebin alternative built with TypeScript, Next.js, Drizzle, shadcn/ui, and RSC.",
+    "link": "https://github.com/Quorin/PasteCode.app",
+    "date": "2024-06-07",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "pastecode"
+  },
+  {
+    "name": "pictera",
+    "description": "Generate Open Graph images without design skills.",
+    "link": "https://pictera.co",
+    "date": "2025-10-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "pictera"
+  },
+  {
+    "name": "proxmox-helper-scripts",
+    "description": "A catalog of scripts for your Proxmox VE homelab, built with the Next.js App Router and styled with shadcn/ui.",
+    "link": "https://github.com/BramSuurdje/proxmox-helper-scripts",
+    "date": "2024-07-16",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "proxmox-helper-scripts"
+  },
+  {
+    "name": "quack-db",
+    "description": "Open-source in-browser DuckDB SQL editor.",
+    "link": "https://github.com/mattf96s/QuackDB",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "quack-db"
+  },
+  {
+    "name": "shadcn-easy-install",
+    "description": "Install all shadcn components easily. One-click to install all selected components.",
+    "link": "https://shadcn-easy-install.vercel.app/",
+    "date": "2025-06-10",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-easy-install"
+  },
+  {
+    "name": "shadcn-form-builder",
+    "description": "Create forms with Shadcn, react-hook-form, and Zod within minutes.",
+    "link": "https://shadcn-form-build.vercel.app/",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-form-builder"
+  },
+  {
+    "name": "shadcn-hooks",
+    "description": "A comprehensive React Hooks Collection built with Shadcn.",
+    "link": "https://shadcn-hooks.vercel.app/",
+    "date": "2025-10-13",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-hooks"
+  },
+  {
+    "name": "shadcn-pricing-page-generator",
+    "description": "The easiest way to get a React pricing page with shadcn/ui, Radix UI, and/or Tailwind CSS.",
+    "link": "https://shipixen.com/shadcn-pricing-page",
+    "date": "2024-03-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-pricing-page-generator"
+  },
+  {
+    "name": "shadcn-theme-editor",
+    "description": "Shadcn Theme Editor is a user-friendly component designed to simplify the process of managing and customizing theme colors in Shadcn-based projects.",
+    "link": "https://shadcnthemeeditor.vercel.app",
+    "date": "2024-08-19",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-theme-editor"
+  },
+  {
+    "name": "shadcn-zod-form",
+    "description": "CLI tool to generate shadcn/ui forms from Zod schemas.",
+    "link": "https://github.com/ilyichv/shadcn-zod-form",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "shadcn-zod-form"
+  },
+  {
+    "name": "sharable-form-builder",
+    "description": "A sharable form builder for creating forms and sharing your form link, based on shadcn/ui and Next.js.",
+    "link": "https://github.com/ayoubben18/sharable-form-builder",
+    "date": "2024-10-12",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "sharable-form-builder"
+  },
+  {
+    "name": "slidytabs",
+    "description": "A tool that adds a sliding indicator animation to shadcn `<Tabs />` without changing how you use or customize the component",
+    "link": "https://slidytabs.dev",
+    "date": "2026-01-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "slidytabs"
+  },
+  {
+    "name": "someday",
+    "description": "Free to host and open-source Cal.com/Calendly alternative built on Google Apps Script for Gmail users.",
+    "link": "https://github.com/rbbydotdev/someday",
+    "date": "2024-12-26",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "someday"
+  },
+  {
+    "name": "sweep",
+    "description": "Sweep is a modern, open-source gradient generator built for designers and developers. Create beautiful linear and radial gradients with real-time preview, noise/blur effects, and export to CSS, Tailwind, SVG, or JPG. Free forever. No sign-up required.",
+    "link": "https://github.com/Johuniq/sweep",
+    "date": "2025-11-11",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "sweep"
+  },
+  {
+    "name": "tancn",
+    "description": "Build powerful forms and tables with ease using TanStack technologies",
+    "link": "https://tancn.dev/",
+    "date": "2025-11-02",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "tancn"
+  },
+  {
+    "name": "tinte",
+    "description": "An opinionated VS Code Theme Generator 🎨.",
+    "link": "https://tinte.railly.dev/",
+    "date": "2024-10-03",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "tinte"
+  },
+  {
+    "name": "translate-app",
+    "description": "Translate App using TypeScript, Tailwind CSS, NextJS, Bun, shadcn/ui, AI SDK/OpenAI, and Zod.",
+    "link": "https://github.com/developaul/translate-app",
+    "date": "2024-07-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "translate-app"
+  },
+  {
+    "name": "typelabs",
+    "description": "MonkeyType-inspired typing test app built with React, shadcn, and Zustand at its core.",
+    "link": "https://github.com/imsandeshpandey/typelabs",
+    "date": "2024-07-08",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "typelabs"
+  },
+  {
+    "name": "ui-builder",
+    "description": "A React component editor that provides a no-code, visual way to create UIs, fully compatible with shadcn/ui and custom components.",
+    "link": "https://github.com/olliethedev/ui-builder",
+    "date": "2024-10-11",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "ui-builder"
+  },
+  {
+    "name": "ui-fonts",
+    "description": "Test and preview fonts in real-time for all your design needs. Choose the perfect typeface with ease.",
+    "link": "https://www.uifonts.app/",
+    "date": "2024-10-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "ui-fonts"
+  },
+  {
+    "name": "v0",
+    "description": "Vercel's generative UI system, built on shadcn/ui and TailwindCSS, allows effortless UI generation from text prompts and/or images.",
+    "link": "https://v0.dev/",
+    "date": "2024-03-27",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "v0"
+  },
+  {
+    "name": "vercel-status-tracker",
+    "description": "Track the status of all of your projects deployed via Vercel. Built with shadcn/ui and TailwindCSS.",
+    "link": "https://vercel-status-tracker.vercel.app",
+    "date": "2025-01-02",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "vercel-status-tracker"
+  },
+  {
+    "name": "wallhaven-desktop",
+    "description": "Wallhaven Wallpaper software desktop. Create a Wallhaven API-based client, a true wallpaper software.",
+    "link": "https://github.com/ErKeLost/wallhaven-desktop",
+    "date": "2024-10-23",
+    "category": "tools",
+    "categoryLabel": "Tools",
+    "folder": "wallhaven-desktop"
+  },
+  {
+    "name": "andrewsam.xyz",
+    "description": "A revamped version of the popular tailwind-nextjs-starter-blog using shadcn/ui, along with a resume section and experience timeline component.",
+    "link": "https://www.andrewsam.xyz/",
+    "date": "2024-09-18",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "andrewsam-xyz"
+  },
+  {
+    "name": "birobirobiro.dev",
+    "description": "A personal developer portfolio.",
+    "link": "https://birobirobiro.dev/",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "birobirobiro-dev"
+  },
+  {
+    "name": "bucharitesh.in",
+    "description": "A minimal portfolio with awesome craft's registry.",
+    "link": "https://bucharitesh.in",
+    "date": "2025-12-25",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "bucharitesh-in"
+  },
+  {
+    "name": "chanhdai.com",
+    "description": "A minimal portfolio, component registry, and blog.",
+    "link": "https://chanhdai.com",
+    "date": "2025-09-11",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "chanhdai-com"
+  },
+  {
+    "name": "devfolios",
+    "description": "Find best portfolio inspiration from all over the internet",
+    "link": "https://devfolios-one.vercel.app/",
+    "date": "2025-10-25",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "devfolios"
+  },
+  {
+    "name": "godly",
+    "description": "Astronomically good web design inspiration. Only the best of the best.",
+    "link": "https://godly.website/",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "godly"
+  },
+  {
+    "name": "hritu.art",
+    "description": "A clean, modern designer portfolio blending minimal aesthetics with functional UI and built-in email support via React Email.",
+    "link": "https://github.com/suraj-xd/design-portfolio",
+    "date": "2025-06-10",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "hritu-art"
+  },
+  {
+    "name": "kinhdev24",
+    "description": "Developer portfolio built with Next.js, shadcn/ui, Aceternity, and Magic UI",
+    "link": "https://kinhdev.id.vn/",
+    "date": "2025-07-08",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "kinhdev24"
+  },
+  {
+    "name": "list.swajp.me",
+    "description": "It has never been easier to find the right projects or designs by inspiring successful people.",
+    "link": "https://list.swajp.me",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "list-swajp-me"
+  },
+  {
+    "name": "mpakravan",
+    "description": "Portfolio website using React, Next.js, Tailwind CSS, ShadCN, and GSAP, modern design system.",
+    "link": "https://mpakravan.com/en",
+    "date": "2025-10-26",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "mpakravan"
+  },
+  {
+    "name": "nathans-ai",
+    "description": "An AI Chatbot acting as a portfolio, built with shadcn/ui components.",
+    "link": "https://chat.brodin.dev",
+    "date": "2024-11-21",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "nathans-ai"
+  },
+  {
+    "name": "ifte-13",
+    "description": "Portfolio made with Next.js, shadcn/ui (with magic ui ) and Email.js",
+    "link": "https://ifte-13.vercel.app/",
+    "date": "2025-10-25",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "ifte-13"
+  },
+  {
+    "name": "shubhporwal.me",
+    "description": "An eye-catching developer portfolio, built on NextJS, GSAP, Tailwind, and React.",
+    "link": "https://www.shubhporwal.me/",
+    "date": "2024-10-03",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "shubhporwal-me"
+  },
+  {
+    "name": "swajp.me",
+    "description": "A visually appealing portfolio and resource hub.",
+    "link": "https://swajp.me",
+    "date": "2024-07-29",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "swajp-me"
+  },
+  {
+    "name": "windows-11-clone",
+    "description": "A sleek Windows 11 clone built with React, Next.js, Tailwind CSS, ShadCN, and Framer-Motion, featuring smooth animations, draggable windows, and a modern design system.",
+    "link": "https://win11.oimmi.com/",
+    "date": "2025-02-20",
+    "category": "websites-and-portfolios-inspirations",
+    "categoryLabel": "Websites and Portfolios Inspirations",
+    "folder": "windows-11-clone"
+  },
+  {
+    "name": "anonypost",
+    "description": "Share your thoughts and experiences anonymously by posting on the platform. Crafted using t3-stack.",
+    "link": "https://github.com/avalynndev/anonypost",
+    "date": "2024-07-17",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "anonypost"
+  },
+  {
+    "name": "bolhadev",
+    "description": "The quickest path to learn English is speaking it regularly. Just find someone to chat with.",
+    "link": "https://bolhadev.chat/",
+    "date": "2024-06-04",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "bolhadev"
+  },
+  {
+    "name": "enjoytown",
+    "description": "A free anime, manga, movie, and TV-shows streaming platform. Built with Next.js, shadcn/ui.",
+    "link": "https://github.com/avalynndev/enjoytown",
+    "date": "2024-06-04",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "enjoytown"
+  },
+  {
+    "name": "grade-calculator",
+    "description": "A grade calculator/dashboard for students, aiming to provide a better overview of academic performance.",
+    "link": "https://grades.nstr.dev/",
+    "date": "2024-12-27",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "grade-calculator"
+  },
+  {
+    "name": "infinitunes",
+    "description": "A simple music player web app built using Next.js, shadcn/ui, Tailwind CSS, Drizzle ORM, and more.",
+    "link": "https://github.com/rajput-hemant/infinitunes",
+    "date": "2024-06-04",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "infinitunes"
+  },
+  {
+    "name": "kd",
+    "description": "Ad-free Kdrama streaming app. Built with Next.js, Drizzle ORM, NeonDB, and shadcn/ui.",
+    "link": "https://github.com/gneiru/kd",
+    "date": "2024-05-31",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "kd"
+  },
+  {
+    "name": "memergez",
+    "description": "Quickly generate memes by entering text or an avatar URL, with support for many meme commands.",
+    "link": "https://github.com/avalynndev/memergez",
+    "date": "2024-08-26",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "memergez"
+  },
+  {
+    "name": "midday-components",
+    "description": "A collection of open-source components based on Midday features.",
+    "link": "https://midday.ai/components",
+    "date": "2024-11-21",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "midday-components"
+  },
+  {
+    "name": "multiboard",
+    "description": "Minimal Kanban platform. Built with Better-Auth, Next.js, ZenStack, Prisma, and shadcn/ui.",
+    "link": "https://github.com/olliethedev/multiboard",
+    "date": "2025-07-15",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "multiboard"
+  },
+  {
+    "name": "plotwist",
+    "description": "Easy management and reviews of your movies, series, and animes using Next.js, Tailwind CSS, Supabase, and shadcn/ui.",
+    "link": "https://plotwist.app/en-US",
+    "date": "2024-05-31",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "plotwist"
+  },
+  {
+    "name": "veritas-kanban",
+    "description": "Self-hosted Kanban board with AI agent integration, time tracking, and 1,255 tests. Built with React 19, Vite 6, TanStack Query, dnd-kit, and shadcn/ui.",
+    "link": "https://github.com/BradGroux/veritas-kanban",
+    "date": "2026-01-29",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "veritas-kanban"
+  },
+  {
+    "name": "xeramail",
+    "description": "Temporary email address service built with Next.js and shadcn/ui, offering fast inbox access, modern UI, and better control over disposable emails.",
+    "link": "https://xeramail.com",
+    "date": "2026-01-01",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "xeramail"
+  },
+  {
+    "name": "youropinion.is",
+    "description": "Free survey platform which supports importing your exisitng shadcn/ui theme",
+    "link": "https://youropinion.is/news/202505-match-my-style",
+    "date": "2025-06-16",
+    "category": "platforms",
+    "categoryLabel": "Platforms",
+    "folder": "youropinion-is"
+  },
+  {
+    "name": "Angular",
+    "description": "Angular port of shadcn/ui.",
+    "link": "https://github.com/goetzrobin/spartan",
+    "date": "2024-03-21",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "angular"
+  },
+  {
+    "name": "Basecoat",
+    "description": "Vanilla HTML, CSS and JS port of shadcn/ui.",
+    "link": "https://basecoatui.com",
+    "date": "2025-07-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "basecoat"
+  },
+  {
+    "name": "Flutter",
+    "description": "Flutter port of shadcn/ui.",
+    "link": "https://github.com/nank1ro/shadcn-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "flutter"
+  },
+  {
+    "name": "Franken UI",
+    "description": "HTML-first, framework-agnostic, beautifully designed components that you can truly copy and paste into your site. Accessible. Customizable. Open Source.",
+    "link": "https://www.franken-ui.dev/",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "franken-ui"
+  },
+  {
+    "name": "JollyUI",
+    "description": "shadcn/ui compatible react aria components.",
+    "link": "https://github.com/jolbol1/jolly-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "jollyui"
+  },
+  {
+    "name": "Kotlin",
+    "description": "Kotlin port of shadcn/ui.",
+    "link": "https://github.com/dead8309/shadcn-kotlin",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "kotlin"
+  },
+  {
+    "name": "mkdocs-shadcn",
+    "description": "MkDocs port of shadcn/ui.",
+    "link": "https://github.com/asiffer/mkdocs-shadcn",
+    "date": "2025-07-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "mkdocs-shadcn"
+  },
+  {
+    "name": ".NET (ShadUI)",
+    "description": "Avalonia port of shadcn/ui. Based on SukiUI",
+    "link": "https://github.com/accntech/shad-ui/",
+    "date": "2024-02-22",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "-net-shadui-"
+  },
+  {
+    "name": "Phoenix Liveview",
+    "description": "Phoenix Liveview port of shadcn/ui.",
+    "link": "https://github.com/bluzky/salad_ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "phoenix-liveview"
+  },
+  {
+    "name": "React Native",
+    "description": "React Native port of shadcn/ui.",
+    "link": "https://github.com/Mobilecn-UI/nativecn-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "react-native"
+  },
+  {
+    "name": "React Native (recommended)",
+    "description": "React Native port of shadcn/ui (recommended).",
+    "link": "https://github.com/mrzachnugent/react-native-reusables",
+    "date": "2024-12-27",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "react-native-recommended-"
+  },
+  {
+    "name": "Ruby",
+    "description": "Ruby port of shadcn/ui.",
+    "link": "https://github.com/aviflombaum/shadcn-rails",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "ruby"
+  },
+  {
+    "name": "Solid",
+    "description": "Solid port of shadcn/ui.",
+    "link": "https://github.com/hngngn/shadcn-solid",
+    "date": "2024-03-28",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "solid"
+  },
+  {
+    "name": "Svelte",
+    "description": "Svelte port of shadcn/ui.",
+    "link": "https://github.com/huntabyte/shadcn-svelte",
+    "date": "2024-02-22",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "svelte"
+  },
+  {
+    "name": "Swift",
+    "description": "Swift port of shadcn/ui.",
+    "link": "https://github.com/Mobilecn-UI/swiftcn-ui",
+    "date": "2024-06-07",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "swift"
+  },
+  {
+    "name": "Sysinfocus simple/ui",
+    "description": "Razor component library for Blazor, inspired by shadcn/ui.",
+    "link": "https://sysinfocus.github.io/shadcn-inspired/",
+    "date": "2024-09-09",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "sysinfocus-simple-ui"
+  },
+  {
+    "name": "Vue",
+    "description": "Vue port of shadcn/ui.",
+    "link": "https://github.com/radix-vue/shadcn-vue",
+    "date": "2024-02-22",
+    "category": "ports",
+    "categoryLabel": "Ports",
+    "folder": "vue"
+  },
+  {
+    "name": "shadcn-storybook-registry",
+    "description": "Registry of stories for the shadcn components. Quickly get the atomic level components documented in Storybook.",
+    "link": "https://registry.lloydrichards.dev/",
+    "date": "2025-02-07",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-storybook-registry"
+  },
+  {
+    "name": "obra-shadcn-ui",
+    "description": "This file replicates all 51 shadcn/ui v4 components in a composable way as a reusable Figma library..",
+    "link": "https://www.figma.com/community/file/1514746685758799870/obra-shadcn-ui",
+    "date": "2025-06-16",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "obra-shadcn-ui"
+  },
+  {
+    "name": "shadcn-ui-components",
+    "description": "Every component recreated in Figma.",
+    "link": "https://www.figma.com/community/file/1342715840824755935/shadcn-ui-components",
+    "date": "2024-03-21",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-ui-components"
+  },
+  {
+    "name": "shadcn-ui-storybook (JheanAntunes)",
+    "description": "All shadcn/ui components registered in the storybook by JheanAntunes.",
+    "link": "https://65711ecf32bae758b457ae34-uryqbzvojc.chromatic.com/",
+    "date": "2024-12-27",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-ui-storybook-jheanantunes-"
+  },
+  {
+    "name": "shadcn-ui-storybook (fellipeutaka)",
+    "description": "All shadcn/ui components registered in the storybook by fellipeutaka.",
+    "link": "https://fellipeutaka-ui.vercel.app/?path=/docs/components-accordion--docs",
+    "date": "2024-12-27",
+    "category": "design-system",
+    "categoryLabel": "Design System",
+    "folder": "shadcn-ui-storybook-fellipeutaka-"
+  },
+  {
+    "name": "astro-erudite",
+    "description": "An opinionated, unstyled static blogging template—built with Astro, Tailwind, and shadcn/ui.",
+    "link": "https://github.com/jktrn/astro-erudite",
+    "date": "2025-10-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "astro-erudite"
+  },
+  {
+    "name": "atomic-crm",
+    "description": "Open-source React CRM built on top of Supabase [Demo site](https://marmelab.com/atomic-crm-demo)",
+    "link": "https://github.com/marmelab/atomic-crm",
+    "date": "2025-09-16",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "atomic-crm"
+  },
+  {
+    "name": "autoflow",
+    "description": "An open source GraphRAG (Knowledge Graph) built on top of TiDB Vector, LlamaIndex, and DSPy. [Demo site](https://tidb.ai).",
+    "link": "https://github.com/pingcap/autoflow",
+    "date": "2024-12-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "autoflow"
+  },
+  {
+    "name": "browser-extension-starter-plasmo-shadcn-trpc",
+    "description": "Browser extension starter kit featuring Plasmo, React, Shadcn, and tRPC.",
+    "link": "https://github.com/poweroutlet2/browser-extension-starter-plasmo-shadcn-trpc",
+    "date": "2024-10-29",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "browser-extension-starter-plasmo-shadcn-trpc"
+  },
+  {
+    "name": "chadnext",
+    "description": "Quick Starter Template includes Next.js 14 App Router, shadcn/ui, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization, and more.",
+    "link": "https://github.com/moinulmoin/chadnext",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "chadnext"
+  },
+  {
+    "name": "cloudflare-saas-stack",
+    "description": "An opinionated, batteries-included starter kit for quickly building and deploying SaaS products on Cloudflare.",
+    "link": "https://github.com/Dhravya/cloudflare-saas-stack",
+    "date": "2024-07-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "cloudflare-saas-stack"
+  },
+  {
+    "name": "create-tauri-core",
+    "description": "A project template for creating a Tauri app with Vite, React, and Tailwind CSS.",
+    "link": "https://github.com/mrlightful/create-tauri-core",
+    "date": "2024-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "create-tauri-core"
+  },
+  {
+    "name": "design-system-template",
+    "description": "Turborepo + TailwindCSS + Storybook + shadcn/ui.",
+    "link": "https://github.com/arevalolance/design-system-template",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "design-system-template"
+  },
+  {
+    "name": "devstarter",
+    "description": "Devstarter is a bold, one-page developer portfolio template with a distinctive cyberpunk aesthetic. Built with Next.js, shadcn/ui, and Tailwind CSS, it's designed to help developers showcase their work, skills, and personality in a way that stands out.",
+    "link": "https://github.com/zippystarter/template-devstarter",
+    "date": "2026-01-27",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "devstarter"
+  },
+  {
+    "name": "easy-ui",
+    "description": "50+ High Quality Open Source Website Templates built using NextJS + shadcn/ui + Tailwind CSS + Framer Motion and more.",
+    "link": "https://github.com/DarkInventor/easy-ui",
+    "date": "2024-08-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "easy-ui"
+  },
+  {
+    "name": "ecommerce-kit",
+    "description": "Next.js starter kit with the tools you need to quickly launch your e-commerce site.",
+    "link": "https://ecommercekit.dev",
+    "date": "2025-09-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "ecommerce-kit"
+  },
+  {
+    "name": "electron-shadcn",
+    "description": "Electron app template with shadcn/ui and a bunch of other libs and tools ready to use.",
+    "link": "https://github.com/LuanRoger/electron-shadcn",
+    "date": "2024-06-17",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "electron-shadcn"
+  },
+  {
+    "name": "full-stack-monorepo-starter",
+    "description": "Full stack monorepo template built using shadcn/ui + Fastify + graphql + vitejs + Docker and more.",
+    "link": "https://github.com/mnove/monorepo-starter-graphql",
+    "date": "2025-06-10",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "full-stack-monorepo-starter"
+  },
+  {
+    "name": "fumadocs-starter",
+    "description": "A fully-fledged Fumadocs starter template with built-in plugins, AI features, and everything you need to build your next docs site.",
+    "link": "https://github.com/techwithanirudh/fumadocs-starter",
+    "date": "2025-11-20",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "fumadocs-starter"
+  },
+  {
+    "name": "horizon-ai-nextjs-shadcn-boilerplate",
+    "description": "Premium AI NextJS & shadcn/ui Boilerplate + Stripe + Supabase + OAuth.",
+    "link": "https://horizon-ui.com/boilerplate-shadcn",
+    "date": "2024-05-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "horizon-ai-nextjs-shadcn-boilerplate"
+  },
+  {
+    "name": "kirimase",
+    "description": "A template and boilerplate for quickly starting your next project with shadcn/ui, Tailwind CSS, and Next.js.",
+    "link": "https://kirimase.dev/",
+    "date": "2024-06-11",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "kirimase"
+  },
+  {
+    "name": "magicui-startup-templates",
+    "description": "Magic UI Startup template built using shadcn/ui + TailwindCSS + Framer Motion.",
+    "link": "https://magicui.design/docs/templates/startup",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "magicui-startup-templates"
+  },
+  {
+    "name": "next-shadcn-admin-dashboard",
+    "description": "Modern Admin Dashboard Template built with Shadcn UI and Next.js 15",
+    "link": "https://github.com/arhamkhnz/next-shadcn-admin-dashboard",
+    "date": "2025-10-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-shadcn-admin-dashboard"
+  },
+  {
+    "name": "nextMotion",
+    "description": "Webdev portfolio template with Nodemailer integrated for easy contact form setup. Uses shadcn/ui + TailwindCSS + Framer Motion.",
+    "link": "https://github.com/yoyocharlie/nextMotion",
+    "date": "2024-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "nextmotion"
+  },
+  {
+    "name": "next-js-boilerplate",
+    "description": "Quickly set up a Next.js project with TypeScript, NextAuth.js, PostgreSQL (Prisma), Sentry, Tailwind CSS v4, shadcn/ui, Zod, Zustand, nuqs, ESLint, Husky, and Prettier. [Demo site](https://next-js-boilerplate-sage-nine.vercel.app/).",
+    "link": "https://github.com/AbhishekSharma55/next-js-boilerplate",
+    "date": "2025-09-08",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-js-boilerplate"
+  },
+  {
+    "name": "next-shadcn-dashboard-starter",
+    "description": "Admin Dashboard Starter with Nextjs 14 and shadcn/ui.",
+    "link": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-shadcn-dashboard-starter"
+  },
+  {
+    "name": "next-starter",
+    "description": "A Next.js starter template packed with features like TypeScript, TailwindCSS, Next-auth, Eslint, Stripe, testing tools, and more. Jumpstart your project with efficiency and style.",
+    "link": "https://github.com/Skolaczk/next-starter",
+    "date": "2024-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-starter"
+  },
+  {
+    "name": "nextjs-mdx-blog",
+    "description": "Starter template built with Contentlayer, MDX, shadcn/ui, and Tailwind CSS.",
+    "link": "https://github.com/ChangoMan/nextjs-mdx-blog",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "nextjs-mdx-blog"
+  },
+  {
+    "name": "next-js-views-template",
+    "description": "An open-source collection of reusable view components like Calendar, Table, etc., built with Next.js and ShadCN. Easily copy and paste these pre-built UI elements into your project for fast, responsive, and customizable layouts.",
+    "link": "https://next-js-views-template.vercel.app",
+    "date": "2024-11-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-js-views-template"
+  },
+  {
+    "name": "next-wp",
+    "description": "Headless Wordpress Starter built with the NextJS App Router and React Server Components.",
+    "link": "https://github.com/9d8dev/next-wp",
+    "date": "2024-11-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "next-wp"
+  },
+  {
+    "name": "onyx",
+    "description": "Full stack, batteries-included MVP Template with NextJS 14, Supabase SSR Auth & Postgres DB with CRUD operations, RBAC, Tanstack React Query, Zod Validation, MDX components, Resend, and more.",
+    "link": "https://github.com/rmourey26/onyx",
+    "date": "2024-08-13",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "onyx"
+  },
+  {
+    "name": "opendocs",
+    "description": "Beautifully designed template that you can use for your projects for free. Accessible. Customizable. Open Source with i18n support.",
+    "link": "https://opendocs.daltonmenezes.com/",
+    "date": "2024-07-29",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "opendocs"
+  },
+  {
+    "name": "react-starter-kit",
+    "description": "An opinionated, full-stack boilerplate for building modern web apps on the edge. Features Bun, React 19, tRPC, Drizzle ORM, and Cloudflare Workers.",
+    "link": "https://github.com/kriasoft/react-starter-kit",
+    "date": "2025-09-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "react-starter-kit"
+  },
+  {
+    "name": "react-vite-starter",
+    "description": "React starter powered with Vite + Redux Toolkit + RTKQuery + React Router + shadcn UI and many more.",
+    "link": "https://github.com/tejachundru/react-vite-starter",
+    "date": "2024-12-02",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "react-vite-starter"
+  },
+  {
+    "name": "shadcn-admin",
+    "description": "A admin dashboard template for Next.js, React, Vite and Vue.js, built with Tailwind CSS.",
+    "link": "https://shadcnadmin.com",
+    "date": "2025-12-12",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-admin"
+  },
+  {
+    "name": "shadcn-landing-page",
+    "description": "Landing page template using shadcn/ui, React, TypeScript, and Tailwind CSS.",
+    "link": "https://github.com/leoMirandaa/shadcn-landing-page",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-landing-page"
+  },
+  {
+    "name": "shadcn-landing-page (Vue)",
+    "description": "Project conversion [shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) to Next.js - Landing page template using Nestjs, shadcn/ui, TypeScript, and Tailwind CSS.",
+    "link": "https://github.com/nobruf/shadcn-landing-page",
+    "date": "2024-12-27",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-landing-page-vue-"
+  },
+  {
+    "name": "shadcn-nextjs-free-boilerplate",
+    "description": "Free & Open-source NextJS Boilerplate + ChatGPT API Dashboard Template.",
+    "link": "https://github.com/horizon-ui/shadcn-nextjs-boilerplate",
+    "date": "2024-05-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-nextjs-free-boilerplate"
+  },
+  {
+    "name": "shadcn-nextjs-dashboard",
+    "description": "Admin Dashboard UI built with Shadcn and NextJS. Free and Open-source.",
+    "link": "https://github.com/NaveenDA/shadcn-nextjs-dashboard",
+    "date": "2025-06-22",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-nextjs-dashboard"
+  },
+  {
+    "name": "shadcn-portfolio",
+    "description": "A portfolio template, which uses shadcn-ui and Next.JS.",
+    "link": "https://github.com/techwithanirudh/shadcn-portfolio",
+    "date": "2025-11-20",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-portfolio"
+  },
+  {
+    "name": "shadcn-registry-template",
+    "description": "Template repository for building a custom component registry for shadcn/ui.",
+    "link": "https://github.com/vantezzen/shadcn-registry-template",
+    "date": "2024-09-05",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-registry-template"
+  },
+  {
+    "name": "shadcn-saas-landing",
+    "description": "A full-fledged SaaS Landing template built using Next.JS, shadcn/ui, and fumadocs.",
+    "link": "https://github.com/techwithanirudh/shadcn-saas-landing",
+    "date": "2025-11-20",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-saas-landing"
+  },
+  {
+    "name": "shadcn-ui-dashboard",
+    "description": "Multipurpose and powerful admin dashboard template compatible with shadcn/ui.",
+    "link": "https://shadcnuidashboard.com",
+    "date": "2025-09-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-ui-dashboard"
+  },
+  {
+    "name": "shadcn-vue-landing-page",
+    "description": "Landing page template using Vue, shadcn-vue, TypeScript, and Tailwind CSS.",
+    "link": "https://github.com/leoMirandaa/shadcn-vue-landing-page",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-vue-landing-page"
+  },
+  {
+    "name": "shadcn-next-workflows",
+    "description": "Interactive workflow builder using React Flows, Next.js, and Shadcn/ui. Create, connect, and validate custom nodes easily.",
+    "link": "https://github.com/nobruf/shadcn-next-workflows",
+    "date": "2024-10-29",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "shadcn-next-workflows"
+  },
+  {
+    "name": "supa-next-shad-auth",
+    "description": "A fully responsive, fully type-safe, secure server actions, user-friendly customizable UI with best practices. Tech used: NextJS + Supabase + TypeScript + Server Actions + Zod + shadcn/ui.",
+    "link": "https://github.com/Sahil-Sharma-23/supa-next-shad-auth",
+    "date": "2024-07-02",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "supa-next-shad-auth"
+  },
+  {
+    "name": "sveltekit-shadcn-starter-kit",
+    "description": "Production ready open-source generic app template featuring database abstraction (Drizzle & Postgres), server utilities, tests, authentication (better-auth), i18n + RTL/LTR support, mdsvex, predefined pages and content (policies, legal, etc.), App Shell component, base and custom components built with shadcn/ui, Cookies management (compliance), SEO managemnt support, CLI tooling and more. [Demo](https://ssv5.templates.guylahav.com)",
+    "link": "https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5",
+    "date": "2025-09-23",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "sveltekit-shadcn-starter-kit"
+  },
+  {
+    "name": "t3-app-template",
+    "description": "Admin template for T3 Stack and shadcn/ui.",
+    "link": "https://github.com/gaofubin/t3-app-template",
+    "date": "2024-04-25",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "t3-app-template"
+  },
+  {
+    "name": "tailwind-admin",
+    "description": "Open Source Shadcn Dashboard Template Built On React and Tailwind CSS",
+    "link": "https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template",
+    "date": "2026-01-03",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "tailwind-admin"
+  },
+  {
+    "name": "taxonomy",
+    "description": "An open-source application built using the new router, server components, and everything new in Next.js.",
+    "link": "https://github.com/shadcn/taxonomy",
+    "date": "2024-03-21",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "taxonomy"
+  },
+  {
+    "name": "template-next",
+    "description": "A clean Next.js template with TypeScript, TailwindCSS, Shadcn/ui, and Prettier.",
+    "link": "https://template-next-official.vercel.app/",
+    "date": "2024-09-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "template-next"
+  },
+  {
+    "name": "turborepo-nextjs-wxt-shadcn-boilerplate",
+    "description": "Turborepo boilerplate featuring web and web-extension apps with shadcn/ui for shared ui components and unified Typescript, ESLint, Tailwind CSS, and Prettier configs.",
+    "link": "https://github.com/Aniket-508/turborepo-nextjs-wxt-shadcn-boilerplate",
+    "date": "2025-04-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "turborepo-nextjs-wxt-shadcn-boilerplate"
+  },
+  {
+    "name": "turborepo-shadcn-ui-tailwindcss",
+    "description": "Turborepo starter with shadcn/ui & TailwindCSS pre-configured for shared UI components.",
+    "link": "https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss",
+    "date": "2024-06-06",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "turborepo-shadcn-ui-tailwindcss"
+  },
+  {
+    "name": "turborepo-launchpad",
+    "description": "A comprehensive monorepo boilerplate for shadcn projects using Turbo. It features a highly scalable setup ideal for developing complex applications with shared components and utilities.",
+    "link": "https://github.com/JadRizk/turborepo-launchpad",
+    "date": "2024-06-10",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "turborepo-launchpad"
+  },
+  {
+    "name": "waitly",
+    "description": "A simple and useful waitlist Next.js and Shadcn UI template.",
+    "link": "https://shadcnuikit.com/template/waitly-free-waitlist-template",
+    "date": "2025-12-19",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "waitly"
+  },
+  {
+    "name": "wordpress-plugin-boilerplate",
+    "description": "WordPress Plugin Boilerplate utilizing modern web technologies and tools such as React, TypeScript, SASS, TailwindCSS, Shadcn UI, Vite, Grunt.js, Storybook, HMR, and more.",
+    "link": "https://github.com/prappo/wordpress-plugin-boilerplate",
+    "date": "2024-09-24",
+    "category": "boilerplates-templates",
+    "categoryLabel": "Boilerplates / Templates",
+    "folder": "wordpress-plugin-boilerplate"
+  }
+]

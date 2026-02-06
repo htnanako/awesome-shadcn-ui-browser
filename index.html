@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shadcn/ui 组件浏览器</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>shadcn/ui 组件浏览器</h1>
+            <p>探索 388+ 个精选组件与生态资源，专注深沉内敛的浏览体验</p>
+        </div>
+
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <h3 id="totalCount">388</h3>
+                <p>总组件数</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="categoryCount">11</h3>
+                <p>分类数</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="githubCount">207</h3>
+                <p>GitHub 开源</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="filteredCount">388</h3>
+                <p>当前显示</p>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="🔍 搜索组件名称、描述或分类..."
+                >
+            </div>
+            <div class="filters" id="filters">
+                <button class="filter-btn active" data-category="all">全部</button>
+            </div>
+        </div>
+
+        <div class="components-grid" id="componentsGrid">
+            <div class="loading">正在加载组件...</div>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div>
+                    <h2 id="modalTitle"></h2>
+                    <span class="component-category" id="modalCategory"></span>
+                </div>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <div class="status-bar" id="statusBar">
+        <div class="status-main" id="statusMain"></div>
+        <div class="status-actions" id="statusActions"></div>
+    </div>
+    <div class="progress-toast" id="progressToast">
+        <div class="progress-title" id="progressTitle">准备下载...</div>
+        <div class="progress-track">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+    </div>
+
+    <div class="confirm-backdrop" id="confirmDialog">
+        <div class="confirm-dialog">
+            <div class="confirm-title" id="confirmTitle">确认操作</div>
+            <div class="confirm-message" id="confirmMessage"></div>
+            <div class="confirm-actions">
+                <button class="confirm-btn confirm-cancel" id="confirmCancel">取消</button>
+                <button class="confirm-btn confirm-ok" id="confirmOk">确认</button>
+            </div>
+        </div>
+    </div>
+
+    <footer class="site-footer">
+        <p>© <span id="currentYear"></span> htnanako</p>
+    </footer>
+
+    <script>
+        let allComponents = [];
+        let currentCategory = 'all';
+        let downloadProgressTimer = null;
+        let downloadedIndex = {};
+
+        const categoryZhMap = {
+            'libs-and-components': '组件库与组件',
+            'registries': '组件注册表',
+            'plugins-and-extensions': '插件与扩展',
+            'colors-and-customizations': '颜色与主题定制',
+            'animations': '动画',
+            'tools': '工具',
+            'websites-and-portfolios-inspirations': '网站与作品集灵感',
+            'platforms': '平台',
+            'ports': '跨框架移植',
+            'design-system': '设计系统',
+            'boilerplates---templates': '脚手架与模板'
+        };
+
+        function toZhCategory(comp) {
+            return categoryZhMap[comp.category] || comp.categoryLabel || comp.category;
+        }
+
+        function toZhDescription(desc) {
+            if (!desc) return '暂无描述';
+            // 已是中文时直接返回，避免重复改写
+            if (/[\u4e00-\u9fa5]/.test(desc)) return desc;
+
+            const text = desc.toLowerCase();
+            const tags = [];
+            if (text.includes('open source')) tags.push('开源');
+            if (text.includes('component')) tags.push('组件');
+            if (text.includes('library')) tags.push('组件库');
+            if (text.includes('template') || text.includes('boilerplate') || text.includes('starter')) tags.push('模板');
+            if (text.includes('admin') || text.includes('dashboard')) tags.push('管理后台');
+            if (text.includes('form')) tags.push('表单');
+            if (text.includes('table')) tags.push('表格');
+            if (text.includes('calendar') || text.includes('date') || text.includes('time')) tags.push('日期时间');
+            if (text.includes('animation') || text.includes('motion')) tags.push('动画');
+            if (text.includes('tool') || text.includes('builder') || text.includes('generator')) tags.push('工具');
+            if (text.includes('portfolio') || text.includes('website')) tags.push('网站展示');
+
+            const uniqueTags = [...new Set(tags)];
+            if (uniqueTags.length === 0) {
+                return '这是一个与 shadcn/ui 生态相关的资源项目。';
+            }
+            return `这是一个${uniqueTags.join('、')}相关项目。`;
+        }
+
+        function isDownloaded(comp) {
+            return Boolean(downloadedIndex[comp.name] || downloadedIndex[comp.link]);
+        }
+
+        // 加载组件数据
+        async function loadComponents() {
+            try {
+                const dataUrl = `${window.location.origin}/components-data.json`;
+                const response = await fetch(dataUrl);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status} ${response.statusText} (${dataUrl})`);
+                }
+                allComponents = await response.json();
+                await loadDownloadedStatus();
+
+                updateStats();
+                renderFilters();
+                renderComponents(allComponents);
+            } catch (error) {
+                console.error('加载组件失败:', error);
+                document.getElementById('componentsGrid').innerHTML =
+                    `<div class="no-results">加载失败：${escapeHtml(error.message || String(error))}</div>`;
+            }
+        }
+
+        async function loadDownloadedStatus() {
+            try {
+                const response = await fetch('/api/downloaded');
+                if (!response.ok) return;
+                const result = await response.json();
+                if (!result.ok || !Array.isArray(result.items)) return;
+                downloadedIndex = {};
+                result.items.forEach((item) => {
+                    if (item.name) downloadedIndex[item.name] = item;
+                    if (item.link) downloadedIndex[item.link] = item;
+                });
+            } catch (error) {
+                console.warn('读取本地下载状态失败:', error);
+            }
+        }
+
+        // 更新统计信息
+        function updateStats() {
+            const githubCount = allComponents.filter(c => c.link.includes('github.com')).length;
+            const categories = new Set(allComponents.map(c => c.category)).size;
+
+            document.getElementById('totalCount').textContent = allComponents.length;
+            document.getElementById('categoryCount').textContent = categories;
+            document.getElementById('githubCount').textContent = githubCount;
+        }
+
+        // 渲染分类过滤器
+        function renderFilters() {
+            const categories = {};
+            allComponents.forEach(comp => {
+                if (!categories[comp.category]) {
+                    categories[comp.category] = {
+                        count: 0,
+                        label: toZhCategory(comp)
+                    };
+                }
+                categories[comp.category].count += 1;
+            });
+
+            const filtersHtml = Object.entries(categories)
+                .sort((a, b) => b[1].count - a[1].count)
+                .map(([cat, meta]) =>
+                    `<button class="filter-btn" data-category="${cat}">${meta.label} (${meta.count})</button>`
+                )
+                .join('');
+
+            document.getElementById('filters').innerHTML =
+                '<button class="filter-btn active" data-category="all">全部 (' + allComponents.length + ')</button>' +
+                filtersHtml;
+
+            // 添加点击事件
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    currentCategory = this.dataset.category;
+                    filterComponents();
+                });
+            });
+        }
+
+        // 渲染组件列表
+        function renderComponents(components) {
+            if (components.length === 0) {
+                document.getElementById('componentsGrid').innerHTML =
+                    '<div class="no-results">😔 没有找到匹配的组件</div>';
+                return;
+            }
+
+            const html = components.map(comp => `
+                <div class="component-card" onclick="showModal('${encodeURIComponent(comp.name)}')">
+                    <div class="component-header">
+                        <div>
+                            <div class="component-name">${comp.name}</div>
+                            <span class="component-category">${toZhCategory(comp)}</span>
+                            ${comp.link.includes('github.com') ? '<span class="github-badge">GitHub</span>' : ''}
+                            ${isDownloaded(comp) ? '<span class="downloaded-badge">已下载</span>' : ''}
+                        </div>
+                    </div>
+                    <div class="component-description">${toZhDescription(comp.description)}</div>
+                    <div class="component-footer">
+                        <span class="component-date">📅 ${comp.date || 'N/A'}</span>
+                        <div class="component-actions">
+                            ${comp.link.includes('github.com') ? `
+                            <button class="component-download" onclick="downloadComponent('${encodeURIComponent(comp.name)}', event)">
+                                ${isDownloaded(comp) ? '重新下载' : '下载到本地'}
+                            </button>
+                            ` : ''}
+                            <a href="${comp.link}" target="_blank" class="component-link" onclick="event.stopPropagation()">
+                                访问 →
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+
+            document.getElementById('componentsGrid').innerHTML = html;
+            document.getElementById('filteredCount').textContent = components.length;
+        }
+
+        function renderComponentsWithTransition(components) {
+            const grid = document.getElementById('componentsGrid');
+            clearTimeout(renderComponentsWithTransition.timer);
+            grid.classList.add('is-switching');
+            renderComponentsWithTransition.timer = setTimeout(() => {
+                renderComponents(components);
+                requestAnimationFrame(() => {
+                    grid.classList.remove('is-switching');
+                });
+            }, 120);
+        }
+
+        // 过滤组件
+        function filterComponents() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+
+            let filtered = allComponents;
+
+            // 按分类过滤
+            if (currentCategory !== 'all') {
+                filtered = filtered.filter(c => c.category === currentCategory);
+            }
+
+            // 按搜索词过滤
+            if (searchTerm) {
+                filtered = filtered.filter(c =>
+                    c.name.toLowerCase().includes(searchTerm) ||
+                    (c.description && c.description.toLowerCase().includes(searchTerm)) ||
+                    c.category.toLowerCase().includes(searchTerm) ||
+                    (c.categoryLabel && c.categoryLabel.toLowerCase().includes(searchTerm)) ||
+                    toZhCategory(c).toLowerCase().includes(searchTerm)
+                );
+            }
+
+            renderComponentsWithTransition(filtered);
+        }
+
+        // 显示详情模态框
+        function showModal(componentNameEncoded) {
+            const componentName = decodeURIComponent(componentNameEncoded);
+            const component = allComponents.find(c => c.name === componentName);
+            if (!component) return;
+
+            document.getElementById('modalTitle').textContent = component.name;
+            document.getElementById('modalCategory').textContent = toZhCategory(component);
+
+            const isGithub = component.link.includes('github.com');
+            const githubInfo = isGithub ? parseGithubUrl(component.link) : null;
+
+            document.getElementById('modalBody').innerHTML = `
+                <p class="modal-text">
+                    ${toZhDescription(component.description)}
+                </p>
+
+                <div class="modal-section">
+                    <span class="modal-label">🔗 链接:</span><br>
+                    <a href="${component.link}" target="_blank" class="modal-value-link">
+                        ${component.link}
+                    </a>
+                </div>
+
+                ${component.date ? `
+                <div class="modal-section">
+                    <span class="modal-label">📅 添加日期:</span> ${component.date}
+                </div>
+                ` : ''}
+
+                ${isGithub ? `
+                <div class="modal-section">
+                    <span class="modal-label">📦 GitHub:</span> ${githubInfo.owner}/${githubInfo.repo}
+                </div>
+                ` : ''}
+
+                ${isDownloaded(component) ? `
+                <div class="modal-section">
+                    <span class="modal-label">✅ 本地状态:</span> 已下载
+                </div>
+                ` : ''}
+
+                <div class="modal-actions">
+                    ${isGithub ? `
+                    <button
+                        onclick="downloadComponent('${encodeURIComponent(component.name)}', event, true)"
+                        class="component-download"
+                    >
+                        下载到本地
+                    </button>
+                    ` : ''}
+                    <a href="${component.link}" target="_blank" class="modal-open-link">
+                        访问项目 →
+                    </a>
+                </div>
+            `;
+
+            document.getElementById('modal').classList.add('active');
+        }
+
+        // 关闭模态框
+        function closeModal() {
+            document.getElementById('modal').classList.remove('active');
+        }
+
+        function showStatus(message, isError = false, action = null) {
+            const bar = document.getElementById('statusBar');
+            const main = document.getElementById('statusMain');
+            const actions = document.getElementById('statusActions');
+            main.textContent = message;
+            actions.innerHTML = '';
+            bar.style.display = 'block';
+            bar.style.background = isError ? 'rgba(153, 27, 27, 0.92)' : 'rgba(11, 18, 27, 0.95)';
+
+            if (action && action.label && typeof action.onClick === 'function') {
+                const btn = document.createElement('button');
+                btn.className = 'status-action-btn';
+                btn.textContent = action.label;
+                btn.onclick = action.onClick;
+                actions.appendChild(btn);
+            }
+
+            clearTimeout(showStatus.timer);
+            showStatus.timer = setTimeout(() => {
+                bar.style.display = 'none';
+                actions.innerHTML = '';
+            }, action ? 10000 : 4000);
+        }
+
+        function showConfirmDialog({ title, message }) {
+            return new Promise((resolve) => {
+                const backdrop = document.getElementById('confirmDialog');
+                const titleEl = document.getElementById('confirmTitle');
+                const messageEl = document.getElementById('confirmMessage');
+                const okBtn = document.getElementById('confirmOk');
+                const cancelBtn = document.getElementById('confirmCancel');
+
+                const cleanup = (value) => {
+                    backdrop.classList.remove('active');
+                    okBtn.onclick = null;
+                    cancelBtn.onclick = null;
+                    backdrop.onclick = null;
+                    resolve(value);
+                };
+
+                titleEl.textContent = title || '确认操作';
+                messageEl.textContent = message || '';
+                backdrop.classList.add('active');
+                okBtn.onclick = () => cleanup(true);
+                cancelBtn.onclick = () => cleanup(false);
+                backdrop.onclick = (e) => {
+                    if (e.target === backdrop) cleanup(false);
+                };
+            });
+        }
+
+        async function openDirectory(path) {
+            try {
+                const response = await fetch('/api/open-directory', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ path })
+                });
+                const result = await response.json();
+                if (!response.ok || !result.ok) {
+                    showStatus(result.message || '打开目录失败', true);
+                    return;
+                }
+                showStatus('目录已打开');
+            } catch (error) {
+                showStatus(`打开目录失败: ${error.message}`, true);
+            }
+        }
+
+        function getDownloadFilename(response, fallbackName) {
+            const disposition = response.headers.get('content-disposition') || '';
+            const utf8Match = disposition.match(/filename\*=UTF-8''([^;]+)/i);
+            if (utf8Match && utf8Match[1]) {
+                return decodeURIComponent(utf8Match[1]);
+            }
+            const simpleMatch = disposition.match(/filename=\"?([^\";]+)\"?/i);
+            if (simpleMatch && simpleMatch[1]) {
+                return simpleMatch[1];
+            }
+            return fallbackName;
+        }
+
+        async function downloadComponent(componentNameEncoded, event, fromModal = false) {
+            if (event) {
+                event.stopPropagation();
+                event.preventDefault();
+            }
+
+            const componentName = decodeURIComponent(componentNameEncoded);
+            const component = allComponents.find(c => c.name === componentName);
+            if (!component) {
+                showStatus('组件不存在，无法下载', true);
+                return;
+            }
+
+            const confirmOk = await showConfirmDialog({
+                title: '确认下载',
+                message: `确认下载组件「${component.name}」到本地吗？`
+            });
+            if (!confirmOk) return;
+
+            showStatus(`正在下载 ${component.name} ...`);
+            startDownloadProgress(component.name);
+
+            try {
+                const response = await fetch('/api/download-zip', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        name: component.name,
+                        link: component.link
+                    })
+                });
+
+                if (!response.ok) {
+                    let message = '下载失败';
+                    const raw = await response.text();
+                    if (raw) {
+                        try {
+                            const result = JSON.parse(raw);
+                            message = result.message || message;
+                        } catch (_) {
+                            message = raw;
+                        }
+                    }
+                    stopDownloadProgress(false);
+                    showStatus(message, true);
+                    return;
+                }
+
+                const blob = await response.blob();
+                const filename = getDownloadFilename(response, `${component.name}.zip`);
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                URL.revokeObjectURL(url);
+
+                stopDownloadProgress(true);
+                showStatus('压缩包已生成，浏览器已开始下载');
+                if (fromModal) closeModal();
+            } catch (error) {
+                stopDownloadProgress(false);
+                showStatus(`下载失败: ${error.message}`, true);
+            }
+        }
+
+        function startDownloadProgress(name) {
+            const toast = document.getElementById('progressToast');
+            const title = document.getElementById('progressTitle');
+            const fill = document.getElementById('progressFill');
+
+            title.textContent = `正在下载 ${name}...`;
+            toast.style.display = 'block';
+            fill.style.width = '6%';
+
+            let progress = 6;
+            clearInterval(downloadProgressTimer);
+            downloadProgressTimer = setInterval(() => {
+                progress = Math.min(progress + (Math.random() * 8 + 2), 92);
+                fill.style.width = `${progress}%`;
+            }, 260);
+        }
+
+        function stopDownloadProgress(success) {
+            const toast = document.getElementById('progressToast');
+            const title = document.getElementById('progressTitle');
+            const fill = document.getElementById('progressFill');
+
+            clearInterval(downloadProgressTimer);
+            fill.style.width = success ? '100%' : '0%';
+            title.textContent = success ? '下载完成' : '下载失败';
+
+            setTimeout(() => {
+                toast.style.display = 'none';
+                fill.style.width = '0%';
+            }, success ? 800 : 500);
+        }
+
+        // 解析GitHub URL
+        function parseGithubUrl(url) {
+            const match = url.match(/github\.com\/([^\/]+)\/([^\/\?#]+)/);
+            if (match) {
+                return {
+                    owner: match[1],
+                    repo: match[2].replace('.git', '')
+                };
+            }
+            return null;
+        }
+
+        // HTML转义
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // 搜索输入事件
+        document.getElementById('searchInput').addEventListener('input', filterComponents);
+
+        // 点击模态框外部关闭
+        document.getElementById('modal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        // ESC键关闭模态框
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                const confirmDialog = document.getElementById('confirmDialog');
+                if (confirmDialog.classList.contains('active')) {
+                    document.getElementById('confirmCancel').click();
+                    return;
+                }
+                closeModal();
+            }
+        });
+
+        // 初始化
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+        loadComponents();
+    </script>
+</body>
+</html>

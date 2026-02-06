@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Downloaded components
+downloaded-components/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+.cache/
+
+# Environment
+.env
+.env.local
