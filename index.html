@@ -85,6 +85,25 @@
         </div>
     </div>
 
+    <div class="notice-backdrop" id="noticeDialog">
+        <div class="notice-dialog">
+            <h2 class="notice-title">使用说明与风险提示</h2>
+            <p class="notice-subtitle">继续访问前，请确认你已阅读并理解以下内容：</p>
+            <ul class="notice-list">
+                <li>本页面展示的项目与链接来源于网络公开信息收集与整理，不代表站点方对其真实性、完整性或持续可用性做担保。</li>
+                <li>站点仅提供索引与信息展示，不对第三方项目的代码质量、安全性、合规性、版权状态及潜在风险承担责任。</li>
+                <li>一键下载功能仅对 GitHub 仓库项目生效；非 GitHub 项目仅提供访问链接，请前往原页面自行查看。</li>
+                <li>下载或使用任何第三方项目代码前，请自行完成安全审查（依赖、许可证、恶意代码、敏感权限等）。</li>
+                <li>第三方链接跳转后的内容、服务条款与隐私政策由对应站点负责，请你自行判断并承担使用风险。</li>
+                <li>如用于生产环境，请务必进行独立测试、代码审计与备份策略配置，避免直接上线未验证代码。</li>
+            </ul>
+            <div class="notice-actions">
+                <button class="notice-btn notice-decline" id="noticeDecline">离开页面</button>
+                <button class="notice-btn notice-accept" id="noticeAccept">今天不再提醒，继续访问</button>
+            </div>
+        </div>
+    </div>
+
     <footer class="site-footer">
         <p>© <span id="currentYear"></span> htnanako</p>
     </footer>
@@ -366,6 +385,41 @@
             document.getElementById('modal').classList.remove('active');
         }
 
+        function getLocalDateKey() {
+            const now = new Date();
+            const y = now.getFullYear();
+            const m = String(now.getMonth() + 1).padStart(2, '0');
+            const d = String(now.getDate()).padStart(2, '0');
+            return `${y}-${m}-${d}`;
+        }
+
+        function setupNoticeDialog() {
+            const dialog = document.getElementById('noticeDialog');
+            const acceptBtn = document.getElementById('noticeAccept');
+            const declineBtn = document.getElementById('noticeDecline');
+            const today = getLocalDateKey();
+            const acceptedDate = localStorage.getItem('noticeAcceptedDate');
+
+            if (acceptedDate === today) {
+                dialog.classList.remove('active');
+                document.body.classList.remove('is-locked');
+                return;
+            }
+
+            dialog.classList.add('active');
+            document.body.classList.add('is-locked');
+
+            acceptBtn.addEventListener('click', () => {
+                localStorage.setItem('noticeAcceptedDate', today);
+                dialog.classList.remove('active');
+                document.body.classList.remove('is-locked');
+            });
+
+            declineBtn.addEventListener('click', () => {
+                window.location.href = 'about:blank';
+            });
+        }
+
         function showStatus(message, isError = false, action = null) {
             const bar = document.getElementById('statusBar');
             const main = document.getElementById('statusMain');
@@ -573,6 +627,7 @@
 
         // 初始化
         document.getElementById('currentYear').textContent = new Date().getFullYear();
+        setupNoticeDialog();
         loadComponents();
     </script>
 </body>
