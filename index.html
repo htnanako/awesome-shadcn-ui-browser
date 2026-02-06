@@ -417,24 +417,6 @@
             });
         }
 
-        async function openDirectory(path) {
-            try {
-                const response = await fetch('/api/open-directory', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ path })
-                });
-                const result = await response.json();
-                if (!response.ok || !result.ok) {
-                    showStatus(result.message || '打开目录失败', true);
-                    return;
-                }
-                showStatus('目录已打开');
-            } catch (error) {
-                showStatus(`打开目录失败: ${error.message}`, true);
-            }
-        }
-
         function getDownloadFilename(response, fallbackName) {
             const disposition = response.headers.get('content-disposition') || '';
             const utf8Match = disposition.match(/filename\*=UTF-8''([^;]+)/i);
