@@ -291,6 +291,8 @@
 | smooth-ui | Highly customizable, production-ready UI blocks for building beautiful websites and apps that look and feel the way you mean it. | [Link](https://smoothui.dev/) | 2025-10-15 |
 | tailwindcss-motion | A new simple syntax animation library. Batteries included. Infinitely configurable. | [Link](https://rombo.co/tailwind/) | 2024-11-13 |
 
+| Payload Components | MIT registry of 67 typed Payload CMS blocks for Payload v3 + Next.js 15/16, installed as owned source with automated wiring. | [Link](https://www.payload-components.xyz/) | 2026-07-29 |
+
 ## Tools
 
 | Name | Description | Link | Date |
